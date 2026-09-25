@@ -1,0 +1,854 @@
+{
+"page": 13,
+"dpi": 300,
+"tokens": [
+{
+"text": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. VE BAĞLI ORTAKLIKLARI",
+"conf": 0.591511830022202,
+"x0": 283.0,
+"y0": 96.0,
+"x1": 1999.0,
+"y1": 173.0
+},
+{
+"text": "BAĞIMSIZ DENETİMDEN GEÇMİŞ 31 ARALIK 2012 TARİHİ İTİBARİYLE",
+"conf": 0.7492365928750849,
+"x0": 284.0,
+"y0": 203.0,
+"x1": 1788.0,
+"y1": 275.0
+},
+{
+"text": "KONSOLIDE FINANSAL TABLOLARA İLİŞKİN AÇIKLAYICI DİPNOTLAR",
+"conf": 0.7349422368332689,
+"x0": 284.0,
+"y0": 259.0,
+"x1": 1775.0,
+"y1": 332.0
+},
+{
+"text": "'Tüm tutarlar Türk Lirası (TL) olarak gösterilmistir)",
+"conf": 0.6817380659020187,
+"x0": 297.0,
+"y0": 354.0,
+"x1": 996.0,
+"y1": 404.0
+},
+{
+"text": "2.",
+"conf": 0.9763488633176228,
+"x0": 169.0,
+"y0": 498.0,
+"x1": 211.0,
+"y1": 543.0
+},
+{
+"text": "FİNANSAL TABLOLARIN SUNUMUNA İLİŞKİN ESASLAR",
+"conf": 0.8705287156982461,
+"x0": 282.0,
+"y0": 491.0,
+"x1": 1537.0,
+"y1": 558.0
+},
+{
+"text": "2.1",
+"conf": 0.9674921534647635,
+"x0": 169.0,
+"y0": 605.0,
+"x1": 236.0,
+"y1": 650.0
+},
+{
+"text": "Sunuma",
+"conf": 0.9999504080621809,
+"x0": 286.0,
+"y0": 604.0,
+"x1": 459.0,
+"y1": 653.0
+},
+{
+"text": "İlişkin Temel Esaslar",
+"conf": 0.8319582921468557,
+"x0": 450.0,
+"y0": 592.0,
+"x1": 888.0,
+"y1": 669.0
+},
+{
+"text": "Einansal Tabloların Hazırlanış Temelleri ve Belirli Muhasebe Politikaları",
+"conf": 0.4165845228166136,
+"x0": 282.0,
+"y0": 694.0,
+"x1": 1640.0,
+"y1": 756.0
+},
+{
+"text": "defterlerini",
+"conf": 0.737693926860405,
+"x0": 527.0,
+"y0": 788.0,
+"x1": 744.0,
+"y1": 837.0
+},
+{
+"text": "ve",
+"conf": 0.9979964214523928,
+"x0": 762.0,
+"y0": 797.0,
+"x1": 814.0,
+"y1": 836.0
+},
+{
+"text": "kanuni",
+"conf": 0.9997564129473226,
+"x0": 829.0,
+"y0": 791.0,
+"x1": 969.0,
+"y1": 840.0
+},
+{
+"text": "finansal",
+"conf": 0.965452051497153,
+"x0": 983.0,
+"y0": 791.0,
+"x1": 1139.0,
+"y1": 840.0
+},
+{
+"text": "tablolarını",
+"conf": 0.8560973794550566,
+"x0": 1153.0,
+"y0": 793.0,
+"x1": 1353.0,
+"y1": 843.0
+},
+{
+"text": "Türk",
+"conf": 0.9998784065246582,
+"x0": 1367.0,
+"y0": 793.0,
+"x1": 1471.0,
+"y1": 843.0
+},
+{
+"text": "Ticaret",
+"conf": 0.9999804001967912,
+"x0": 1485.0,
+"y0": 793.0,
+"x1": 1627.0,
+"y1": 843.0
+},
+{
+"text": "Kanunu   (\"TTK?)",
+"conf": 0.7085318679502934,
+"x0": 1640.0,
+"y0": 791.0,
+"x1": 1985.0,
+"y1": 852.0
+},
+{
+"text": "ve   vergi",
+"conf": 0.5868963775453074,
+"x0": 1997.0,
+"y0": 799.0,
+"x1": 2175.0,
+"y1": 854.0
+},
+{
+"text": "mevzuatınca belirlenen muhasebe ilkelerine uygun olarak tutmakta ve hazırlamaktadır.",
+"conf": 0.4890926066466751,
+"x0": 282.0,
+"y0": 839.0,
+"x1": 1875.0,
+"y1": 904.0
+},
+{
+"text": "Sermaye   Piyasası",
+"conf": 0.7958717370547955,
+"x0": 282.0,
+"y0": 927.0,
+"x1": 644.0,
+"y1": 999.0
+},
+{
+"text": "Kurumu   ( SPK?) ,",
+"conf": 0.45245490632663454,
+"x0": 655.0,
+"y0": 928.0,
+"x1": 1024.0,
+"y1": 993.0
+},
+{
+"text": "Seri:",
+"conf": 0.9999778754848876,
+"x0": 1038.0,
+"y0": 936.0,
+"x1": 1136.0,
+"y1": 985.0
+},
+{
+"text": "KI,",
+"conf": 0.8974601626396179,
+"x0": 1155.0,
+"y0": 936.0,
+"x1": 1227.0,
+"y1": 991.0
+},
+{
+"text": "No:",
+"conf": 0.9999421867909549,
+"x0": 1243.0,
+"y0": 936.0,
+"x1": 1325.0,
+"y1": 985.0
+},
+{
+"text": "29",
+"conf": 0.9999993256504904,
+"x0": 1342.0,
+"y0": 936.0,
+"x1": 1402.0,
+"y1": 985.0
+},
+{
+"text": "sayılı   <Sermaye   Piyasasında",
+"conf": 0.5844660358190449,
+"x0": 1420.0,
+"y0": 934.0,
+"x1": 1990.0,
+"y1": 997.0
+},
+{
+"text": "Finansal",
+"conf": 0.8056222128812469,
+"x0": 2006.0,
+"y0": 942.0,
+"x1": 2175.0,
+"y1": 991.0
+},
+{
+"text": "Raporlamaya   İlişkin  Esaslar   Tebliğ'  ('Seri:",
+"conf": 0.5113186937897148,
+"x0": 281.0,
+"y0": 978.0,
+"x1": 1156.0,
+"y1": 1046.0
+},
+{
+"text": "KI, No:29 sayılı  Tebliğ)   ile işletmeler   tarafindan",
+"conf": 0.501221208037217,
+"x0": 1168.0,
+"y0": 987.0,
+"x1": 2174.0,
+"y1": 1051.0
+},
+{
+"text": "düzenlenecek finansal raporlar ile bunların hazırlanması ve ilgililere sunulmasına ilişkin ilke; usul ve",
+"conf": 0.7344614027765938,
+"x0": 282.0,
+"y0": 1036.0,
+"x1": 2174.0,
+"y1": 1103.0
+},
+{
+"text": "esasları belirlemektedir. Bu Tebliğ, 1 Ocak 2008 tarihinden sonra başlayan hesap dönemlerine ait ilk",
+"conf": 0.5414321910390434,
+"x0": 280.0,
+"y0": 1087.0,
+"x1": 2176.0,
+"y1": 1155.0
+},
+{
+"text": "ara finansal tablolardan geçerli olmak üzere yürürlüğe girmiştir ve bu Tebliğ ile birlikte Seri: KI, No:",
+"conf": 0.5976863124351491,
+"x0": 282.0,
+"y0": 1141.0,
+"x1": 2174.0,
+"y1": 1208.0
+},
+{
+"text": "25 sayılı \"Sermaye Piyasasında Muhasebe Standartları  Hakkında Tebliğ? yürürlükten kaldırılmıstır.",
+"conf": 0.43253747597200737,
+"x0": 279.0,
+"y0": 1190.0,
+"x1": 2176.0,
+"y1": 1264.0
+},
+{
+"text": "Bu",
+"conf": 0.9999796009862606,
+"x0": 284.0,
+"y0": 1250.0,
+"x1": 348.0,
+"y1": 1294.0
+},
+{
+"text": "tebliğe  istinaden; işletmeler finansal tablolarını  Avrupa Birliği tarafindan kabul edilen haliyle",
+"conf": 0.6590223359163858,
+"x0": 350.0,
+"y0": 1238.0,
+"x1": 2177.0,
+"y1": 1314.0
+},
+{
+"text": "Uluslararası   Finansal  Raporlama Standartları'na (UMSIUFRS?) göre hazılamaları   gerekmektedir.",
+"conf": 0.4238304139989794,
+"x0": 281.0,
+"y0": 1297.0,
+"x1": 2173.0,
+"y1": 1369.0
+},
+{
+"text": "Ancak Avrupa Birliği  tarafindan kabul edilen UMSIUFRSnin Uluslararası   Muhasebe   Standartları",
+"conf": 0.6025192054415877,
+"x0": 282.0,
+"y0": 1351.0,
+"x1": 2177.0,
+"y1": 1414.0
+},
+{
+"text": "Kurulu   ((UMSK\")",
+"conf": 0.37575286919859063,
+"x0": 280.0,
+"y0": 1400.0,
+"x1": 661.0,
+"y1": 1464.0
+},
+{
+"text": "tarafindan   yaymmlananlardan",
+"conf": 0.8853242386082427,
+"x0": 672.0,
+"y0": 1405.0,
+"x1": 1228.0,
+"y1": 1467.0
+},
+{
+"text": "farkları   Türkiye",
+"conf": 0.944755052467256,
+"x0": 1239.0,
+"y0": 1409.0,
+"x1": 1566.0,
+"y1": 1470.0
+},
+{
+"text": "Muhasebe",
+"conf": 0.999575923307748,
+"x0": 1578.0,
+"y0": 1413.0,
+"x1": 1778.0,
+"y1": 1462.0
+},
+{
+"text": "Standartları",
+"conf": 0.9957044243878236,
+"x0": 1794.0,
+"y0": 1413.0,
+"x1": 2016.0,
+"y1": 1462.0
+},
+{
+"text": "Kurulu",
+"conf": 0.9436974770934626,
+"x0": 2030.0,
+"y0": 1413.0,
+"x1": 2175.0,
+"y1": 1465.0
+},
+{
+"text": "(#TMSK' ) tarafindan ilan edilinceye kadar UMSIUFRS'ler uygulanacaktır:. Bu kapsamda; benimsenen",
+"conf": 0.4315341641374851,
+"x0": 279.0,
+"y0": 1452.0,
+"x1": 2176.0,
+"y1": 1526.0
+},
+{
+"text": "standartlara  aykırı olmayan; TMSK tarafindan yayımlanan  Türkiye MuhasebelFinansal   Raporlama",
+"conf": 0.491148161276626,
+"x0": 280.0,
+"y0": 1508.0,
+"x1": 2176.0,
+"y1": 1577.0
+},
+{
+"text": "Standartları ((<TMSITFRS?) esas alınacaktır .",
+"conf": 0.3130207225342933,
+"x0": 280.0,
+"y0": 1560.0,
+"x1": 1107.0,
+"y1": 1620.0
+},
+{
+"text": "Rapor tarihi itibarıyla, Avrupa Birliği tarafindan kabul edilen UMS",
+"conf": 0.7016613362034686,
+"x0": 277.0,
+"y0": 1651.0,
+"x1": 1581.0,
+"y1": 1716.0
+},
+{
+"text": "UFRS nin UMSK tarafindan",
+"conf": 0.8209365272140884,
+"x0": 1619.0,
+"y0": 1663.0,
+"x1": 2175.0,
+"y1": 1712.0
+},
+{
+"text": "yayımlananlardan   farkları   TMSK  tarafından henüz  ilan edilmediğinden  dolayı ilişikteki   finansal",
+"conf": 0.43143159858479774,
+"x0": 275.0,
+"y0": 1700.0,
+"x1": 2178.0,
+"y1": 1775.0
+},
+{
+"text": "tablolar SPK Seri: YI No: 29 sayılı Tebliğ'i çerçevesinde UMS",
+"conf": 0.6759116713295166,
+"x0": 277.0,
+"y0": 1758.0,
+"x1": 1518.0,
+"y1": 1826.0
+},
+{
+"text": "UFRS'ye göre hazırlanmış",
+"conf": 0.6930928266070182,
+"x0": 1552.0,
+"y0": 1764.0,
+"x1": 2065.0,
+"y1": 1826.0
+},
+{
+"text": "finansal   tablolar ve dipnotlar",
+"conf": 0.5118458834272713,
+"x0": 278.0,
+"y0": 1811.0,
+"x1": 856.0,
+"y1": 1868.0
+},
+{
+"text": "SPK tarafindan  17 Nisan  2008",
+"conf": 0.6125645718077044,
+"x0": 868.0,
+"y0": 1816.0,
+"x1": 1479.0,
+"y1": 1865.0
+},
+{
+"text": "ve",
+"conf": 0.9872280693597224,
+"x0": 1491.0,
+"y0": 1828.0,
+"x1": 1544.0,
+"y1": 1864.0
+},
+{
+"text": "9",
+"conf": 0.9999974966064862,
+"x0": 1558.0,
+"y0": 1821.0,
+"x1": 1586.0,
+"y1": 1863.0
+},
+{
+"text": "Ocak 2009 tarihli  duyuru  ile",
+"conf": 0.6449776596161558,
+"x0": 1604.0,
+"y0": 1818.0,
+"x1": 2176.0,
+"y1": 1884.0
+},
+{
+"text": "uygulanması   tavsiye",
+"conf": 0.6615168925179946,
+"x0": 278.0,
+"y0": 1858.0,
+"x1": 687.0,
+"y1": 1925.0
+},
+{
+"text": "edilen   formatlara   uygun",
+"conf": 0.8009769731565684,
+"x0": 699.0,
+"y0": 1865.0,
+"x1": 1190.0,
+"y1": 1929.0
+},
+{
+"text": "olarak",
+"conf": 0.99995366878557,
+"x0": 1203.0,
+"y0": 1872.0,
+"x1": 1327.0,
+"y1": 1917.0
+},
+{
+"text": "ve",
+"conf": 0.9948909967851133,
+"x0": 1343.0,
+"y0": 1878.0,
+"x1": 1396.0,
+"y1": 1914.0
+},
+{
+"text": "zorunlu",
+"conf": 0.9999854465947613,
+"x0": 1413.0,
+"y0": 1871.0,
+"x1": 1569.0,
+"y1": 1920.0
+},
+{
+"text": "kılınan   bilgiler",
+"conf": 0.9776830496128159,
+"x0": 1582.0,
+"y0": 1870.0,
+"x1": 1886.0,
+"y1": 1930.0
+},
+{
+"text": "dahil",
+"conf": 0.9989104455782922,
+"x0": 1900.0,
+"y0": 1875.0,
+"x1": 1999.0,
+"y1": 1919.0
+},
+{
+"text": "edilerek",
+"conf": 0.9999786736004578,
+"x0": 2014.0,
+"y0": 1874.0,
+"x1": 2175.0,
+"y1": 1923.0
+},
+{
+"text": "sunulmuştur.",
+"conf": 0.9550475214225349,
+"x0": 276.0,
+"y0": 1914.0,
+"x1": 529.0,
+"y1": 1976.0
+},
+{
+"text": "2 Kasım 2011 tarihinde Resmi Gazete'de yayımlanarak yürürlüğe giren 660",
+"conf": 0.5932570702581478,
+"x0": 277.0,
+"y0": 2005.0,
+"x1": 1713.0,
+"y1": 2073.0
+},
+{
+"text": "Kanun Hükmünde",
+"conf": 0.9944553515930038,
+"x0": 1825.0,
+"y0": 2016.0,
+"x1": 2175.0,
+"y1": 2066.0
+},
+{
+"text": "Kararname ile 2499 sayılı Kanun'un Ek 1-",
+"conf": 0.8406113768831575,
+"x0": 277.0,
+"y0": 2059.0,
+"x1": 1093.0,
+"y1": 2123.0
+},
+{
+"text": "Maddesi iptal edilmiş ve Kamu Gözetimi, Muhasebe ve",
+"conf": 0.7814161971281183,
+"x0": 1108.0,
+"y0": 2062.0,
+"x1": 2174.0,
+"y1": 2125.0
+},
+{
+"text": "Denetim Standartları Kurumu (Kurum",
+"conf": 0.969972448843114,
+"x0": 277.0,
+"y0": 2110.0,
+"x1": 1019.0,
+"y1": 2171.0
+},
+{
+"text": "kurulmuştur. Bu Kanun Hükmünde Kararname' nin Geçici 1.",
+"conf": 0.6634424662045694,
+"x0": 1052.0,
+"y0": 2114.0,
+"x1": 2168.0,
+"y1": 2179.0
+},
+{
+"text": "maddesi uyarınca, Kurum tarafindan yayımlanacak   standart   ve",
+"conf": 0.38930094861359194,
+"x0": 280.0,
+"y0": 2164.0,
+"x1": 1513.0,
+"y1": 2229.0
+},
+{
+"text": "düzenlemeler   yürürlüğe   girinceye",
+"conf": 0.7775104238510995,
+"x0": 1525.0,
+"y0": 2172.0,
+"x1": 2177.0,
+"y1": 2235.0
+},
+{
+"text": "kadar; bu hususlara ilişkin mevcut düzenlemelerin uygulanmasına devam   edilecektir. Bu nedenle, söz",
+"conf": 0.7227653076991103,
+"x0": 274.0,
+"y0": 2211.0,
+"x1": 2177.0,
+"y1": 2287.0
+},
+{
+"text": "konusu durum; raporlama tarihi itibarıyla, bu finansal tablo dipnotunda açıklanan 'Finansal Tabloların",
+"conf": 0.6664312499286089,
+"x0": 277.0,
+"y0": 2268.0,
+"x1": 2174.0,
+"y1": 2337.0
+},
+{
+"text": "Hazırlanma İlkeleri nde herhangi bir değişikliğe",
+"conf": 0.7138932896367979,
+"x0": 277.0,
+"y0": 2319.0,
+"x1": 1178.0,
+"y1": 2386.0
+},
+{
+"text": "açmamaktadır .",
+"conf": 0.9313359268362572,
+"x0": 1243.0,
+"y0": 2330.0,
+"x1": 1528.0,
+"y1": 2384.0
+},
+{
+"text": "Konsolide finansal tablolar; bazı duran varlıklar ve finansal araçların (yatırım amaçlı gayrimenkuller",
+"conf": 0.7182642337694188,
+"x0": 276.0,
+"y0": 2405.0,
+"x1": 2178.0,
+"y1": 2480.0
+},
+{
+"text": "ve",
+"conf": 0.9978251573073974,
+"x0": 279.0,
+"y0": 2470.0,
+"x1": 332.0,
+"y1": 2506.0
+},
+{
+"text": "binalar)   yeniden   değerlenmesi  haricinde, tarihi  maliyet",
+"conf": 0.42608817533742016,
+"x0": 346.0,
+"y0": 2458.0,
+"x1": 1433.0,
+"y1": 2527.0
+},
+{
+"text": "esasına",
+"conf": 0.9844439280795987,
+"x0": 1444.0,
+"y0": 2478.0,
+"x1": 1587.0,
+"y1": 2517.0
+},
+{
+"text": "göre",
+"conf": 0.8613603711128235,
+"x0": 1602.0,
+"y0": 2474.0,
+"x1": 1695.0,
+"y1": 2526.0
+},
+{
+"text": "hazırlanmaktadır.",
+"conf": 0.8683965213145987,
+"x0": 1709.0,
+"y0": 2472.0,
+"x1": 2035.0,
+"y1": 2521.0
+},
+{
+"text": "Tarihi",
+"conf": 0.9918058319384037,
+"x0": 2049.0,
+"y0": 2472.0,
+"x1": 2175.0,
+"y1": 2521.0
+},
+{
+"text": "maliyetin   belirlenmesinde;   genellikle",
+"conf": 0.6138520752457022,
+"x0": 277.0,
+"y0": 2509.0,
+"x1": 1015.0,
+"y1": 2578.0
+},
+{
+"text": "varlıklar   için",
+"conf": 0.8339254484034999,
+"x0": 1029.0,
+"y0": 2521.0,
+"x1": 1295.0,
+"y1": 2576.0
+},
+{
+"text": "ödenen",
+"conf": 0.9998546293300385,
+"x0": 1310.0,
+"y0": 2522.0,
+"x1": 1458.0,
+"y1": 2575.0
+},
+{
+"text": "tutarın",
+"conf": 0.7173357408038034,
+"x0": 1475.0,
+"y0": 2528.0,
+"x1": 1607.0,
+"y1": 2572.0
+},
+{
+"text": "gerçeğe",
+"conf": 0.83170788341279,
+"x0": 1627.0,
+"y0": 2527.0,
+"x1": 1783.0,
+"y1": 2581.0
+},
+{
+"text": "uygun",
+"conf": 0.998871149475934,
+"x0": 1799.0,
+"y0": 2531.0,
+"x1": 1924.0,
+"y1": 2583.0
+},
+{
+"text": "değeri",
+"conf": 0.9967113772358819,
+"x0": 1940.0,
+"y0": 2527.0,
+"x1": 2068.0,
+"y1": 2581.0
+},
+{
+"text": "esas",
+"conf": 0.9999572038650513,
+"x0": 2086.0,
+"y0": 2536.0,
+"x1": 2174.0,
+"y1": 2575.0
+},
+{
+"text": "alınmaktadır.",
+"conf": 0.8368492992936198,
+"x0": 279.0,
+"y0": 2571.0,
+"x1": 529.0,
+"y1": 2616.0
+},
+{
+"text": "Kullanılan Para Birimi",
+"conf": 0.8103924983746799,
+"x0": 278.0,
+"y0": 2658.0,
+"x1": 709.0,
+"y1": 2714.0
+},
+{
+"text": "Grup'un her işletmesinin kendi finansal  tabloları faaliyette  bulundukları temel ekonomik çevrede",
+"conf": 0.47121550601675893,
+"x0": 274.0,
+"y0": 2748.0,
+"x1": 2176.0,
+"y1": 2820.0
+},
+{
+"text": "olan para birimi (fonksiyonel para birimi) ile sunulmuştur. Her işletmenin finansal durumu ve",
+"conf": 0.6136890126462275,
+"x0": 417.0,
+"y0": 2805.0,
+"x1": 2174.0,
+"y1": 2870.0
+},
+{
+"text": "faaliyet sonuçları; Şirket'in geçerli para birimi olan ve konsolide finansal tablolar için sunum para",
+"conf": 0.5551269487273736,
+"x0": 276.0,
+"y0": 2854.0,
+"x1": 2179.0,
+"y1": 2927.0
+},
+{
+"text": "birimi olan TL cinsinden ifade edilmiştir,",
+"conf": 0.6519266904803122,
+"x0": 277.0,
+"y0": 2909.0,
+"x1": 1047.0,
+"y1": 2972.0
+},
+{
+"text": "9",
+"conf": 0.9999992847443906,
+"x0": 1212.0,
+"y0": 3225.0,
+"x1": 1238.0,
+"y1": 3259.0
+},
+{
+"text": "Grup",
+"conf": 0.9999392032623291,
+"x0": 278.2126788553512,
+"y0": 780.0934345469491,
+"x1": 395.7873211446488,
+"y1": 847.9065654530509
+},
+{
+"text": "yasal",
+"conf": 0.9998793540510127,
+"x0": 403.370046583403,
+"y0": 787.72836958602,
+"x1": 514.629953416597,
+"y1": 843.27163041398
+},
+{
+"text": "olup,",
+"conf": 0.6726052015480375,
+"x0": 2062.2328756930096,
+"y0": 1763.0843686541932,
+"x1": 2181.7671243069904,
+"y1": 1833.9156313458068
+},
+{
+"text": "sayılı",
+"conf": 0.9996488051487528,
+"x0": 1711.2599556283028,
+"y0": 2015.0905546645183,
+"x1": 1825.7400443716972,
+"y1": 2076.9094453354815
+},
+{
+"text": "yol",
+"conf": 0.9993532746562077,
+"x0": 1170.102633403899,
+"y0": 2325.942372243891,
+"x1": 1250.897366596101,
+"y1": 2390.057627756109
+},
+{
+"text": "geçerli",
+"conf": 0.9992891461865735,
+"x0": 276.10263340389895,
+"y0": 2801.4696155017064,
+"x1": 418.89736659610105,
+"y1": 2866.5303844982936
+}
+]
+}

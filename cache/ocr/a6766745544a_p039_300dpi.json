@@ -1,0 +1,582 @@
+{
+"page": 39,
+"dpi": 300,
+"tokens": [
+{
+"text": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI AŞ. VE BAĞLI ORTAKLIKLARI",
+"conf": 0.7360314686021076,
+"x0": 285.0,
+"y0": 112.0,
+"x1": 2002.0,
+"y1": 192.0
+},
+{
+"text": "BAĞMMSIZ DENETIMDEN GEÇMİŞ 31 ARALIK 2012 TARİHİ İTİBARİYLE",
+"conf": 0.575520342873152,
+"x0": 287.0,
+"y0": 224.0,
+"x1": 1789.0,
+"y1": 296.0
+},
+{
+"text": "KONSOLIDE FİNANSAL TABLOLARA İİŞKİN AÇIKLAYICI DİPNOTLAR",
+"conf": 0.7093328709630501,
+"x0": 287.0,
+"y0": 279.0,
+"x1": 1774.0,
+"y1": 352.0
+},
+{
+"text": "(Tüm tutarlar Türk Lirası (TL) olarak gösterilmigtir)",
+"conf": 0.8069191780645085,
+"x0": 286.0,
+"y0": 373.0,
+"x1": 996.0,
+"y1": 423.0
+},
+{
+"text": "2.",
+"conf": 0.8541605377621388,
+"x0": 172.0,
+"y0": 504.0,
+"x1": 214.0,
+"y1": 545.0
+},
+{
+"text": "FİNANSAL TABLOLARIN SUNUMUNA İLİŞKİN ESASLAR (devamı)",
+"conf": 0.633597618642193,
+"x0": 284.0,
+"y0": 495.0,
+"x1": 1723.0,
+"y1": 571.0
+},
+{
+"text": "2.5",
+"conf": 0.8592352867126465,
+"x0": 168.0,
+"y0": 593.0,
+"x1": 242.0,
+"y1": 642.0
+},
+{
+"text": "Önemli Muhasebe Politikalarının Özeti (devamı)",
+"conf": 0.9918106797245425,
+"x0": 287.0,
+"y0": 586.0,
+"x1": 1253.0,
+"y1": 658.0
+},
+{
+"text": "Kurum Kazancı Üzerinden Hesaplanan Vergiler (devamı)",
+"conf": 0.78054339187388,
+"x0": 283.0,
+"y0": 681.0,
+"x1": 1410.0,
+"y1": 754.0
+},
+{
+"text": "Ertelenmis vergi (devamı)",
+"conf": 0.4999738941120527,
+"x0": 288.0,
+"y0": 776.0,
+"x1": 781.0,
+"y1": 836.0
+},
+{
+"text": "Ertelenmis vergi varlığmnı kayıtlı değeri; her bilanço tarihi itibariyle gözden geçirilir. Ertelenmis vergi",
+"conf": 0.47575757243266076,
+"x0": 283.0,
+"y0": 863.0,
+"x1": 2180.0,
+"y1": 943.0
+},
+{
+"text": "varlığının kayıtlı değeri, bir kısmının veya tamamının sağlayacağı faydanın elde edilmesine imkan",
+"conf": 0.6561083002424117,
+"x0": 285.0,
+"y0": 920.0,
+"x1": 2180.0,
+"y1": 989.0
+},
+{
+"text": "verecek düzeyde mali kar elde etmenin muhtemel olmadığı ölçüde azaltılır.",
+"conf": 0.6399990012151231,
+"x0": 285.0,
+"y0": 973.0,
+"x1": 1672.0,
+"y1": 1038.0
+},
+{
+"text": "Ertelenmiş vergi varlıkları ve yükümlülükleri varlıkların gerçekleseceği veya yükümlülüklerin yerine",
+"conf": 0.6481316941554465,
+"x0": 280.0,
+"y0": 1060.0,
+"x1": 2183.0,
+"y1": 1137.0
+},
+{
+"text": "getirileceği dönemde geçerli olması beklenen",
+"conf": 0.5903413022328843,
+"x0": 285.0,
+"y0": 1116.0,
+"x1": 1170.0,
+"y1": 1184.0
+},
+{
+"text": "ve",
+"conf": 0.993918919084151,
+"x0": 1178.0,
+"y0": 1132.0,
+"x1": 1231.0,
+"y1": 1168.0
+},
+{
+"text": "bilanço tarihi itibariyle yasallaşmış  veya önemli",
+"conf": 0.6512192886344675,
+"x0": 1240.0,
+"y0": 1121.0,
+"x1": 2179.0,
+"y1": 1184.0
+},
+{
+"text": "ölçüde   yasallaşmış",
+"conf": 0.9021764199214856,
+"x0": 282.0,
+"y0": 1167.0,
+"x1": 663.0,
+"y1": 1231.0
+},
+{
+"text": "vergi",
+"conf": 0.9999012655728824,
+"x0": 678.0,
+"y0": 1175.0,
+"x1": 785.0,
+"y1": 1229.0
+},
+{
+"text": "oranları   (vergi",
+"conf": 0.7283153372272214,
+"x0": 799.0,
+"y0": 1175.0,
+"x1": 1092.0,
+"y1": 1232.0
+},
+{
+"text": "düzenlemeleri)",
+"conf": 0.9666016730952302,
+"x0": 1109.0,
+"y0": 1177.0,
+"x1": 1394.0,
+"y1": 1232.0
+},
+{
+"text": "üzerinden",
+"conf": 0.8078786471670562,
+"x0": 1410.0,
+"y0": 1177.0,
+"x1": 1602.0,
+"y1": 1227.0
+},
+{
+"text": "hesaplanır.   Ertelenmiş",
+"conf": 0.7585665116277538,
+"x0": 1618.0,
+"y0": 1179.0,
+"x1": 2056.0,
+"y1": 1239.0
+},
+{
+"text": "vergi",
+"conf": 0.9999598026453299,
+"x0": 2071.0,
+"y0": 1186.0,
+"x1": 2178.0,
+"y1": 1237.0
+},
+{
+"text": "varlıkları ve yükümlülüklerinin hesaplanması sırasında, Grup'un bilanço tarihi itibariyle varlıklarının",
+"conf": 0.5976185347551468,
+"x0": 282.0,
+"y0": 1221.0,
+"x1": 2176.0,
+"y1": 1290.0
+},
+{
+"text": "defter değerini",
+"conf": 0.9544211470283588,
+"x0": 282.0,
+"y0": 1275.0,
+"x1": 570.0,
+"y1": 1336.0
+},
+{
+"text": "kazanması ya da yükümlülüklerini yerine getirmesi için tahmin ettiği yöntemlerin",
+"conf": 0.9500133048281335,
+"x0": 651.0,
+"y0": 1274.0,
+"x1": 2181.0,
+"y1": 1347.0
+},
+{
+"text": "vergi sonuçları dikkate alınır.",
+"conf": 0.6755881163287917,
+"x0": 283.0,
+"y0": 1331.0,
+"x1": 829.0,
+"y1": 1386.0
+},
+{
+"text": "Ertelenmiş   vergi   varlıkları",
+"conf": 0.5151161278947544,
+"x0": 282.0,
+"y0": 1417.0,
+"x1": 805.0,
+"y1": 1477.0
+},
+{
+"text": "ve yükümlülükleri,   cari vergi   varlıklarıyla cari vergi yükümlülüklerini",
+"conf": 0.5131666395247408,
+"x0": 812.0,
+"y0": 1422.0,
+"x1": 2180.0,
+"y1": 1486.0
+},
+{
+"text": "mahsup etme ile ilgili yasal bir hakkın olması veya söz konusu varlık ve yükümlülüklerin aynı vergi",
+"conf": 0.8744309112532462,
+"x0": 279.0,
+"y0": 1466.0,
+"x1": 2180.0,
+"y1": 1541.0
+},
+{
+"text": "mercii tarafindan   toplanan",
+"conf": 0.6595903571781938,
+"x0": 283.0,
+"y0": 1526.0,
+"x1": 807.0,
+"y1": 1583.0
+},
+{
+"text": "vergisiyle   ilişkilendirilmesi ya",
+"conf": 0.6810860733607704,
+"x0": 928.0,
+"y0": 1531.0,
+"x1": 1520.0,
+"y1": 1588.0
+},
+{
+"text": "da Grup'un",
+"conf": 0.3742755975149129,
+"x0": 1534.0,
+"y0": 1533.0,
+"x1": 1767.0,
+"y1": 1590.0
+},
+{
+"text": "cari   vergi  varlık",
+"conf": 0.6260021333234955,
+"x0": 1781.0,
+"y0": 1537.0,
+"x1": 2110.0,
+"y1": 1591.0
+},
+{
+"text": "ve",
+"conf": 0.9891524458628629,
+"x0": 2122.0,
+"y0": 1546.0,
+"x1": 2174.0,
+"y1": 1582.0
+},
+{
+"text": "yükümlülüklerini netlestirmek suretiyle ödeme niyetinin olması durumunda mahsup edilir.",
+"conf": 0.7028254876773918,
+"x0": 278.0,
+"y0": 1571.0,
+"x1": 1952.0,
+"y1": 1647.0
+},
+{
+"text": "Dönem cari_",
+"conf": 0.6585492034993536,
+"x0": 283.0,
+"y0": 1668.0,
+"x1": 513.0,
+"y1": 1717.0
+},
+{
+"text": "ve ertelenmig vergisi",
+"conf": 0.6564363872892984,
+"x0": 522.0,
+"y0": 1669.0,
+"x1": 917.0,
+"y1": 1726.0
+},
+{
+"text": "Doğrudan özkaynakta alacak ya da borç olarak muhasebelestirilen kalemler (ki bu durumda ilgili",
+"conf": 0.8280500187779523,
+"x0": 279.0,
+"y0": 1757.0,
+"x1": 2180.0,
+"y1": 1829.0
+},
+{
+"text": "kalemlere ilişkin ertelenmiş vergi de doğrudan özkaynakta muhasebeleştirilir) ile iligkilendirilen ya da",
+"conf": 0.7069794003910194,
+"x0": 279.0,
+"y0": 1809.0,
+"x1": 2180.0,
+"y1": 1881.0
+},
+{
+"text": "işletme birlesmelerinin ilk kayda alıından kaynaklananlar  haricindeki cari vergi ile",
+"conf": 0.4750661751775623,
+"x0": 277.0,
+"y0": 1862.0,
+"x1": 1943.0,
+"y1": 1930.0
+},
+{
+"text": "döneme ait",
+"conf": 0.790441207402372,
+"x0": 1954.0,
+"y0": 1878.0,
+"x1": 2180.0,
+"y1": 1922.0
+},
+{
+"text": "ertelenmiş vergi,",
+"conf": 0.8612962891197781,
+"x0": 278.0,
+"y0": 1911.0,
+"x1": 610.0,
+"y1": 1983.0
+},
+{
+"text": "tablosunda",
+"conf": 0.9999956648064969,
+"x0": 706.0,
+"y0": 1921.0,
+"x1": 917.0,
+"y1": 1970.0
+},
+{
+"text": "ya da",
+"conf": 0.9975811548965184,
+"x0": 1024.0,
+"y0": 1923.0,
+"x1": 1142.0,
+"y1": 1978.0
+},
+{
+"text": "olarak muhasebeleştirilir. İşletme birleşmelerinde,",
+"conf": 0.7889741578105981,
+"x0": 1239.0,
+"y0": 1922.0,
+"x1": 2180.0,
+"y1": 1985.0
+},
+{
+"text": "şerefiye  hesaplanmasında ya da",
+"conf": 0.6660659990484508,
+"x0": 278.0,
+"y0": 1970.0,
+"x1": 914.0,
+"y1": 2027.0
+},
+{
+"text": "satın   alanın; satın",
+"conf": 0.5289656029678751,
+"x0": 925.0,
+"y0": 1973.0,
+"x1": 1287.0,
+"y1": 2028.0
+},
+{
+"text": "alınan   bağlı   ortaklığın   tanımlanabilen   varlık,",
+"conf": 0.5631169757917942,
+"x0": 1297.0,
+"y0": 1972.0,
+"x1": 2179.0,
+"y1": 2040.0
+},
+{
+"text": "yükümlülük ve",
+"conf": 0.9997092456740087,
+"x0": 276.0,
+"y0": 2016.0,
+"x1": 575.0,
+"y1": 2078.0
+},
+{
+"text": "bağlı borçlarının gerçeğe uygun değerinde elde ettiği payın satın alı maliyetini",
+"conf": 0.7544543415775152,
+"x0": 675.0,
+"y0": 2024.0,
+"x1": 2179.0,
+"y1": 2089.0
+},
+{
+"text": "aşan kısmının belirlenmesinde vergi etkisi göz önünde bulundurulur.",
+"conf": 0.6596024192967277,
+"x0": 280.0,
+"y0": 2072.0,
+"x1": 1548.0,
+"y1": 2138.0
+},
+{
+"text": "Çalışanlara Sağlanan Faydalar",
+"conf": 0.9112337415310221,
+"x0": 280.0,
+"y0": 2165.0,
+"x1": 893.0,
+"y1": 2229.0
+},
+{
+"text": "Kıdem tazminatları",
+"conf": 0.8415028891640655,
+"x0": 281.0,
+"y0": 2254.0,
+"x1": 651.0,
+"y1": 2310.0
+},
+{
+"text": "Türkiye'de mevcut kanunlar ve toplu iş sözleşmeleri hükümlerine göre kıdem tazminatı, emeklilik",
+"conf": 0.5654975501418227,
+"x0": 280.0,
+"y0": 2347.0,
+"x1": 2179.0,
+"y1": 2415.0
+},
+{
+"text": "veya işten çıkarılma durumunda ödenmektedir:.  Güncellenmiş olan UMS 19 Çalışanlara Sağlanan",
+"conf": 0.5353919474999909,
+"x0": 275.0,
+"y0": 2394.0,
+"x1": 2183.0,
+"y1": 2468.0
+},
+{
+"text": "Faydalar Standardı",
+"conf": 0.9839901214382587,
+"x0": 278.0,
+"y0": 2453.0,
+"x1": 653.0,
+"y1": 2507.0
+},
+{
+"text": "((UMS 19*) uyarınca söz konusu türdeki ödemeler tanımlanmı emeklilik fayda",
+"conf": 0.4729715346226271,
+"x0": 668.0,
+"y0": 2450.0,
+"x1": 2183.0,
+"y1": 2524.0
+},
+{
+"text": "planları olarak nitelendirilir.",
+"conf": 0.8832049516956771,
+"x0": 275.0,
+"y0": 2506.0,
+"x1": 807.0,
+"y1": 2562.0
+},
+{
+"text": "Bilançoda muhasebeleştirilen kıdem tazminatı yükümlülüğü, tüm çalışanların emeklilikleri dolayısıyla",
+"conf": 0.883430438577584,
+"x0": 276.0,
+"y0": 2591.0,
+"x1": 2183.0,
+"y1": 2668.0
+},
+{
+"text": "ileride doğması beklenen yükümlülük tutarlarının net bugünkü değerine göre hesaplanmıg ve finansal",
+"conf": 0.8063949710546101,
+"x0": 273.0,
+"y0": 2646.0,
+"x1": 2180.0,
+"y1": 2720.0
+},
+{
+"text": "tablolara yansıılmıştır. Hesaplanan tüm aktüeryal kazançlar ve kayıplar",
+"conf": 0.9483710926247167,
+"x0": 273.0,
+"y0": 2698.0,
+"x1": 1612.0,
+"y1": 2770.0
+},
+{
+"text": "tablosuna yansıtılmıçtır.",
+"conf": 0.7566536313629975,
+"x0": 1701.0,
+"y0": 2713.0,
+"x1": 2153.0,
+"y1": 2770.0
+},
+{
+"text": "35",
+"conf": 0.9999838999418298,
+"x0": 1203.0,
+"y0": 3241.0,
+"x1": 1256.0,
+"y1": 3285.0
+},
+{
+"text": "geri",
+"conf": 0.9999402761459351,
+"x0": 568.370046583403,
+"y0": 1278.0725472307781,
+"x1": 655.629953416597,
+"y1": 1335.9274527692219
+},
+{
+"text": "gelir",
+"conf": 0.9998721568234344,
+"x0": 819.3941368172834,
+"y0": 1524.8521022623686,
+"x1": 917.6058631827166,
+"y1": 1584.1478977376314
+},
+{
+"text": "gelir",
+"conf": 0.9998651728411977,
+"x0": 604.1579833204635,
+"y0": 1915.8200063599809,
+"x1": 707.8420166795365,
+"y1": 1977.1799936400191
+},
+{
+"text": "gider",
+"conf": 0.9999933893075612,
+"x0": 917.3516732326158,
+"y0": 1914.8973061604465,
+"x1": 1027.6483267673843,
+"y1": 1979.1026938395535
+},
+{
+"text": "gelir",
+"conf": 0.9998915626675134,
+"x0": 1142.3070020560508,
+"y0": 1918.7381199086735,
+"x1": 1244.6929979439492,
+"y1": 1982.2618800913265
+},
+{
+"text": "şarta",
+"conf": 0.9988986087796891,
+"x0": 570.370046583403,
+"y0": 2024.5758221913609,
+"x1": 675.629953416597,
+"y1": 2080.4241778086393
+},
+{
+"text": "gelir",
+"conf": 0.9998678384839522,
+"x0": 1603.3070020560508,
+"y0": 2707.749791997638,
+"x1": 1708.6929979439492,
+"y1": 2772.250208002362
+}
+]
+}

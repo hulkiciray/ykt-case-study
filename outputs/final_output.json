@@ -1,0 +1,5646 @@
+{
+  "document": {
+    "file": "Özak GYO 31122012 Bağımsız Denetim Raporu.pdf",
+    "company": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. VE BAĞLI ORTAKLIKLARI",
+    "period_end": "2012-12-31",
+    "currency": "TRY",
+    "note_number": 11,
+    "note_title": "YATIRIM AMAÇLI GAYRİMENKULLER",
+    "note_pages": [
+      53,
+      54
+    ]
+  },
+  "summary_tables": [
+    {
+      "table_id": "p5_balance_sheet",
+      "page": 5,
+      "statement_type": "balance_sheet",
+      "company": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. VE BAĞLI ORTAKLIKLARI",
+      "title": "BAĞIMSIZ DENETİMDEN GEÇMİŞ 31 ARALIK 2012 TARİHLİ KONSOLİDE BİLANÇO",
+      "currency": "TRY",
+      "unit_scale": 1,
+      "unit_text": "(Tüm tutarlar Türk Lirası (TL) olarak gösterilmistir)",
+      "columns": [
+        {
+          "col_id": "v0",
+          "period": {
+            "type": "instant",
+            "start": null,
+            "end": "2012-12-31",
+            "role": "current",
+            "audited": true,
+            "header": "Bağımsız Denetimden Geçmiş Cari Dönem 31 Aralık 2012"
+          }
+        },
+        {
+          "col_id": "v1",
+          "period": {
+            "type": "instant",
+            "start": null,
+            "end": "2011-12-31",
+            "role": "prior",
+            "audited": true,
+            "header": "Bağımsız Denetimden Geçmiş Geçmiş Dönem 31 Aralık 2011"
+          }
+        }
+      ],
+      "rows": [
+        {
+          "row_id": "p5_r00",
+          "label": "VARLIKLAR",
+          "label_raw": "VARLIKLAR",
+          "row_type": "section_header",
+          "indent": 0,
+          "parent_id": null,
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "",
+              "kind": "empty",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.95,
+              "arithmetic_ok": null,
+              "confidence": 0.78,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "",
+              "kind": "empty",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.95,
+              "arithmetic_ok": null,
+              "confidence": 0.78,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.7559,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r01",
+          "label": "Dönen Varlıklar",
+          "label_raw": "Dönen Varlıklar",
+          "row_type": "parent",
+          "indent": 0,
+          "parent_id": "p5_r17",
+          "children": [
+            "p5_r02",
+            "p5_r03",
+            "p5_r06",
+            "p5_r07",
+            "p5_r08"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "134.557.729",
+              "kind": "number",
+              "value": 134557729,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.512,
+              "arithmetic_ok": true,
+              "confidence": 0.8048,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "21.380.946",
+              "kind": "number",
+              "value": 21380946,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9611,
+              "arithmetic_ok": true,
+              "confidence": 0.9844,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9537,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r02",
+          "label": "Nakit ve Nakit Benzerleri",
+          "label_raw": "Nakit ve Nakit Benzerleri",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p5_r01",
+          "children": [],
+          "note_refs": [
+            4
+          ],
+          "note_raw": "4",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "41.854.579",
+              "kind": "number",
+              "value": 41854579,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.992,
+              "arithmetic_ok": true,
+              "confidence": 0.9968,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "7.726.696",
+              "kind": "number",
+              "value": 7726696,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8623,
+              "arithmetic_ok": true,
+              "confidence": 0.9449,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9141,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r03",
+          "label": "Ticari Alacaklar",
+          "label_raw": "Ticari Alacaklar",
+          "row_type": "parent",
+          "indent": 1,
+          "parent_id": "p5_r01",
+          "children": [
+            "p5_r04",
+            "p5_r05"
+          ],
+          "note_refs": [
+            8
+          ],
+          "note_raw": "8",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "6.281.458",
+              "kind": "number",
+              "value": 6281458,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9932,
+              "arithmetic_ok": true,
+              "confidence": 0.9973,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "7.801.336",
+              "kind": "number",
+              "value": 7801336,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8479,
+              "arithmetic_ok": true,
+              "confidence": 0.9391,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9558,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r04",
+          "label": "Hlişkili Taraflardan Ticari Alacaklar",
+          "label_raw": "hlişkili Taraflardan Ticari Alacaklar",
+          "row_type": "item",
+          "indent": 2,
+          "parent_id": "p5_r03",
+          "children": [],
+          "note_refs": [
+            28
+          ],
+          "note_raw": "28",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "170.966",
+              "kind": "number",
+              "value": 170966,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9964,
+              "arithmetic_ok": true,
+              "confidence": 0.9986,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "2.082.986",
+              "kind": "number",
+              "value": 2082986,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9952,
+              "arithmetic_ok": true,
+              "confidence": 0.9981,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8896,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r05",
+          "label": "Diğer Ticari Alacaklar",
+          "label_raw": "Diğer Ticari Alacaklar",
+          "row_type": "item",
+          "indent": 2,
+          "parent_id": "p5_r03",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "6.110.492",
+              "kind": "number",
+              "value": 6110492,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8477,
+              "arithmetic_ok": true,
+              "confidence": 0.9391,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "5.718.350",
+              "kind": "number",
+              "value": 5718350,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9537,
+              "arithmetic_ok": true,
+              "confidence": 0.9815,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9622,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r06",
+          "label": "Diğer Alacaklar",
+          "label_raw": "Diğer Alacaklar",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p5_r01",
+          "children": [],
+          "note_refs": [
+            9
+          ],
+          "note_raw": "9",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "3.993",
+              "kind": "number",
+              "value": 3993,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9998,
+              "arithmetic_ok": true,
+              "confidence": 0.9999,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "56.956",
+              "kind": "number",
+              "value": 56956,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9906,
+              "arithmetic_ok": true,
+              "confidence": 0.9962,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9286,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r07",
+          "label": "Stoklar",
+          "label_raw": "Stoklar",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p5_r01",
+          "children": [],
+          "note_refs": [
+            10
+          ],
+          "note_raw": "10",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "77.543.097",
+              "kind": "number",
+              "value": 77543097,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9501,
+              "arithmetic_ok": true,
+              "confidence": 0.9801,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "1.083.886",
+              "kind": "number",
+              "value": 1083886,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9817,
+              "arithmetic_ok": true,
+              "confidence": 0.9927,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9945,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r08",
+          "label": "Diğer Dönen Varlıklar",
+          "label_raw": "Diğer Dönen Varlıklar",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p5_r01",
+          "children": [],
+          "note_refs": [
+            18
+          ],
+          "note_raw": "18",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "8.874,602",
+              "kind": "number",
+              "value": 8874602,
+              "repairs": [
+                "comma_as_thousands_separator"
+              ],
+              "source": "page",
+              "ocr_conf": 0.7476,
+              "arithmetic_ok": true,
+              "confidence": 0.819,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "4.712.072",
+              "kind": "number",
+              "value": 4712072,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8571,
+              "arithmetic_ok": true,
+              "confidence": 0.9428,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9396,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r09",
+          "label": "Duran Varlıklar",
+          "label_raw": "Duran Varlıklar",
+          "row_type": "parent",
+          "indent": 0,
+          "parent_id": "p5_r17",
+          "children": [
+            "p5_r10",
+            "p5_r11",
+            "p5_r12",
+            "p5_r13",
+            "p5_r14",
+            "p5_r15",
+            "p5_r16"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "717.592.075",
+              "kind": "number",
+              "value": 717592075,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9707,
+              "arithmetic_ok": true,
+              "confidence": 0.9883,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "760.027.331",
+              "kind": "number",
+              "value": 760027331,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.993,
+              "arithmetic_ok": true,
+              "confidence": 0.9972,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9945,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r10",
+          "label": "Finansal Yatırımlar",
+          "label_raw": "Finansal Yatırımlar",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p5_r09",
+          "children": [],
+          "note_refs": [
+            5
+          ],
+          "note_raw": "5",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "4.224",
+              "kind": "number",
+              "value": 4224,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8355,
+              "arithmetic_ok": true,
+              "confidence": 0.9342,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "4.224",
+              "kind": "number",
+              "value": 4224,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9971,
+              "arithmetic_ok": true,
+              "confidence": 0.9988,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8963,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r11",
+          "label": "Özkaynak Yönetimiyle Değerlenen Yatırımlar",
+          "label_raw": "Özkaynak Yönetimiyle Değerlenen Yatırımlar",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p5_r09",
+          "children": [],
+          "note_refs": [
+            6
+          ],
+          "note_raw": "6",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "28.785.840",
+              "kind": "number",
+              "value": 28785840,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9998,
+              "arithmetic_ok": true,
+              "confidence": 0.9999,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "-",
+              "kind": "dash",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.9,
+              "arithmetic_ok": true,
+              "confidence": 0.96,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9122,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r12",
+          "label": "Yatırım Amaçlı Gayrimenkuller",
+          "label_raw": "Yatırım Amaçlı Gayrimenkuller",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p5_r09",
+          "children": [],
+          "note_refs": [
+            11
+          ],
+          "note_raw": "11",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "373.992.222",
+              "kind": "number",
+              "value": 373992222,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8076,
+              "arithmetic_ok": true,
+              "confidence": 0.923,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "423.580.000",
+              "kind": "number",
+              "value": 423580000,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.5721,
+              "arithmetic_ok": true,
+              "confidence": 0.8289,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9354,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r13",
+          "label": "Maddi Duran Varlıklar",
+          "label_raw": "Maddi Duran Varlıklar",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p5_r09",
+          "children": [],
+          "note_refs": [
+            12
+          ],
+          "note_raw": "12",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "285.161.777",
+              "kind": "number",
+              "value": 285161777,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8605,
+              "arithmetic_ok": true,
+              "confidence": 0.9442,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "313.618.867",
+              "kind": "number",
+              "value": 313618867,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9552,
+              "arithmetic_ok": true,
+              "confidence": 0.9821,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9119,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r14",
+          "label": "Maddi Olmayan Duran Varlıklar",
+          "label_raw": "Maddi Olmayan Duran Varlıklar",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p5_r09",
+          "children": [],
+          "note_refs": [
+            13
+          ],
+          "note_raw": "13",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "14.557.878",
+              "kind": "number",
+              "value": 14557878,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9841,
+              "arithmetic_ok": true,
+              "confidence": 0.9936,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "14.526.075",
+              "kind": "number",
+              "value": 14526075,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9954,
+              "arithmetic_ok": true,
+              "confidence": 0.9982,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9562,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r15",
+          "label": "Ertelenen Vergi Varlığı",
+          "label_raw": "Ertelenen Vergi Varlığı",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p5_r09",
+          "children": [],
+          "note_refs": [
+            26
+          ],
+          "note_raw": "26",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "4.065.781",
+              "kind": "number",
+              "value": 4065781,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.773,
+              "arithmetic_ok": true,
+              "confidence": 0.9092,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "8.262.684",
+              "kind": "number",
+              "value": 8262684,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.829,
+              "arithmetic_ok": true,
+              "confidence": 0.9316,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9553,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r16",
+          "label": "Diğer Duran Varlıklar",
+          "label_raw": "Diğer Duran Varlıklar",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p5_r09",
+          "children": [],
+          "note_refs": [
+            18
+          ],
+          "note_raw": "18",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "11.024.353",
+              "kind": "number",
+              "value": 11024353,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8483,
+              "arithmetic_ok": true,
+              "confidence": 0.9393,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "35.481",
+              "kind": "number",
+              "value": 35481,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9994,
+              "arithmetic_ok": true,
+              "confidence": 0.9997,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9484,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p5_r17",
+          "label": "TOPLAM VARLIKLAR",
+          "label_raw": "TOPLAM VARLIKLAR",
+          "row_type": "total",
+          "indent": 0,
+          "parent_id": null,
+          "children": [
+            "p5_r01",
+            "p5_r09"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "852.149.804",
+              "kind": "number",
+              "value": 852149804,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.7262,
+              "arithmetic_ok": true,
+              "confidence": 0.8905,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "781.408.277",
+              "kind": "number",
+              "value": 781408277,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8301,
+              "arithmetic_ok": true,
+              "confidence": 0.932,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9579,
+          "low_confidence": false,
+          "flags": []
+        }
+      ],
+      "checks": [
+        {
+          "relation": "sum_of_following",
+          "column": "v0",
+          "parent_row": "p5_r01",
+          "component_rows": [
+            "p5_r02",
+            "p5_r03",
+            "p5_r06",
+            "p5_r07",
+            "p5_r08"
+          ],
+          "expected": 134557729,
+          "computed": 134557729,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v1",
+          "parent_row": "p5_r01",
+          "component_rows": [
+            "p5_r02",
+            "p5_r03",
+            "p5_r06",
+            "p5_r07",
+            "p5_r08"
+          ],
+          "expected": 21380946,
+          "computed": 21380946,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v0",
+          "parent_row": "p5_r03",
+          "component_rows": [
+            "p5_r04",
+            "p5_r05"
+          ],
+          "expected": 6281458,
+          "computed": 6281458,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v1",
+          "parent_row": "p5_r03",
+          "component_rows": [
+            "p5_r04",
+            "p5_r05"
+          ],
+          "expected": 7801336,
+          "computed": 7801336,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v0",
+          "parent_row": "p5_r09",
+          "component_rows": [
+            "p5_r10",
+            "p5_r11",
+            "p5_r12",
+            "p5_r13",
+            "p5_r14",
+            "p5_r15",
+            "p5_r16"
+          ],
+          "expected": 717592075,
+          "computed": 717592075,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v1",
+          "parent_row": "p5_r09",
+          "component_rows": [
+            "p5_r10",
+            "p5_r11",
+            "p5_r12",
+            "p5_r13",
+            "p5_r14",
+            "p5_r15",
+            "p5_r16"
+          ],
+          "expected": 760027331,
+          "computed": 760027331,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v0",
+          "parent_row": "p5_r17",
+          "component_rows": [
+            "p5_r01",
+            "p5_r09"
+          ],
+          "expected": 852149804,
+          "computed": 852149804,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v1",
+          "parent_row": "p5_r17",
+          "component_rows": [
+            "p5_r01",
+            "p5_r09"
+          ],
+          "expected": 781408277,
+          "computed": 781408277,
+          "difference": 0,
+          "passed": true
+        }
+      ],
+      "confidence": 0.9587,
+      "low_confidence": false
+    },
+    {
+      "table_id": "p6_balance_sheet",
+      "page": 6,
+      "statement_type": "balance_sheet",
+      "company": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. VE BAĞLI ORTAKLIKLARI",
+      "title": "BAĞIMSIZ DENETİMDEN GEÇMİŞ 31 ARALIK 2012 TARİHLİ KONSOLİDE BİLANÇO",
+      "currency": "TRY",
+      "unit_scale": 1,
+      "unit_text": "(Tüm tutarlar Türk Lirası (TL) olarak gösterilmiştic)",
+      "columns": [
+        {
+          "col_id": "v0",
+          "period": {
+            "type": "instant",
+            "start": null,
+            "end": "2012-12-31",
+            "role": "current",
+            "audited": true,
+            "header": "Bağımsız Denetimden Geçmiş Cari Dönem 31 Aralık 2012"
+          }
+        },
+        {
+          "col_id": "v1",
+          "period": {
+            "type": "instant",
+            "start": null,
+            "end": "2011-12-31",
+            "role": "prior",
+            "audited": true,
+            "header": "Bağımsız Denetimden Geçmiş Geçmiş Dönem 31 Aralık 2011"
+          }
+        }
+      ],
+      "rows": [
+        {
+          "row_id": "p6_r00",
+          "label": "KAYNAKLAR",
+          "label_raw": "KAYNAKLAR",
+          "row_type": "section_header",
+          "indent": 0,
+          "parent_id": null,
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "",
+              "kind": "empty",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.95,
+              "arithmetic_ok": null,
+              "confidence": 0.78,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "",
+              "kind": "empty",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.95,
+              "arithmetic_ok": null,
+              "confidence": 0.78,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.7919,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r01",
+          "label": "Kısa Vadeli Yükümlülükler",
+          "label_raw": "Kısa Vadeli Yükümlülükler",
+          "row_type": "parent",
+          "indent": 0,
+          "parent_id": "p6_r28",
+          "children": [
+            "p6_r02",
+            "p6_r03",
+            "p6_r06",
+            "p6_r09",
+            "p6_r10",
+            "p6_r11",
+            "p6_r12"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "63.553.798",
+              "kind": "number",
+              "value": 63553798,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.7856,
+              "arithmetic_ok": true,
+              "confidence": 0.9142,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "107.356.816",
+              "kind": "number",
+              "value": 107356816,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9887,
+              "arithmetic_ok": true,
+              "confidence": 0.9955,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9734,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r02",
+          "label": "Finansal Borçlar",
+          "label_raw": "Finansal Borçlar",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r01",
+          "children": [],
+          "note_refs": [
+            7
+          ],
+          "note_raw": "7",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "38.216.987",
+              "kind": "number",
+              "value": 38216987,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9982,
+              "arithmetic_ok": true,
+              "confidence": 0.9993,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "93.250.501",
+              "kind": "number",
+              "value": 93250501,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9596,
+              "arithmetic_ok": true,
+              "confidence": 0.9839,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9949,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r03",
+          "label": "Ticari Borglar",
+          "label_raw": "Ticari Borglar",
+          "row_type": "parent",
+          "indent": 1,
+          "parent_id": "p6_r01",
+          "children": [
+            "p6_r04",
+            "p6_r05"
+          ],
+          "note_refs": [
+            8
+          ],
+          "note_raw": "8",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "7,.932.336",
+              "kind": "number",
+              "value": 7932336,
+              "repairs": [
+                "doubled_separator"
+              ],
+              "source": "page",
+              "ocr_conf": 0.3426,
+              "arithmetic_ok": true,
+              "confidence": 0.6571,
+              "low_confidence": true
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "4.232.740",
+              "kind": "number",
+              "value": 4232740,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.955,
+              "arithmetic_ok": true,
+              "confidence": 0.982,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8676,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r04",
+          "label": "İlişkili Taraflara Ticari Borçlar",
+          "label_raw": "-İlişkili Taraflara Ticari Borçlar",
+          "row_type": "item",
+          "indent": 2,
+          "parent_id": "p6_r03",
+          "children": [],
+          "note_refs": [
+            28
+          ],
+          "note_raw": "28",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "4.993.230",
+              "kind": "number",
+              "value": 4993230,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8683,
+              "arithmetic_ok": true,
+              "confidence": 0.9473,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "-",
+              "kind": "dash",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.9,
+              "arithmetic_ok": true,
+              "confidence": 0.96,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8968,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r05",
+          "label": "Diğer Ticari Borçlar",
+          "label_raw": "~Diğer Ticari Borçlar",
+          "row_type": "item",
+          "indent": 2,
+          "parent_id": "p6_r03",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "2.939.106",
+              "kind": "number",
+              "value": 2939106,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9972,
+              "arithmetic_ok": true,
+              "confidence": 0.9989,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "4.232.740",
+              "kind": "number",
+              "value": 4232740,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9535,
+              "arithmetic_ok": true,
+              "confidence": 0.9814,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.944,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r06",
+          "label": "Diğer Borçlar",
+          "label_raw": "Diğer Borçlar",
+          "row_type": "parent",
+          "indent": 1,
+          "parent_id": "p6_r01",
+          "children": [
+            "p6_r07",
+            "p6_r08"
+          ],
+          "note_refs": [
+            9
+          ],
+          "note_raw": "9",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "2.784.832",
+              "kind": "number",
+              "value": 2784832,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8433,
+              "arithmetic_ok": true,
+              "confidence": 0.9373,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "3.244.930",
+              "kind": "number",
+              "value": 3244930,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9532,
+              "arithmetic_ok": true,
+              "confidence": 0.9813,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9233,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r07",
+          "label": "İlişkili Taraflara Diğer Borçlar",
+          "label_raw": "~İlişkili Taraflara Diğer Borçlar",
+          "row_type": "item",
+          "indent": 2,
+          "parent_id": "p6_r06",
+          "children": [],
+          "note_refs": [
+            28
+          ],
+          "note_raw": "28",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "1.500.000",
+              "kind": "number",
+              "value": 1500000,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9564,
+              "arithmetic_ok": true,
+              "confidence": 0.9825,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "1.887.911",
+              "kind": "number",
+              "value": 1887911,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8927,
+              "arithmetic_ok": true,
+              "confidence": 0.9571,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9254,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r08",
+          "label": "Diger Borçlar",
+          "label_raw": "Diger Borçlar",
+          "row_type": "item",
+          "indent": 2,
+          "parent_id": "p6_r06",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "1.284.832",
+              "kind": "number",
+              "value": 1284832,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.6716,
+              "arithmetic_ok": true,
+              "confidence": 0.8686,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "1.357.019",
+              "kind": "number",
+              "value": 1357019,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8586,
+              "arithmetic_ok": true,
+              "confidence": 0.9434,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9263,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r09",
+          "label": "Dönem Karı Vergi Yükümlüluğü",
+          "label_raw": "Dönem Karı Vergi Yükümlüluğü",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r01",
+          "children": [],
+          "note_refs": [
+            26
+          ],
+          "note_raw": "26",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "-",
+              "kind": "dash",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.9,
+              "arithmetic_ok": true,
+              "confidence": 0.96,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "776.915",
+              "kind": "number",
+              "value": 776915,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9742,
+              "arithmetic_ok": true,
+              "confidence": 0.9897,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9504,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r10",
+          "label": "Borç Karşılıkları",
+          "label_raw": "Borç Karşılıkları",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r01",
+          "children": [],
+          "note_refs": [
+            15
+          ],
+          "note_raw": "15",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "504,851",
+              "kind": "number",
+              "value": 504851,
+              "repairs": [
+                "comma_as_thousands_separator"
+              ],
+              "source": "page",
+              "ocr_conf": 0.8485,
+              "arithmetic_ok": true,
+              "confidence": 0.8594,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "-",
+              "kind": "dash",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.9,
+              "arithmetic_ok": true,
+              "confidence": 0.96,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9553,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r11",
+          "label": "Çalışanlara Sağlanan Faydalara Hlişkin Karşılıklar",
+          "label_raw": "Çalışanlara Sağlanan Faydalara Hlişkin Karşılıklar",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r01",
+          "children": [],
+          "note_refs": [
+            17
+          ],
+          "note_raw": "17",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "1.016.352",
+              "kind": "number",
+              "value": 1016352,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9787,
+              "arithmetic_ok": true,
+              "confidence": 0.9915,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "628.306",
+              "kind": "number",
+              "value": 628306,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9857,
+              "arithmetic_ok": true,
+              "confidence": 0.9943,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9177,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r12",
+          "label": "Diğer Kısa Vadeli Yükümlülükler",
+          "label_raw": "Diğer Kısa Vadeli Yükümlülükler",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r01",
+          "children": [],
+          "note_refs": [
+            18
+          ],
+          "note_raw": "18",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "13.098.440",
+              "kind": "number",
+              "value": 13098440,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9822,
+              "arithmetic_ok": true,
+              "confidence": 0.9929,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "5.223,424",
+              "kind": "number",
+              "value": 5223424,
+              "repairs": [
+                "comma_as_thousands_separator"
+              ],
+              "source": "page",
+              "ocr_conf": 0.6435,
+              "arithmetic_ok": true,
+              "confidence": 0.7774,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8538,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r13",
+          "label": "Uzn Vadeli Yükümlülükler",
+          "label_raw": "Uzn Vadeli Yükümlülükler",
+          "row_type": "parent",
+          "indent": 0,
+          "parent_id": "p6_r28",
+          "children": [
+            "p6_r14",
+            "p6_r15",
+            "p6_r16",
+            "p6_r17"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "136.150.924",
+              "kind": "number",
+              "value": 136150924,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9998,
+              "arithmetic_ok": true,
+              "confidence": 0.9999,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "54.471.741",
+              "kind": "number",
+              "value": 54471741,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8155,
+              "arithmetic_ok": true,
+              "confidence": 0.9262,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9784,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r14",
+          "label": "Finansal Borçlar",
+          "label_raw": "Finansal Borçlar",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r13",
+          "children": [],
+          "note_refs": [
+            7
+          ],
+          "note_raw": "7",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "71.554.357",
+              "kind": "number",
+              "value": 71554357,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9912,
+              "arithmetic_ok": true,
+              "confidence": 0.9965,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "1.180.562",
+              "kind": "number",
+              "value": 1180562,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8818,
+              "arithmetic_ok": true,
+              "confidence": 0.9527,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9623,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r15",
+          "label": "Diğer Uzun Vadeli Yukümlülükler",
+          "label_raw": "Diğer Uzun Vadeli Yukümlülükler",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r13",
+          "children": [],
+          "note_refs": [
+            18
+          ],
+          "note_raw": "18",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "20.384.859",
+              "kind": "number",
+              "value": 20384859,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9036,
+              "arithmetic_ok": true,
+              "confidence": 0.9614,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "-",
+              "kind": "dash",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.9,
+              "arithmetic_ok": true,
+              "confidence": 0.96,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9449,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r16",
+          "label": "Çalışanlara Sağlanan Faydalara Hlişkin Karşılıklar",
+          "label_raw": "Çalışanlara Sağlanan Faydalara Hlişkin Karşılıklar",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r13",
+          "children": [],
+          "note_refs": [
+            17
+          ],
+          "note_raw": "17",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "100.330",
+              "kind": "number",
+              "value": 100330,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9552,
+              "arithmetic_ok": true,
+              "confidence": 0.9821,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "122.730",
+              "kind": "number",
+              "value": 122730,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.7456,
+              "arithmetic_ok": true,
+              "confidence": 0.8983,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.824,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r17",
+          "label": "Ertelenmiş Vergi Yükümlülüğü",
+          "label_raw": "Ertelenmiş Vergi Yükümlülüğü",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r13",
+          "children": [],
+          "note_refs": [
+            26
+          ],
+          "note_raw": "26",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "44.111.378",
+              "kind": "number",
+              "value": 44111378,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8858,
+              "arithmetic_ok": true,
+              "confidence": 0.9543,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "53.168.449",
+              "kind": "number",
+              "value": 53168449,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9978,
+              "arithmetic_ok": true,
+              "confidence": 0.9991,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9728,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r18",
+          "label": "ÖZKAYNAKLAR",
+          "label_raw": "ÖZKAYNAKLAR",
+          "row_type": "parent",
+          "indent": 0,
+          "parent_id": "p6_r28",
+          "children": [
+            "p6_r19",
+            "p6_r27"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "652.445.082",
+              "kind": "number",
+              "value": 652445082,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8573,
+              "arithmetic_ok": true,
+              "confidence": 0.9429,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "619.579.720",
+              "kind": "number",
+              "value": 619579720,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.6388,
+              "arithmetic_ok": true,
+              "confidence": 0.8555,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9596,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r19",
+          "label": "Ana Ortaklığa Ait Özkaynaklar",
+          "label_raw": "Ana Ortaklığa Ait Özkaynaklar",
+          "row_type": "parent",
+          "indent": 0,
+          "parent_id": "p6_r18",
+          "children": [
+            "p6_r20",
+            "p6_r21",
+            "p6_r22",
+            "p6_r23",
+            "p6_r24",
+            "p6_r25",
+            "p6_r26"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "527.217.933",
+              "kind": "number",
+              "value": 527217933,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8253,
+              "arithmetic_ok": true,
+              "confidence": 0.9301,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "492.663.853",
+              "kind": "number",
+              "value": 492663853,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.7145,
+              "arithmetic_ok": true,
+              "confidence": 0.8858,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9564,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r20",
+          "label": "Çıkarılmış Sermaye",
+          "label_raw": "Çıkarılmış Sermaye",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r19",
+          "children": [],
+          "note_refs": [
+            19
+          ],
+          "note_raw": "19",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "157.000.000",
+              "kind": "number",
+              "value": 157000000,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9968,
+              "arithmetic_ok": true,
+              "confidence": 0.9987,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "141.483.500",
+              "kind": "number",
+              "value": 141483500,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8828,
+              "arithmetic_ok": true,
+              "confidence": 0.9531,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9882,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r21",
+          "label": "Hisse Senedi İhraç Primleri",
+          "label_raw": "Hisse Senedi İhraç Primleri",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r19",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "22.322.361",
+              "kind": "number",
+              "value": 22322361,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.643,
+              "arithmetic_ok": true,
+              "confidence": 0.8572,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "-",
+              "kind": "dash",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.9,
+              "arithmetic_ok": true,
+              "confidence": 0.96,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8834,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r22",
+          "label": "Sermaye Rezervleri",
+          "label_raw": "Sermaye Rezervleri",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r19",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "124.390.608",
+              "kind": "number",
+              "value": 124390608,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9861,
+              "arithmetic_ok": true,
+              "confidence": 0.9945,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "124.390.608",
+              "kind": "number",
+              "value": 124390608,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8878,
+              "arithmetic_ok": true,
+              "confidence": 0.9551,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9543,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r23",
+          "label": "Maddi Duran Varlık Yeniden Değerleme Fonu",
+          "label_raw": "Maddi Duran Varlık Yeniden Değerleme Fonu",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r19",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "100.574.161",
+              "kind": "number",
+              "value": 100574161,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.996,
+              "arithmetic_ok": true,
+              "confidence": 0.9984,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "111.878.913",
+              "kind": "number",
+              "value": 111878913,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8939,
+              "arithmetic_ok": true,
+              "confidence": 0.9576,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9836,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r24",
+          "label": "Kardan Ayrılan Kısıtlanmış Yedekler",
+          "label_raw": "Kardan Ayrılan Kısıtlanmış Yedekler",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r19",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "2.569.141",
+              "kind": "number",
+              "value": 2569141,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.789,
+              "arithmetic_ok": true,
+              "confidence": 0.9156,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "53.036",
+              "kind": "number",
+              "value": 53036,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9298,
+              "arithmetic_ok": true,
+              "confidence": 0.9719,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9255,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r25",
+          "label": "Geçmiş Yıllar Karları / (Zararları)",
+          "label_raw": "Geçmiş Yıllar Karları / (Zararları)",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r19",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "111.301.075",
+              "kind": "number",
+              "value": 111301075,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9952,
+              "arithmetic_ok": true,
+              "confidence": 0.9981,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "(46.784.714)",
+              "kind": "number",
+              "value": -46784714,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.977,
+              "arithmetic_ok": true,
+              "confidence": 0.9908,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9749,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r26",
+          "label": "Net Dönem Karı",
+          "label_raw": "Net Dönem Karı",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p6_r19",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "9.060.587",
+              "kind": "number",
+              "value": 9060587,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8419,
+              "arithmetic_ok": true,
+              "confidence": 0.9368,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "161.642.510",
+              "kind": "number",
+              "value": 161642510,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9705,
+              "arithmetic_ok": true,
+              "confidence": 0.9882,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9151,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r27",
+          "label": "Kontrol Gücü Olmayan Paylar",
+          "label_raw": "Kontrol Gücü Olmayan Paylar",
+          "row_type": "item",
+          "indent": 0,
+          "parent_id": "p6_r18",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "125.227.149",
+              "kind": "number",
+              "value": 125227149,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.7144,
+              "arithmetic_ok": true,
+              "confidence": 0.8857,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "126.915.867",
+              "kind": "number",
+              "value": 126915867,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9283,
+              "arithmetic_ok": true,
+              "confidence": 0.9713,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9144,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p6_r28",
+          "label": "TOPLAM KAYNAKLAR",
+          "label_raw": "TOPLAM KAYNAKLAR",
+          "row_type": "total",
+          "indent": 0,
+          "parent_id": null,
+          "children": [
+            "p6_r01",
+            "p6_r13",
+            "p6_r18"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "852.149.804",
+              "kind": "number",
+              "value": 852149804,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9932,
+              "arithmetic_ok": true,
+              "confidence": 0.9973,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "781.408.277",
+              "kind": "number",
+              "value": 781408277,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8077,
+              "arithmetic_ok": true,
+              "confidence": 0.9231,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9834,
+          "low_confidence": false,
+          "flags": []
+        }
+      ],
+      "checks": [
+        {
+          "relation": "sum_of_following",
+          "column": "v0",
+          "parent_row": "p6_r01",
+          "component_rows": [
+            "p6_r02",
+            "p6_r03",
+            "p6_r06",
+            "p6_r09",
+            "p6_r10",
+            "p6_r11",
+            "p6_r12"
+          ],
+          "expected": 63553798,
+          "computed": 63553798,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v1",
+          "parent_row": "p6_r01",
+          "component_rows": [
+            "p6_r02",
+            "p6_r03",
+            "p6_r06",
+            "p6_r09",
+            "p6_r10",
+            "p6_r11",
+            "p6_r12"
+          ],
+          "expected": 107356816,
+          "computed": 107356816,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v0",
+          "parent_row": "p6_r03",
+          "component_rows": [
+            "p6_r04",
+            "p6_r05"
+          ],
+          "expected": 7932336,
+          "computed": 7932336,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v1",
+          "parent_row": "p6_r03",
+          "component_rows": [
+            "p6_r04",
+            "p6_r05"
+          ],
+          "expected": 4232740,
+          "computed": 4232740,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v0",
+          "parent_row": "p6_r06",
+          "component_rows": [
+            "p6_r07",
+            "p6_r08"
+          ],
+          "expected": 2784832,
+          "computed": 2784832,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v1",
+          "parent_row": "p6_r06",
+          "component_rows": [
+            "p6_r07",
+            "p6_r08"
+          ],
+          "expected": 3244930,
+          "computed": 3244930,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v0",
+          "parent_row": "p6_r13",
+          "component_rows": [
+            "p6_r14",
+            "p6_r15",
+            "p6_r16",
+            "p6_r17"
+          ],
+          "expected": 136150924,
+          "computed": 136150924,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v1",
+          "parent_row": "p6_r13",
+          "component_rows": [
+            "p6_r14",
+            "p6_r15",
+            "p6_r16",
+            "p6_r17"
+          ],
+          "expected": 54471741,
+          "computed": 54471741,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v0",
+          "parent_row": "p6_r19",
+          "component_rows": [
+            "p6_r20",
+            "p6_r21",
+            "p6_r22",
+            "p6_r23",
+            "p6_r24",
+            "p6_r25",
+            "p6_r26"
+          ],
+          "expected": 527217933,
+          "computed": 527217933,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v1",
+          "parent_row": "p6_r19",
+          "component_rows": [
+            "p6_r20",
+            "p6_r21",
+            "p6_r22",
+            "p6_r23",
+            "p6_r24",
+            "p6_r25",
+            "p6_r26"
+          ],
+          "expected": 492663853,
+          "computed": 492663853,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v0",
+          "parent_row": "p6_r18",
+          "component_rows": [
+            "p6_r19",
+            "p6_r27"
+          ],
+          "expected": 652445082,
+          "computed": 652445082,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v1",
+          "parent_row": "p6_r18",
+          "component_rows": [
+            "p6_r19",
+            "p6_r27"
+          ],
+          "expected": 619579720,
+          "computed": 619579720,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v0",
+          "parent_row": "p6_r28",
+          "component_rows": [
+            "p6_r01",
+            "p6_r13",
+            "p6_r18"
+          ],
+          "expected": 852149804,
+          "computed": 852149804,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v1",
+          "parent_row": "p6_r28",
+          "component_rows": [
+            "p6_r01",
+            "p6_r13",
+            "p6_r18"
+          ],
+          "expected": 781408277,
+          "computed": 781408277,
+          "difference": 0,
+          "passed": true
+        }
+      ],
+      "confidence": 0.9595,
+      "low_confidence": false
+    },
+    {
+      "table_id": "p7_comprehensive_income",
+      "page": 7,
+      "statement_type": "comprehensive_income",
+      "company": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI AŞ. VE BAĞLI ORTAKLIKLARI",
+      "title": "BAĞIMSIZ DENETİMDEN GEÇMİŞ 31 ARALIK 2012 TARİHİNDE SONA EREN YILA AİT KONSOLDDE KAPSAMLI GELİR TABLOSU",
+      "currency": "TRY",
+      "unit_scale": 1,
+      "unit_text": "(Tüm tutarlar Türk Lirası (TL) olarak gösterilmistir)",
+      "columns": [
+        {
+          "col_id": "v0",
+          "period": {
+            "type": "duration",
+            "start": "2012-01-01",
+            "end": "2012-12-31",
+            "role": "current",
+            "audited": true,
+            "header": "Cari Dönem   Geçmiş Dönem Bağımsız Denetimden Geçmiş 1 Ocak- 31 Aralık 2012"
+          }
+        },
+        {
+          "col_id": "v1",
+          "period": {
+            "type": "duration",
+            "start": "2011-01-01",
+            "end": "2011-12-31",
+            "role": "prior",
+            "audited": true,
+            "header": "Cari Dönem   Geçmiş Dönem Bağımsız Denetimden Geçmiş 1 Ocak- 31 Aralık 2011"
+          }
+        }
+      ],
+      "rows": [
+        {
+          "row_id": "p7_r00",
+          "label": "Satış Gelirleri",
+          "label_raw": "Satış Gelirleri",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p7_r02",
+          "children": [],
+          "note_refs": [
+            20
+          ],
+          "note_raw": "20",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "77.043.573",
+              "kind": "number",
+              "value": 77043573,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9988,
+              "arithmetic_ok": true,
+              "confidence": 0.9995,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "76.431.595",
+              "kind": "number",
+              "value": 76431595,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.836,
+              "arithmetic_ok": true,
+              "confidence": 0.9344,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9118,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r01",
+          "label": "Satışların Maliyeti (-)",
+          "label_raw": "Satışların Maliyeti (-)",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p7_r02",
+          "children": [],
+          "note_refs": [
+            20
+          ],
+          "note_raw": "20",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(49.167.330)",
+              "kind": "number",
+              "value": -49167330,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.7503,
+              "arithmetic_ok": true,
+              "confidence": 0.9001,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "(44.411.839)",
+              "kind": "number",
+              "value": -44411839,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8415,
+              "arithmetic_ok": true,
+              "confidence": 0.9366,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8377,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r02",
+          "label": "BRÜT KAR",
+          "label_raw": "BRÜT KAR",
+          "row_type": "total",
+          "indent": 0,
+          "parent_id": "p7_r08",
+          "children": [
+            "p7_r00",
+            "p7_r01"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "27.876.243",
+              "kind": "number",
+              "value": 27876243,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.7791,
+              "arithmetic_ok": true,
+              "confidence": 0.9117,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "32.019.756",
+              "kind": "number",
+              "value": 32019756,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9934,
+              "arithmetic_ok": true,
+              "confidence": 0.9973,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9816,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r03",
+          "label": "Pazarlama Satış ve Dağıtım Giderleri (-)",
+          "label_raw": "Pazarlama Satış ve Dağıtım Giderleri (-)",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p7_r08",
+          "children": [],
+          "note_refs": [
+            21
+          ],
+          "note_raw": "21",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(10.043.970)",
+              "kind": "number",
+              "value": -10043970,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8893,
+              "arithmetic_ok": true,
+              "confidence": 0.9557,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "(9.733.892)",
+              "kind": "number",
+              "value": -9733892,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9644,
+              "arithmetic_ok": true,
+              "confidence": 0.9857,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8774,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r04",
+          "label": "Genel Yönetim Giderleri (-)",
+          "label_raw": "Genel Yönetim Giderleri (-)",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p7_r08",
+          "children": [],
+          "note_refs": [
+            21
+          ],
+          "note_raw": "21",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(13.500.342)",
+              "kind": "number",
+              "value": -13500342,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.7518,
+              "arithmetic_ok": true,
+              "confidence": 0.9007,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "(2.680.177)",
+              "kind": "number",
+              "value": -2680177,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.7565,
+              "arithmetic_ok": true,
+              "confidence": 0.9026,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.933,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r05",
+          "label": "Yatırım Amaçlı Gayrimenkul Değerleme Farkları",
+          "label_raw": "Yatırım Amaçlı Gayrimenkul Değerleme Farkları",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p7_r08",
+          "children": [],
+          "note_refs": [
+            11
+          ],
+          "note_raw": "Il",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "3.896.434",
+              "kind": "number",
+              "value": 3896434,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.6979,
+              "arithmetic_ok": true,
+              "confidence": 0.8792,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "151.350.000",
+              "kind": "number",
+              "value": 151350000,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9781,
+              "arithmetic_ok": true,
+              "confidence": 0.9913,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9124,
+          "low_confidence": false,
+          "flags": [
+            "note_ref_repaired"
+          ]
+        },
+        {
+          "row_id": "p7_r06",
+          "label": "Diğer Faaliyet Gelirleri",
+          "label_raw": "Diğer Faaliyet Gelirleri",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p7_r08",
+          "children": [],
+          "note_refs": [
+            23
+          ],
+          "note_raw": "23",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "105.590",
+              "kind": "number",
+              "value": 105590,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9995,
+              "arithmetic_ok": true,
+              "confidence": 0.9998,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "5.030.355",
+              "kind": "number",
+              "value": 5030355,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.743,
+              "arithmetic_ok": true,
+              "confidence": 0.8972,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9776,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r07",
+          "label": "Diğer Faaliyet Giderleri (-)",
+          "label_raw": "Diğer Faaliyet Giderleri (-)",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p7_r08",
+          "children": [],
+          "note_refs": [
+            23
+          ],
+          "note_raw": "23",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(346.564)",
+              "kind": "number",
+              "value": -346564,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8162,
+              "arithmetic_ok": true,
+              "confidence": 0.9265,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "(561.989)",
+              "kind": "number",
+              "value": -561989,
+              "repairs": [
+                "reread_replaced:(561.5989)"
+              ],
+              "source": "reread",
+              "ocr_conf": 0.9632,
+              "arithmetic_ok": true,
+              "confidence": 0.9053,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.907,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r08",
+          "label": "FAALİYET KARI",
+          "label_raw": "FAALİYET KARI",
+          "row_type": "total",
+          "indent": 0,
+          "parent_id": "p7_r12",
+          "children": [
+            "p7_r02",
+            "p7_r03",
+            "p7_r04",
+            "p7_r05",
+            "p7_r06",
+            "p7_r07"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "7.987.391",
+              "kind": "number",
+              "value": 7987391,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9853,
+              "arithmetic_ok": true,
+              "confidence": 0.9941,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "175.424.053",
+              "kind": "number",
+              "value": 175424053,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9378,
+              "arithmetic_ok": true,
+              "confidence": 0.9751,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.993,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r09",
+          "label": "Özkaynak Yöntemiyle Değerlenen Yatırımların KarlZararlarındaki Paylar",
+          "label_raw": "Özkaynak Yöntemiyle Değerlenen Yatırımların KarlZararlarındaki Paylar",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p7_r12",
+          "children": [],
+          "note_refs": [
+            6
+          ],
+          "note_raw": "6",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "71.896",
+              "kind": "number",
+              "value": 71896,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.6359,
+              "arithmetic_ok": true,
+              "confidence": 0.8544,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "-",
+              "kind": "dash",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.9,
+              "arithmetic_ok": true,
+              "confidence": 0.96,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9145,
+          "low_confidence": false,
+          "flags": [
+            "wrapped_label_merged"
+          ]
+        },
+        {
+          "row_id": "p7_r10",
+          "label": "(Esas Faaliyet Dışı) Finansal Gelirler",
+          "label_raw": "(Esas Faaliyet Dışı) Finansal Gelirler",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p7_r12",
+          "children": [],
+          "note_refs": [
+            24
+          ],
+          "note_raw": "24",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "19.727.437",
+              "kind": "number",
+              "value": 19727437,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.5737,
+              "arithmetic_ok": true,
+              "confidence": 0.8295,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "13.834.817",
+              "kind": "number",
+              "value": 13834817,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9978,
+              "arithmetic_ok": true,
+              "confidence": 0.9991,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9348,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r11",
+          "label": "(Esas Faaliyet Dışt) Finansal Giderler (-)",
+          "label_raw": "(Esas Faaliyet Dışt) Finansal Giderler (-)",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p7_r12",
+          "children": [],
+          "note_refs": [
+            25
+          ],
+          "note_raw": "25",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(16.289.551)",
+              "kind": "number",
+              "value": -16289551,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.7013,
+              "arithmetic_ok": true,
+              "confidence": 0.8805,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "(24.329.214)",
+              "kind": "number",
+              "value": -24329214,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8608,
+              "arithmetic_ok": true,
+              "confidence": 0.9443,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8667,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r12",
+          "label": "VERGİ ÖNCESİ KAR",
+          "label_raw": "VERGİ ÖNCESİ KAR",
+          "row_type": "total",
+          "indent": 0,
+          "parent_id": "p7_r16",
+          "children": [
+            "p7_r08",
+            "p7_r09",
+            "p7_r10",
+            "p7_r11"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "11.497.173",
+              "kind": "number",
+              "value": 11497173,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.6623,
+              "arithmetic_ok": true,
+              "confidence": 0.8649,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "164.929.656",
+              "kind": "number",
+              "value": 164929656,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.6633,
+              "arithmetic_ok": true,
+              "confidence": 0.8653,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9055,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r13",
+          "label": "Vergi Gelir / (Gideri)",
+          "label_raw": "Vergi Gelir / (Gideri)",
+          "row_type": "parent",
+          "indent": 0,
+          "parent_id": "p7_r16",
+          "children": [
+            "p7_r14",
+            "p7_r15"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(778.217)",
+              "kind": "number",
+              "value": -778217,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.966,
+              "arithmetic_ok": true,
+              "confidence": 0.9864,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "(3.015.405)",
+              "kind": "number",
+              "value": -3015405,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9196,
+              "arithmetic_ok": true,
+              "confidence": 0.9678,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8713,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r14",
+          "label": "Dönem Vergi Gideri",
+          "label_raw": "Dönem Vergi Gideri",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p7_r13",
+          "children": [],
+          "note_refs": [
+            26
+          ],
+          "note_raw": "26",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(676.668)",
+              "kind": "number",
+              "value": -676668,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9625,
+              "arithmetic_ok": true,
+              "confidence": 0.985,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "(3.742.633)",
+              "kind": "number",
+              "value": -3742633,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.916,
+              "arithmetic_ok": true,
+              "confidence": 0.9664,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.975,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r15",
+          "label": "Ertelenmiş Vergi Geliri",
+          "label_raw": "Ertelenmiş Vergi Geliri",
+          "row_type": "item",
+          "indent": 1,
+          "parent_id": "p7_r13",
+          "children": [],
+          "note_refs": [
+            26
+          ],
+          "note_raw": "26",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(101.549)",
+              "kind": "number",
+              "value": -101549,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9671,
+              "arithmetic_ok": true,
+              "confidence": 0.9868,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "727.228",
+              "kind": "number",
+              "value": 727228,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.664,
+              "arithmetic_ok": true,
+              "confidence": 0.8656,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8519,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r16",
+          "label": "DÖNEM KARI",
+          "label_raw": "DÖNEM KARI",
+          "row_type": "total",
+          "indent": 0,
+          "parent_id": "p7_r24",
+          "children": [
+            "p7_r12",
+            "p7_r13"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "10.718.956",
+              "kind": "number",
+              "value": 10718956,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9507,
+              "arithmetic_ok": true,
+              "confidence": 0.9803,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "161.914.251",
+              "kind": "number",
+              "value": 161914251,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8968,
+              "arithmetic_ok": true,
+              "confidence": 0.9587,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9058,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r17",
+          "label": "Dönem Karı Dağılımı",
+          "label_raw": "Dönem Karı Dağılımı",
+          "row_type": "section_header",
+          "indent": 0,
+          "parent_id": null,
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "",
+              "kind": "empty",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.95,
+              "arithmetic_ok": null,
+              "confidence": 0.78,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "",
+              "kind": "empty",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.95,
+              "arithmetic_ok": null,
+              "confidence": 0.78,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.7671,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r18",
+          "label": "Kontrol Gucü Olmayan Paylar",
+          "label_raw": "Kontrol Gucü Olmayan Paylar",
+          "row_type": "item",
+          "indent": 0,
+          "parent_id": "p7_r20",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "1.658.369",
+              "kind": "number",
+              "value": 1658369,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.7114,
+              "arithmetic_ok": true,
+              "confidence": 0.8845,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "271.741",
+              "kind": "number",
+              "value": 271741,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.7158,
+              "arithmetic_ok": true,
+              "confidence": 0.8863,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8849,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r19",
+          "label": "Ana Ortaklık Payları",
+          "label_raw": "Ana Ortaklık Payları",
+          "row_type": "item",
+          "indent": 0,
+          "parent_id": "p7_r20",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "9.060.587",
+              "kind": "number",
+              "value": 9060587,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8833,
+              "arithmetic_ok": true,
+              "confidence": 0.9533,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "161.642.510",
+              "kind": "number",
+              "value": 161642510,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8265,
+              "arithmetic_ok": true,
+              "confidence": 0.9306,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9395,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r20",
+          "label": "",
+          "label_raw": "",
+          "row_type": "total",
+          "indent": -1,
+          "parent_id": null,
+          "children": [
+            "p7_r18",
+            "p7_r19"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "10.718.956",
+              "kind": "number",
+              "value": 10718956,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.7195,
+              "arithmetic_ok": true,
+              "confidence": 0.8878,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "161.914.251",
+              "kind": "number",
+              "value": 161914251,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8811,
+              "arithmetic_ok": true,
+              "confidence": 0.9525,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8481,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r21",
+          "label": "Hisse başına kazanç",
+          "label_raw": "Hisse başına kazanç",
+          "row_type": "item",
+          "indent": 0,
+          "parent_id": null,
+          "children": [],
+          "note_refs": [
+            27
+          ],
+          "note_raw": "27",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "0,058",
+              "kind": "number",
+              "value": 0.058,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9967,
+              "arithmetic_ok": null,
+              "confidence": 0.7987,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "1,191",
+              "kind": "number",
+              "value": 1.191,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9947,
+              "arithmetic_ok": null,
+              "confidence": 0.7979,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.7037,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r22",
+          "label": "Diğer Kapsamlı (Gider) / Gelir",
+          "label_raw": "Diğer Kapsamlı (Gider) / Gelir",
+          "row_type": "parent",
+          "indent": 0,
+          "parent_id": "p7_r24",
+          "children": [
+            "p7_r23"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(19.846.865)",
+              "kind": "number",
+              "value": -19846865,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9943,
+              "arithmetic_ok": true,
+              "confidence": 0.9977,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "196.292.383",
+              "kind": "number",
+              "value": 196292383,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9921,
+              "arithmetic_ok": true,
+              "confidence": 0.9969,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9768,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r23",
+          "label": "Duran Varlıklar Değer Artış Fonundaki Değişim",
+          "label_raw": "Duran Varlıklar Değer_ Artış Fonundaki Değişim",
+          "row_type": "item",
+          "indent": 0,
+          "parent_id": "p7_r22",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(19.846.865)",
+              "kind": "number",
+              "value": -19846865,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.876,
+              "arithmetic_ok": true,
+              "confidence": 0.9504,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "196.292.383",
+              "kind": "number",
+              "value": 196292383,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9147,
+              "arithmetic_ok": true,
+              "confidence": 0.9659,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9472,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r24",
+          "label": "TOPLAM KAPSAMLI (GİDER) / GELİR",
+          "label_raw": "TOPLAM KAPSAMLI (GİDER) / GELİR",
+          "row_type": "total",
+          "indent": 0,
+          "parent_id": null,
+          "children": [
+            "p7_r16",
+            "p7_r22"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(9.127.909)",
+              "kind": "number",
+              "value": -9127909,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8465,
+              "arithmetic_ok": true,
+              "confidence": 0.9386,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "358.206.634",
+              "kind": "number",
+              "value": 358206634,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.99,
+              "arithmetic_ok": true,
+              "confidence": 0.996,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9377,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r25",
+          "label": "Toplam Kapsamlı (Giderin) / Gelirin Dağılımı",
+          "label_raw": "Toplam Kapsamlı (Giderin) / Gelirin Dağılımı",
+          "row_type": "section_header",
+          "indent": 0,
+          "parent_id": null,
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "",
+              "kind": "empty",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.95,
+              "arithmetic_ok": null,
+              "confidence": 0.78,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "",
+              "kind": "empty",
+              "value": null,
+              "repairs": [],
+              "source": "pixels",
+              "ocr_conf": 0.95,
+              "arithmetic_ok": null,
+              "confidence": 0.78,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.726,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r26",
+          "label": "Kontrol Gücü Olmayan Paylar",
+          "label_raw": "Kontrol Gücü Olmayan Paylar",
+          "row_type": "item",
+          "indent": 0,
+          "parent_id": "p7_r28",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(6.883.744)",
+              "kind": "number",
+              "value": -6883744,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8497,
+              "arithmetic_ok": true,
+              "confidence": 0.9399,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "84.685.211",
+              "kind": "number",
+              "value": 84685211,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9636,
+              "arithmetic_ok": true,
+              "confidence": 0.9854,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9793,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r27",
+          "label": "Ana Ortaklık Payları",
+          "label_raw": "Ana Ortaklık Payları",
+          "row_type": "item",
+          "indent": 0,
+          "parent_id": "p7_r28",
+          "children": [],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(2.244.165)",
+              "kind": "number",
+              "value": -2244165,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9632,
+              "arithmetic_ok": true,
+              "confidence": 0.9853,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "273.521.423",
+              "kind": "number",
+              "value": 273521423,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.6253,
+              "arithmetic_ok": true,
+              "confidence": 0.8501,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.9586,
+          "low_confidence": false,
+          "flags": []
+        },
+        {
+          "row_id": "p7_r28",
+          "label": "",
+          "label_raw": "",
+          "row_type": "total",
+          "indent": -1,
+          "parent_id": null,
+          "children": [
+            "p7_r26",
+            "p7_r27"
+          ],
+          "note_refs": [],
+          "note_raw": "",
+          "values": [
+            {
+              "col_id": "v0",
+              "period_end": "2012-12-31",
+              "raw": "(9.127.909)",
+              "kind": "number",
+              "value": -9127909,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.8019,
+              "arithmetic_ok": true,
+              "confidence": 0.9207,
+              "low_confidence": false
+            },
+            {
+              "col_id": "v1",
+              "period_end": "2011-12-31",
+              "raw": "358.206.634",
+              "kind": "number",
+              "value": 358206634,
+              "repairs": [],
+              "source": "page",
+              "ocr_conf": 0.9914,
+              "arithmetic_ok": true,
+              "confidence": 0.9966,
+              "low_confidence": false
+            }
+          ],
+          "confidence": 0.8635,
+          "low_confidence": false,
+          "flags": []
+        }
+      ],
+      "checks": [
+        {
+          "relation": "sum_of_following",
+          "column": "v0",
+          "parent_row": "p7_r13",
+          "component_rows": [
+            "p7_r14",
+            "p7_r15"
+          ],
+          "expected": -778217,
+          "computed": -778217,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_following",
+          "column": "v1",
+          "parent_row": "p7_r13",
+          "component_rows": [
+            "p7_r14",
+            "p7_r15"
+          ],
+          "expected": -3015405,
+          "computed": -3015405,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "single_component",
+          "column": "v0",
+          "parent_row": "p7_r22",
+          "component_rows": [
+            "p7_r23"
+          ],
+          "expected": -19846865,
+          "computed": -19846865,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "single_component",
+          "column": "v1",
+          "parent_row": "p7_r22",
+          "component_rows": [
+            "p7_r23"
+          ],
+          "expected": 196292383,
+          "computed": 196292383,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v0",
+          "parent_row": "p7_r02",
+          "component_rows": [
+            "p7_r00",
+            "p7_r01"
+          ],
+          "expected": 27876243,
+          "computed": 27876243,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v1",
+          "parent_row": "p7_r02",
+          "component_rows": [
+            "p7_r00",
+            "p7_r01"
+          ],
+          "expected": 32019756,
+          "computed": 32019756,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v0",
+          "parent_row": "p7_r08",
+          "component_rows": [
+            "p7_r02",
+            "p7_r03",
+            "p7_r04",
+            "p7_r05",
+            "p7_r06",
+            "p7_r07"
+          ],
+          "expected": 7987391,
+          "computed": 7987391,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v1",
+          "parent_row": "p7_r08",
+          "component_rows": [
+            "p7_r02",
+            "p7_r03",
+            "p7_r04",
+            "p7_r05",
+            "p7_r06",
+            "p7_r07"
+          ],
+          "expected": 175424053,
+          "computed": 175424053,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v0",
+          "parent_row": "p7_r12",
+          "component_rows": [
+            "p7_r08",
+            "p7_r09",
+            "p7_r10",
+            "p7_r11"
+          ],
+          "expected": 11497173,
+          "computed": 11497173,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v1",
+          "parent_row": "p7_r12",
+          "component_rows": [
+            "p7_r08",
+            "p7_r09",
+            "p7_r10",
+            "p7_r11"
+          ],
+          "expected": 164929656,
+          "computed": 164929656,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v0",
+          "parent_row": "p7_r16",
+          "component_rows": [
+            "p7_r12",
+            "p7_r13"
+          ],
+          "expected": 10718956,
+          "computed": 10718956,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v1",
+          "parent_row": "p7_r16",
+          "component_rows": [
+            "p7_r12",
+            "p7_r13"
+          ],
+          "expected": 161914251,
+          "computed": 161914251,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v0",
+          "parent_row": "p7_r20",
+          "component_rows": [
+            "p7_r18",
+            "p7_r19"
+          ],
+          "expected": 10718956,
+          "computed": 10718956,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v1",
+          "parent_row": "p7_r20",
+          "component_rows": [
+            "p7_r18",
+            "p7_r19"
+          ],
+          "expected": 161914251,
+          "computed": 161914251,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v0",
+          "parent_row": "p7_r24",
+          "component_rows": [
+            "p7_r16",
+            "p7_r22"
+          ],
+          "expected": -9127909,
+          "computed": -9127909,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v1",
+          "parent_row": "p7_r24",
+          "component_rows": [
+            "p7_r16",
+            "p7_r22"
+          ],
+          "expected": 358206634,
+          "computed": 358206634,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v0",
+          "parent_row": "p7_r28",
+          "component_rows": [
+            "p7_r26",
+            "p7_r27"
+          ],
+          "expected": -9127909,
+          "computed": -9127909,
+          "difference": 0,
+          "passed": true
+        },
+        {
+          "relation": "sum_of_preceding",
+          "column": "v1",
+          "parent_row": "p7_r28",
+          "component_rows": [
+            "p7_r26",
+            "p7_r27"
+          ],
+          "expected": 358206634,
+          "computed": 358206634,
+          "difference": 0,
+          "passed": true
+        }
+      ],
+      "confidence": 0.9398,
+      "low_confidence": false
+    }
+  ],
+  "note": {
+    "pages": {
+      "note_number": 11,
+      "title": "YATIRIM AMAÇLI GAYRİMENKULLER",
+      "pages": [
+        53,
+        54
+      ],
+      "printed_pages": [
+        49,
+        50
+      ],
+      "start": {
+        "page": 53,
+        "y": 463.0
+      },
+      "end": {
+        "page": 54,
+        "y": null
+      },
+      "toc_entry": {
+        "title": "YATIRIM AMAÇLI GAYRIMENKULLER",
+        "printed_pages": [
+          49,
+          50
+        ]
+      },
+      "page_offset": 4,
+      "confidence": 0.9897,
+      "flags": []
+    },
+    "blocks": [
+      {
+        "block_id": "n11_b1",
+        "page": 53,
+        "year": 2012,
+        "columns": [
+          "Arazi ve Arsalar",
+          "Binalar",
+          "Toplam"
+        ],
+        "row_ids": [
+          "n11_p53_r01",
+          "n11_p53_r02",
+          "n11_p53_r03",
+          "n11_p53_r04",
+          "n11_p53_r05",
+          "n11_p53_r06"
+        ]
+      },
+      {
+        "block_id": "n11_b2",
+        "page": 53,
+        "year": 2011,
+        "columns": [
+          "Arazi ve Arsalar",
+          "Binalar",
+          "Toplam"
+        ],
+        "row_ids": [
+          "n11_p53_r07",
+          "n11_p53_r08",
+          "n11_p53_r09",
+          "n11_p53_r10",
+          "n11_p53_r11"
+        ]
+      },
+      {
+        "block_id": "n11_b3",
+        "page": 54,
+        "year": 2012,
+        "columns": [
+          "31 Aralık 2012",
+          "31 Aralık 2011"
+        ],
+        "row_ids": [
+          "n11_p54_r12",
+          "n11_p54_r13",
+          "n11_p54_r14"
+        ]
+      },
+      {
+        "block_id": "n11_b4",
+        "page": 54,
+        "year": 2012,
+        "columns": [
+          "31 Aralık 2012 Gerçege Oygun Değeri",
+          "31 Aralık 2011 Gerçege Uygun Değeri"
+        ],
+        "row_ids": [
+          "n11_p54_r15",
+          "n11_p54_r16",
+          "n11_p54_r17",
+          "n11_p54_r18",
+          "n11_p54_r19"
+        ]
+      }
+    ],
+    "rows": [
+      {
+        "row_id": "n11_p53_r01",
+        "block_id": "n11_b1",
+        "page": 53,
+        "label": "1 Ocak 2012 itibari ile açılış bakiyesi",
+        "values": [
+          {
+            "raw": "227.317.822",
+            "kind": "number",
+            "value": 227317822,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.7746723804049107,
+            "col": 0,
+            "header": "Arazi ve Arsalar",
+            "period": {
+              "date": "2012-01-01",
+              "year": 2012,
+              "source": "label"
+            },
+            "confidence": 0.8648
+          },
+          {
+            "raw": "196.262.178",
+            "kind": "number",
+            "value": 196262178,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9749827203549816,
+            "col": 1,
+            "header": "Binalar",
+            "period": {
+              "date": "2012-01-01",
+              "year": 2012,
+              "source": "label"
+            },
+            "confidence": 0.985
+          },
+          {
+            "raw": "423.580.000",
+            "kind": "number",
+            "value": 423580000,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9698112255731807,
+            "col": 2,
+            "header": "Toplam",
+            "period": {
+              "date": "2012-01-01",
+              "year": 2012,
+              "source": "label"
+            },
+            "confidence": 0.9819
+          }
+        ],
+        "confidence": 0.8752
+      },
+      {
+        "row_id": "n11_p53_r02",
+        "block_id": "n11_b1",
+        "page": 53,
+        "label": "Alı sonrası yapılan harcamalar",
+        "values": [
+          {
+            "raw": "19.197.311",
+            "kind": "number",
+            "value": 19197311,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9248765025079715,
+            "col": 0,
+            "header": "Arazi ve Arsalar",
+            "period": {
+              "date": null,
+              "year": 2012,
+              "source": "block"
+            },
+            "confidence": 0.9549
+          },
+          {
+            "raw": "-",
+            "kind": "dash",
+            "value": null,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9,
+            "col": 1,
+            "header": "Binalar",
+            "period": {
+              "date": null,
+              "year": 2012,
+              "source": "block"
+            },
+            "confidence": 0.94
+          },
+          {
+            "raw": "19.197.311",
+            "kind": "number",
+            "value": 19197311,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9846557824390241,
+            "col": 2,
+            "header": "Toplam",
+            "period": {
+              "date": null,
+              "year": 2012,
+              "source": "block"
+            },
+            "confidence": 0.9908
+          }
+        ],
+        "confidence": 0.958
+      },
+      {
+        "row_id": "n11_p53_r03",
+        "block_id": "n11_b1",
+        "page": 53,
+        "label": "Makul değer degişikliginden kaynaklanan kazanç",
+        "values": [
+          {
+            "raw": "3.896.434",
+            "kind": "number",
+            "value": 3896434,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.7030890674796981,
+            "col": 0,
+            "header": "Arazi ve Arsalar",
+            "period": {
+              "date": null,
+              "year": 2012,
+              "source": "block"
+            },
+            "confidence": 0.8219
+          },
+          {
+            "raw": "-",
+            "kind": "dash",
+            "value": null,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9,
+            "col": 1,
+            "header": "Binalar",
+            "period": {
+              "date": null,
+              "year": 2012,
+              "source": "block"
+            },
+            "confidence": 0.94
+          },
+          {
+            "raw": "3.896.434",
+            "kind": "number",
+            "value": 3896434,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.876522081773935,
+            "col": 2,
+            "header": "Toplam",
+            "period": {
+              "date": null,
+              "year": 2012,
+              "source": "block"
+            },
+            "confidence": 0.9259
+          }
+        ],
+        "confidence": 0.8634
+      },
+      {
+        "row_id": "n11_p53_r04",
+        "block_id": "n11_b1",
+        "page": 53,
+        "label": "Stoklara transferler",
+        "values": [
+          {
+            "raw": "(72.681.523)",
+            "kind": "number",
+            "value": -72681523,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.7564876341725946,
+            "col": 0,
+            "header": "Arazi ve Arsalar",
+            "period": {
+              "date": null,
+              "year": 2012,
+              "source": "block"
+            },
+            "confidence": 0.8539
+          },
+          {
+            "raw": "-",
+            "kind": "dash",
+            "value": null,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9,
+            "col": 1,
+            "header": "Binalar",
+            "period": {
+              "date": null,
+              "year": 2012,
+              "source": "block"
+            },
+            "confidence": 0.94
+          },
+          {
+            "raw": "(72.681.523)",
+            "kind": "number",
+            "value": -72681523,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9775320381752082,
+            "col": 2,
+            "header": "Toplam",
+            "period": {
+              "date": null,
+              "year": 2012,
+              "source": "block"
+            },
+            "confidence": 0.9865
+          }
+        ],
+        "confidence": 0.9107
+      },
+      {
+        "row_id": "n11_p53_r05",
+        "block_id": "n11_b1",
+        "page": 53,
+        "label": "31 Aralık 2012 itibari ile kapanış bakiyesi",
+        "values": [
+          {
+            "raw": "177.730.044",
+            "kind": "number",
+            "value": 177730044,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9983672399235954,
+            "col": 0,
+            "header": "Arazi ve Arsalar",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "label"
+            },
+            "confidence": 0.999
+          },
+          {
+            "raw": "196.262.178",
+            "kind": "number",
+            "value": 196262178,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9990280788228011,
+            "col": 1,
+            "header": "Binalar",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "label"
+            },
+            "confidence": 0.9994
+          },
+          {
+            "raw": "373.992.222",
+            "kind": "number",
+            "value": 373992222,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9465746622146156,
+            "col": 2,
+            "header": "Toplam",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "label"
+            },
+            "confidence": 0.9679
+          }
+        ],
+        "confidence": 0.8877
+      },
+      {
+        "row_id": "n11_p53_r06",
+        "block_id": "n11_b1",
+        "page": 53,
+        "label": "31 Aralık 2012 itibari ile net defter değeri",
+        "values": [
+          {
+            "raw": "177.730.044",
+            "kind": "number",
+            "value": 177730044,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9526547623428405,
+            "col": 0,
+            "header": "Arazi ve Arsalar",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "label"
+            },
+            "confidence": 0.9716
+          },
+          {
+            "raw": "196.262.178",
+            "kind": "number",
+            "value": 196262178,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.6249092874497073,
+            "col": 1,
+            "header": "Binalar",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "label"
+            },
+            "confidence": 0.7749
+          },
+          {
+            "raw": "373.992.222",
+            "kind": "number",
+            "value": 373992222,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.8716433403376743,
+            "col": 2,
+            "header": "Toplam",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "label"
+            },
+            "confidence": 0.923
+          }
+        ],
+        "confidence": 0.9015
+      },
+      {
+        "row_id": "n11_p53_r07",
+        "block_id": "n11_b2",
+        "page": 53,
+        "label": "1 Ocak 2011 itibari ile açılış bakiyesi (Yeniden Düzenlenmiş)",
+        "values": [
+          {
+            "raw": "82.097.790",
+            "kind": "number",
+            "value": 82097790,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.8987709090845534,
+            "col": 0,
+            "header": "Arazi ve Arsalar",
+            "period": {
+              "date": "2011-01-01",
+              "year": 2011,
+              "source": "label"
+            },
+            "confidence": 0.9393
+          },
+          {
+            "raw": "122.937.178",
+            "kind": "number",
+            "value": 122937178,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9642272433944599,
+            "col": 1,
+            "header": "Binalar",
+            "period": {
+              "date": "2011-01-01",
+              "year": 2011,
+              "source": "label"
+            },
+            "confidence": 0.9785
+          },
+          {
+            "raw": "205.034.968",
+            "kind": "number",
+            "value": 205034968,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9816130966163454,
+            "col": 2,
+            "header": "Toplam",
+            "period": {
+              "date": "2011-01-01",
+              "year": 2011,
+              "source": "label"
+            },
+            "confidence": 0.989
+          }
+        ],
+        "confidence": 0.8856
+      },
+      {
+        "row_id": "n11_p53_r08",
+        "block_id": "n11_b2",
+        "page": 53,
+        "label": "Alılar (*",
+        "values": [
+          {
+            "raw": "64.046.943",
+            "kind": "number",
+            "value": 64046943,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9988578077260074,
+            "col": 0,
+            "header": "Arazi ve Arsalar",
+            "period": {
+              "date": null,
+              "year": 2011,
+              "source": "block"
+            },
+            "confidence": 0.9993
+          },
+          {
+            "raw": "13.598.089",
+            "kind": "number",
+            "value": 13598089,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9300674543740284,
+            "col": 1,
+            "header": "Binalar",
+            "period": {
+              "date": null,
+              "year": 2011,
+              "source": "block"
+            },
+            "confidence": 0.958
+          },
+          {
+            "raw": "77.645.032",
+            "kind": "number",
+            "value": 77645032,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.8269720456249422,
+            "col": 2,
+            "header": "Toplam",
+            "period": {
+              "date": null,
+              "year": 2011,
+              "source": "block"
+            },
+            "confidence": 0.8962
+          }
+        ],
+        "confidence": 0.9514
+      },
+      {
+        "row_id": "n11_p53_r09",
+        "block_id": "n11_b2",
+        "page": 53,
+        "label": "Çıkışlar (*=",
+        "values": [
+          {
+            "raw": "-",
+            "kind": "dash",
+            "value": null,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9,
+            "col": 0,
+            "header": "Arazi ve Arsalar",
+            "period": {
+              "date": null,
+              "year": 2011,
+              "source": "block"
+            },
+            "confidence": 0.94
+          },
+          {
+            "raw": "(10.450.000)",
+            "kind": "number",
+            "value": -10450000,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9392716997669422,
+            "col": 1,
+            "header": "Binalar",
+            "period": {
+              "date": null,
+              "year": 2011,
+              "source": "block"
+            },
+            "confidence": 0.9636
+          },
+          {
+            "raw": "(10.450.000)",
+            "kind": "number",
+            "value": -10450000,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.7626419821315258,
+            "col": 2,
+            "header": "Toplam",
+            "period": {
+              "date": null,
+              "year": 2011,
+              "source": "block"
+            },
+            "confidence": 0.8576
+          }
+        ],
+        "confidence": 0.8097
+      },
+      {
+        "row_id": "n11_p53_r10",
+        "block_id": "n11_b2",
+        "page": 53,
+        "label": "Makul değer değişikliğinden kaynaklanan kazanç",
+        "values": [
+          {
+            "raw": "81.173.089",
+            "kind": "number",
+            "value": 81173089,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.8904887956572693,
+            "col": 0,
+            "header": "Arazi ve Arsalar",
+            "period": {
+              "date": null,
+              "year": 2011,
+              "source": "block"
+            },
+            "confidence": 0.9343
+          },
+          {
+            "raw": "70.176.911",
+            "kind": "number",
+            "value": 70176911,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.775426399659104,
+            "col": 1,
+            "header": "Binalar",
+            "period": {
+              "date": null,
+              "year": 2011,
+              "source": "block"
+            },
+            "confidence": 0.8653
+          },
+          {
+            "raw": "151.350.000",
+            "kind": "number",
+            "value": 151350000,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.833321089680098,
+            "col": 2,
+            "header": "Toplam",
+            "period": {
+              "date": null,
+              "year": 2011,
+              "source": "block"
+            },
+            "confidence": 0.9
+          }
+        ],
+        "confidence": 0.8248
+      },
+      {
+        "row_id": "n11_p53_r11",
+        "block_id": "n11_b2",
+        "page": 53,
+        "label": "31 Aralık 2011 itibari ile kapanış bakiyesi",
+        "values": [
+          {
+            "raw": "227.317.822",
+            "kind": "number",
+            "value": 227317822,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9412683012590768,
+            "col": 0,
+            "header": "Arazi ve Arsalar",
+            "period": {
+              "date": "2011-12-31",
+              "year": 2011,
+              "source": "label"
+            },
+            "confidence": 0.9648
+          },
+          {
+            "raw": "196.262.178",
+            "kind": "number",
+            "value": 196262178,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.618154139822113,
+            "col": 1,
+            "header": "Binalar",
+            "period": {
+              "date": "2011-12-31",
+              "year": 2011,
+              "source": "label"
+            },
+            "confidence": 0.7709
+          },
+          {
+            "raw": "423.580.000",
+            "kind": "number",
+            "value": 423580000,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.8286851590737816,
+            "col": 2,
+            "header": "Toplam",
+            "period": {
+              "date": "2011-12-31",
+              "year": 2011,
+              "source": "label"
+            },
+            "confidence": 0.8972
+          }
+        ],
+        "confidence": 0.8394
+      },
+      {
+        "row_id": "n11_p54_r12",
+        "block_id": "n11_b3",
+        "page": 54,
+        "label": "İskonto oranı (%)",
+        "values": [
+          {
+            "raw": "%9",
+            "kind": "percent",
+            "value": 9.0,
+            "decimal": true,
+            "repairs": [],
+            "ocr_conf": 0.9868048521777903,
+            "col": 0,
+            "header": "31 Aralık 2012",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "header"
+            },
+            "confidence": 0.9921
+          },
+          {
+            "raw": "%10,5",
+            "kind": "percent",
+            "value": 10.5,
+            "decimal": true,
+            "repairs": [],
+            "ocr_conf": 0.9568323985225661,
+            "col": 1,
+            "header": "31 Aralık 2011",
+            "period": {
+              "date": "2011-12-31",
+              "year": 2011,
+              "source": "header"
+            },
+            "confidence": 0.9741
+          }
+        ],
+        "confidence": 0.8783
+      },
+      {
+        "row_id": "n11_p54_r13",
+        "block_id": "n11_b3",
+        "page": 54,
+        "label": "Doluluk oranı (%)(*)",
+        "values": [
+          {
+            "raw": "%86,6",
+            "kind": "percent",
+            "value": 86.6,
+            "decimal": true,
+            "repairs": [],
+            "ocr_conf": 0.8902714407232842,
+            "col": 0,
+            "header": "31 Aralık 2012",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "header"
+            },
+            "confidence": 0.9342
+          },
+          {
+            "raw": "%80,8",
+            "kind": "percent",
+            "value": 80.8,
+            "decimal": true,
+            "repairs": [],
+            "ocr_conf": 0.9298670907460894,
+            "col": 1,
+            "header": "31 Aralık 2011",
+            "period": {
+              "date": "2011-12-31",
+              "year": 2011,
+              "source": "header"
+            },
+            "confidence": 0.9579
+          }
+        ],
+        "confidence": 0.9334
+      },
+      {
+        "row_id": "n11_p54_r14",
+        "block_id": "n11_b3",
+        "page": 54,
+        "label": "Kira artış oranı (%)",
+        "values": [
+          {
+            "raw": "%3",
+            "kind": "percent",
+            "value": 3.0,
+            "decimal": true,
+            "repairs": [],
+            "ocr_conf": 0.9891917697205165,
+            "col": 0,
+            "header": "31 Aralık 2012",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "header"
+            },
+            "confidence": 0.9935
+          },
+          {
+            "raw": "%2-%4",
+            "kind": "percent_range",
+            "value": [
+              2.0,
+              4.0
+            ],
+            "decimal": true,
+            "repairs": [],
+            "ocr_conf": 0.6127311123106273,
+            "col": 1,
+            "header": "31 Aralık 2011",
+            "period": {
+              "date": "2011-12-31",
+              "year": 2011,
+              "source": "header"
+            },
+            "confidence": 0.7676
+          }
+        ],
+        "confidence": 0.9125
+      },
+      {
+        "row_id": "n11_p54_r15",
+        "block_id": "n11_b4",
+        "page": 54,
+        "label": "Bağcılar Arsa",
+        "values": [
+          {
+            "raw": "22.719.446",
+            "kind": "number",
+            "value": 22719446,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.5965580638304567,
+            "col": 0,
+            "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "header"
+            },
+            "confidence": 0.7579
+          },
+          {
+            "raw": "21.717.000",
+            "kind": "number",
+            "value": 21717000,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.984605039559602,
+            "col": 1,
+            "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+            "period": {
+              "date": "2011-12-31",
+              "year": 2011,
+              "source": "header"
+            },
+            "confidence": 0.9908
+          }
+        ],
+        "confidence": 0.9046
+      },
+      {
+        "row_id": "n11_p54_r16",
+        "block_id": "n11_b4",
+        "page": 54,
+        "label": "Bayrampaşa Arsa",
+        "values": [
+          {
+            "raw": "81.026.895",
+            "kind": "number",
+            "value": 81026895,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.792702457267988,
+            "col": 0,
+            "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "header"
+            },
+            "confidence": 0.8756
+          },
+          {
+            "raw": "138.538.000",
+            "kind": "number",
+            "value": 138538000,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.8421018695822525,
+            "col": 1,
+            "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+            "period": {
+              "date": "2011-12-31",
+              "year": 2011,
+              "source": "header"
+            },
+            "confidence": 0.9053
+          }
+        ],
+        "confidence": 0.922
+      },
+      {
+        "row_id": "n11_p54_r17",
+        "block_id": "n11_b4",
+        "page": 54,
+        "label": "Güneşli Bina",
+        "values": [
+          {
+            "raw": "83.586.353",
+            "kind": "number",
+            "value": 83586353,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.5812324918720297,
+            "col": 0,
+            "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "header"
+            },
+            "confidence": 0.7487
+          },
+          {
+            "raw": "81.890.000",
+            "kind": "number",
+            "value": 81890000,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9938691604251093,
+            "col": 1,
+            "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+            "period": {
+              "date": "2011-12-31",
+              "year": 2011,
+              "source": "header"
+            },
+            "confidence": 0.9963
+          }
+        ],
+        "confidence": 0.9095
+      },
+      {
+        "row_id": "n11_p54_r18",
+        "block_id": "n11_b4",
+        "page": 54,
+        "label": "İkitelli Bina",
+        "values": [
+          {
+            "raw": "186.659.528",
+            "kind": "number",
+            "value": 186659528,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.8042777566908164,
+            "col": 0,
+            "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "header"
+            },
+            "confidence": 0.8826
+          },
+          {
+            "raw": "181.435.000",
+            "kind": "number",
+            "value": 181435000,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9489917999274291,
+            "col": 1,
+            "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+            "period": {
+              "date": "2011-12-31",
+              "year": 2011,
+              "source": "header"
+            },
+            "confidence": 0.9694
+          }
+        ],
+        "confidence": 0.8769
+      },
+      {
+        "row_id": "n11_p54_r19",
+        "block_id": "n11_b4",
+        "page": 54,
+        "label": "",
+        "values": [
+          {
+            "raw": "373.992.222",
+            "kind": "number",
+            "value": 373992222,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9621400176187872,
+            "col": 0,
+            "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+            "period": {
+              "date": "2012-12-31",
+              "year": 2012,
+              "source": "header"
+            },
+            "confidence": 0.9773
+          },
+          {
+            "raw": "423.580.000",
+            "kind": "number",
+            "value": 423580000,
+            "decimal": false,
+            "repairs": [],
+            "ocr_conf": 0.9953196898064839,
+            "col": 1,
+            "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+            "period": {
+              "date": "2011-12-31",
+              "year": 2011,
+              "source": "header"
+            },
+            "confidence": 0.9972
+          }
+        ],
+        "confidence": 0.8711
+      }
+    ]
+  },
+  "links": [
+    {
+      "item_id": "p5_r12:v0",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2012-12-31",
+      "item_value": 373992222,
+      "note_row": "n11_p53_r05",
+      "note_label": "31 Aralık 2012 itibari ile kapanış bakiyesi",
+      "note_column": "Toplam",
+      "col": 2,
+      "value": 373992222,
+      "relation": "equals_total",
+      "found_by": "A+B",
+      "relation_a": "equals_total",
+      "relation_b": "equals_total",
+      "llm_reason": "The row '31 Aralık 2012 itibari ile kapanış bakiyesi' total column (col 2) matches exactly the summary item value 373992222 at 2012-12-31.",
+      "amount_ok": true,
+      "period_match": 1.0,
+      "confidence": 0.9945,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2012-12-31",
+      "item_value": 373992222,
+      "note_row": "n11_p53_r06",
+      "note_label": "31 Aralık 2012 itibari ile net defter değeri",
+      "note_column": "Toplam",
+      "col": 2,
+      "value": 373992222,
+      "relation": "equals_total",
+      "found_by": "A+B",
+      "relation_a": "equals_total",
+      "relation_b": "equals_total",
+      "llm_reason": "The row '31 Aralık 2012 itibari ile net defter değeri' total column (col 2) matches exactly the summary item value 373992222 at period 2012-12-31.",
+      "amount_ok": true,
+      "period_match": 1.0,
+      "confidence": 0.9923,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2012-12-31",
+      "item_value": 373992222,
+      "note_row": "n11_p54_r15",
+      "note_label": "Bağcılar Arsa",
+      "note_column": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "col": 0,
+      "value": 22719446,
+      "relation": "breakdown_component",
+      "found_by": "A",
+      "relation_a": "breakdown_component",
+      "relation_b": null,
+      "llm_reason": null,
+      "amount_ok": true,
+      "period_match": 1.0,
+      "confidence": 0.7526,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2012-12-31",
+      "item_value": 373992222,
+      "note_row": "n11_p54_r16",
+      "note_label": "Bayrampaşa Arsa",
+      "note_column": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "col": 0,
+      "value": 81026895,
+      "relation": "breakdown_component",
+      "found_by": "A",
+      "relation_a": "breakdown_component",
+      "relation_b": null,
+      "llm_reason": null,
+      "amount_ok": true,
+      "period_match": 1.0,
+      "confidence": 0.7585,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2012-12-31",
+      "item_value": 373992222,
+      "note_row": "n11_p54_r17",
+      "note_label": "Güneşli Bina",
+      "note_column": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "col": 0,
+      "value": 83586353,
+      "relation": "breakdown_component",
+      "found_by": "A",
+      "relation_a": "breakdown_component",
+      "relation_b": null,
+      "llm_reason": null,
+      "amount_ok": true,
+      "period_match": 1.0,
+      "confidence": 0.7521,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2012-12-31",
+      "item_value": 373992222,
+      "note_row": "n11_p54_r18",
+      "note_label": "İkitelli Bina",
+      "note_column": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "col": 0,
+      "value": 186659528,
+      "relation": "breakdown_component",
+      "found_by": "A",
+      "relation_a": "breakdown_component",
+      "relation_b": null,
+      "llm_reason": null,
+      "amount_ok": true,
+      "period_match": 1.0,
+      "confidence": 0.7588,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2012-12-31",
+      "item_value": 373992222,
+      "note_row": "n11_p54_r19",
+      "note_label": "",
+      "note_column": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "col": 0,
+      "value": 373992222,
+      "relation": "equals_total",
+      "found_by": "A+B",
+      "relation_a": "equals_total",
+      "relation_b": "equals_total",
+      "llm_reason": "The row '(unlabelled total row)' column '31 Aralık 2012 Gerçege Oygun Değeri' matches the summary item value 373992222 at 2012-12-31, but label suggests fair value not net book value.",
+      "amount_ok": true,
+      "period_match": 1.0,
+      "confidence": 0.96,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2011-12-31",
+      "item_value": 423580000,
+      "note_row": "n11_p53_r01",
+      "note_label": "1 Ocak 2012 itibari ile açılış bakiyesi",
+      "note_column": "Toplam",
+      "col": 2,
+      "value": 423580000,
+      "relation": "equals_opening_balance",
+      "found_by": "A+B",
+      "relation_a": "equals_opening_balance",
+      "relation_b": "equals_opening_balance",
+      "llm_reason": "The row labeled '1 Ocak 2012 itibari ile açılış bakiyesi' has a 'Toplam' value of 423580000 at 2012-01-01, which is the opening balance for the period following the summary item's 2011-12-31 balance.",
+      "amount_ok": true,
+      "period_match": 0.8,
+      "confidence": 0.9605,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2011-12-31",
+      "item_value": 423580000,
+      "note_row": "n11_p53_r11",
+      "note_label": "31 Aralık 2011 itibari ile kapanış bakiyesi",
+      "note_column": "Toplam",
+      "col": 2,
+      "value": 423580000,
+      "relation": "equals_total",
+      "found_by": "A+B",
+      "relation_a": "equals_total",
+      "relation_b": "equals_total",
+      "llm_reason": "The row labeled '31 Aralık 2011 itibari ile kapanış bakiyesi' has a 'Toplam' value of 423580000 at 2011-12-31, exactly matching the summary item balance.",
+      "amount_ok": true,
+      "period_match": 1.0,
+      "confidence": 0.9863,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2011-12-31",
+      "item_value": 423580000,
+      "note_row": "n11_p54_r15",
+      "note_label": "Bağcılar Arsa",
+      "note_column": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "col": 1,
+      "value": 21717000,
+      "relation": "breakdown_component",
+      "found_by": "A+B",
+      "relation_a": "breakdown_component",
+      "relation_b": "breakdown_component",
+      "llm_reason": "The row 'Bağcılar Arsa' has a value of 21717000 at 2011-12-31, which is a component of the total investment properties balance.",
+      "amount_ok": true,
+      "period_match": 1.0,
+      "confidence": 0.921,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2011-12-31",
+      "item_value": 423580000,
+      "note_row": "n11_p54_r16",
+      "note_label": "Bayrampaşa Arsa",
+      "note_column": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "col": 1,
+      "value": 138538000,
+      "relation": "breakdown_component",
+      "found_by": "A+B",
+      "relation_a": "breakdown_component",
+      "relation_b": "breakdown_component",
+      "llm_reason": "The row 'Bayrampaşa Arsa' has a value of 138538000 at 2011-12-31, likely a component of the total investment properties balance.",
+      "amount_ok": true,
+      "period_match": 1.0,
+      "confidence": 0.9167,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2011-12-31",
+      "item_value": 423580000,
+      "note_row": "n11_p54_r17",
+      "note_label": "Güneşli Bina",
+      "note_column": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "col": 1,
+      "value": 81890000,
+      "relation": "breakdown_component",
+      "found_by": "A+B",
+      "relation_a": "breakdown_component",
+      "relation_b": "breakdown_component",
+      "llm_reason": "The row 'Güneşli Bina' has a value of 81890000 at 2011-12-31, likely a component of the total investment properties balance.",
+      "amount_ok": true,
+      "period_match": 1.0,
+      "confidence": 0.9213,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2011-12-31",
+      "item_value": 423580000,
+      "note_row": "n11_p54_r18",
+      "note_label": "İkitelli Bina",
+      "note_column": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "col": 1,
+      "value": 181435000,
+      "relation": "breakdown_component",
+      "found_by": "A+B",
+      "relation_a": "breakdown_component",
+      "relation_b": "breakdown_component",
+      "llm_reason": "The row 'İkitelli Bina' has a value of 181435000 at 2011-12-31, likely a component of the total investment properties balance.",
+      "amount_ok": true,
+      "period_match": 1.0,
+      "confidence": 0.9199,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "summary_row": "p5_r12",
+      "summary_label": "Yatırım Amaçlı Gayrimenkuller",
+      "period_end": "2011-12-31",
+      "item_value": 423580000,
+      "note_row": "n11_p54_r19",
+      "note_label": "",
+      "note_column": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "col": 1,
+      "value": 423580000,
+      "relation": "equals_total",
+      "found_by": "A+B",
+      "relation_a": "equals_total",
+      "relation_b": "equals_total",
+      "llm_reason": "The row's value at column 1 for 31 Aralık 2011 Gerçege Uygun Değeri is exactly 423580000, matching the summary item's balance at 2011-12-31.",
+      "amount_ok": true,
+      "period_match": 1.0,
+      "confidence": 0.9913,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p7_r05:v0",
+      "summary_row": "p7_r05",
+      "summary_label": "Yatırım Amaçlı Gayrimenkul Değerleme Farkları",
+      "period_end": "2012-12-31",
+      "item_value": 3896434,
+      "note_row": "n11_p53_r03",
+      "note_label": "Makul değer degişikliginden kaynaklanan kazanç",
+      "note_column": "Toplam",
+      "col": 2,
+      "value": 3896434,
+      "relation": "equals_movement",
+      "found_by": "A+B",
+      "relation_a": "equals_movement",
+      "relation_b": "equals_movement",
+      "llm_reason": "The row 'Makul değer degişikliginden kaynaklanan kazanç' for 'Arazi ve Arsalar' in 2012 has the exact value 3896434 matching the summary item flow over 2012.",
+      "amount_ok": true,
+      "period_match": 0.6,
+      "confidence": 0.9128,
+      "status": "accepted"
+    },
+    {
+      "item_id": "p7_r05:v1",
+      "summary_row": "p7_r05",
+      "summary_label": "Yatırım Amaçlı Gayrimenkul Değerleme Farkları",
+      "period_end": "2011-12-31",
+      "item_value": 151350000,
+      "note_row": "n11_p53_r10",
+      "note_label": "Makul değer değişikliğinden kaynaklanan kazanç",
+      "note_column": "Toplam",
+      "col": 2,
+      "value": 151350000,
+      "relation": "equals_movement",
+      "found_by": "A+B",
+      "relation_a": "equals_movement",
+      "relation_b": "equals_movement",
+      "llm_reason": "The row 'Makul değer değişikliğinden kaynaklanan kazanç' total (col 2) is 151350000 for 2011, matching the summary flow value for 2011.",
+      "amount_ok": true,
+      "period_match": 0.6,
+      "confidence": 0.9171,
+      "status": "accepted"
+    }
+  ],
+  "rejected_links": [],
+  "method_comparison": {
+    "method_a": {
+      "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "threshold": 0.4729,
+      "threshold_source": "control_examples"
+    },
+    "method_b": {
+      "model": "gpt-4.1-mini",
+      "calls": {
+        "api": 0,
+        "cached": 4
+      },
+      "fallback_items": []
+    },
+    "both_same_relation": [
+      "p5_r12:v0 -> n11_p53_r05",
+      "p5_r12:v0 -> n11_p53_r06",
+      "p5_r12:v0 -> n11_p54_r19",
+      "p5_r12:v1 -> n11_p53_r01",
+      "p5_r12:v1 -> n11_p53_r11",
+      "p5_r12:v1 -> n11_p54_r15",
+      "p5_r12:v1 -> n11_p54_r16",
+      "p5_r12:v1 -> n11_p54_r17",
+      "p5_r12:v1 -> n11_p54_r18",
+      "p5_r12:v1 -> n11_p54_r19",
+      "p7_r05:v0 -> n11_p53_r03",
+      "p7_r05:v1 -> n11_p53_r10"
+    ],
+    "both_different_relation": [],
+    "only_a": [
+      "p5_r12:v0 -> n11_p54_r15 (breakdown_component)",
+      "p5_r12:v0 -> n11_p54_r16 (breakdown_component)",
+      "p5_r12:v0 -> n11_p54_r17 (breakdown_component)",
+      "p5_r12:v0 -> n11_p54_r18 (breakdown_component)"
+    ],
+    "only_b": [],
+    "evaluation": {
+      "control_links": 16,
+      "method_a": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "relation_accuracy": 1.0,
+        "false_positives": [],
+        "missed": []
+      },
+      "method_b": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1": 0.857,
+        "relation_accuracy": 1.0,
+        "false_positives": [],
+        "missed": [
+          "p5_r12:v0 -> n11_p54_r15",
+          "p5_r12:v0 -> n11_p54_r16",
+          "p5_r12:v0 -> n11_p54_r17",
+          "p5_r12:v0 -> n11_p54_r18"
+        ]
+      }
+    }
+  },
+  "validation": {
+    "checks": [
+      {
+        "group": "structural",
+        "check": "tables_on_configured_pages",
+        "passed": true,
+        "detail": "pages [5, 6, 7]; statement type unknown for none",
+        "items": []
+      },
+      {
+        "group": "structural",
+        "check": "period_columns_distinct",
+        "passed": true,
+        "detail": "one current and distinct period ends per table",
+        "items": []
+      },
+      {
+        "group": "structural",
+        "check": "note_refs_on_value_rows",
+        "passed": true,
+        "detail": "note references on rows without values: none; OCR-repaired references: ['p7_r05']",
+        "items": [
+          "p7_r05"
+        ]
+      },
+      {
+        "group": "structural",
+        "check": "note_pages_found",
+        "passed": true,
+        "detail": "note 11 on PDF pages [53, 54], confidence 0.9897, flags none",
+        "items": []
+      },
+      {
+        "group": "structural",
+        "check": "links_between_compatible_periods",
+        "passed": true,
+        "detail": "every link joins values of the same date, or a balance with the next period's opening",
+        "items": []
+      },
+      {
+        "group": "format",
+        "check": "numbers_parsed",
+        "passed": true,
+        "detail": "201 values, 5 parsed after an OCR repair, 0 not parseable",
+        "items": [
+          "p5_r08:v0 '8.874,602'",
+          "p6_r03:v0 '7,.932.336'",
+          "p6_r10:v0 '504,851'",
+          "p6_r12:v1 '5.223,424'",
+          "p7_r07:v1 '(561.989)'"
+        ]
+      },
+      {
+        "group": "format",
+        "check": "currency_present_and_consistent",
+        "passed": true,
+        "detail": "currencies ['TRY']; scales [1]",
+        "items": []
+      },
+      {
+        "group": "format",
+        "check": "periods_present",
+        "passed": true,
+        "detail": "every value has a period",
+        "items": []
+      },
+      {
+        "group": "financial",
+        "check": "summary_table_sums",
+        "passed": true,
+        "detail": "40/40 sum checks pass",
+        "items": []
+      },
+      {
+        "group": "financial",
+        "check": "assets_equal_liabilities_plus_equity",
+        "passed": true,
+        "detail": "TOPLAM VARLIKLAR vs TOPLAM KAYNAKLAR: 2012-12-31: 852149804 vs 852149804; 2011-12-31: 781408277 vs 781408277",
+        "items": []
+      },
+      {
+        "group": "financial",
+        "check": "note_table_sums",
+        "passed": true,
+        "detail": "11/11 sum checks pass in the note tables",
+        "items": []
+      },
+      {
+        "group": "financial",
+        "check": "linked_amounts_agree",
+        "passed": true,
+        "detail": "equals_* links have the same amount; breakdown rows are direct parts, at the item's date, of a note total that equals the item",
+        "items": []
+      }
+    ],
+    "passed": 12,
+    "failed": 0,
+    "not_applicable": 0
+  },
+  "low_confidence": {
+    "summary_values": [
+      "p6_r03:v0"
+    ],
+    "summary_rows": [],
+    "note_rows": [],
+    "links": []
+  }
+}

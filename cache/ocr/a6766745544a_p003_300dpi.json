@@ -1,0 +1,318 @@
+{
+"page": 3,
+"dpi": 300,
+"tokens": [
+{
+"text": "Deloitte.",
+"conf": 0.614282221427271,
+"x0": 297.0,
+"y0": 168.0,
+"x1": 723.0,
+"y1": 278.0
+},
+{
+"text": "Görüş",
+"conf": 0.9994847770183557,
+"x0": 285.0,
+"y0": 423.0,
+"x1": 432.0,
+"y1": 489.0
+},
+{
+"text": "Görüşümüze  göre, ilişikteki konsolide finansal tablolar, Grup'un 31",
+"conf": 0.5674705318138558,
+"x0": 286.0,
+"y0": 530.0,
+"x1": 1596.0,
+"y1": 603.0
+},
+{
+"text": "Aralık",
+"conf": 0.9996539642538194,
+"x0": 1609.0,
+"y0": 548.0,
+"x1": 1733.0,
+"y1": 592.0
+},
+{
+"text": "2012 tarihi",
+"conf": 0.9943842991826557,
+"x0": 1759.0,
+"y0": 547.0,
+"x1": 1978.0,
+"y1": 596.0
+},
+{
+"text": "itibariyle",
+"conf": 0.9997321022215618,
+"x0": 2000.0,
+"y0": 547.0,
+"x1": 2184.0,
+"y1": 604.0
+},
+{
+"text": "finansal durumunu, aynı tarihte sona eren",
+"conf": 0.7987832891609231,
+"x0": 285.0,
+"y0": 587.0,
+"x1": 1071.0,
+"y1": 647.0
+},
+{
+"text": "ait konsolide finansal performansını ve nakit akımlarını",
+"conf": 0.9275882027383394,
+"x0": 1149.0,
+"y0": 593.0,
+"x1": 2185.0,
+"y1": 655.0
+},
+{
+"text": "Sermaye Piyasası Kurulu'nca yayımlanan finansal raporlama standartları çerçevesinde doğru ve dürüst",
+"conf": 0.7205429097207288,
+"x0": 285.0,
+"y0": 637.0,
+"x1": 2186.0,
+"y1": 713.0
+},
+{
+"text": "bir biçimde yansıtmaktadır.",
+"conf": 0.6250390276763814,
+"x0": 288.0,
+"y0": 694.0,
+"x1": 808.0,
+"y1": 754.0
+},
+{
+"text": "Görüşümüzü etkilememekle birlikte; aşağıdaki konulara dikkat çekmek isteriz:",
+"conf": 0.846129672437221,
+"x0": 287.0,
+"y0": 799.0,
+"x1": 1732.0,
+"y1": 867.0
+},
+{
+"text": "Dipnot 15'te",
+"conf": 0.9323078450100297,
+"x0": 281.0,
+"y0": 901.0,
+"x1": 545.0,
+"y1": 966.0
+},
+{
+"text": "açıklandığı üzere; Grup'un bağlı ortaklıklarından; Aktay Turizm Yatırımları ve",
+"conf": 0.6540450116335118,
+"x0": 676.0,
+"y0": 904.0,
+"x1": 2183.0,
+"y1": 976.0
+},
+{
+"text": "İşletmeleri AŞ:nin paylarının bir kısmı 2010 yılı içerisinde Özak Gayrimenkul  Yatırım Ortaklığı",
+"conf": 0.4815969994737468,
+"x0": 284.0,
+"y0": 951.0,
+"x1": 2187.0,
+"y1": 1030.0
+},
+{
+"text": "A.Ş'ne devredilmiştir. Bu hisselerin devrine ilişkin olarak, ana sözlegmede yer alan düzenlemelere",
+"conf": 0.49219787865178666,
+"x0": 288.0,
+"y0": 1012.0,
+"x1": 2185.0,
+"y1": 1079.0
+},
+{
+"text": "aykırılığı iddiası ile, Aktay Turizm Yatırımları ve Işletmeleri A.Ş.:nin diğer ortaklarından biri davacı",
+"conf": 0.5784000251610497,
+"x0": 285.0,
+"y0": 1063.0,
+"x1": 2185.0,
+"y1": 1132.0
+},
+{
+"text": "olmustur. Dava konusunda özetle, ilgili payların devrinin geçersiz olduğunun tespiti ve payların davacı",
+"conf": 0.9009277963990566,
+"x0": 282.0,
+"y0": 1113.0,
+"x1": 2186.0,
+"y1": 1193.0
+},
+{
+"text": "ortak adına tescil edilmesi",
+"conf": 0.5568672676160227,
+"x0": 286.0,
+"y0": 1169.0,
+"x1": 782.0,
+"y1": 1221.0
+},
+{
+"text": "edilmiştir. 7 Kasım 2012 tarihli mahkeme kararı ile dava kısmen kabul",
+"conf": 0.7675267467225593,
+"x0": 877.0,
+"y0": 1174.0,
+"x1": 2182.0,
+"y1": 1238.0
+},
+{
+"text": "edilmiş olup; anılan Yönetim Kurulu Kararının hükümsüzlüğünün tespiti ile kaydın düzeltilmesine;",
+"conf": 0.716732059764666,
+"x0": 283.0,
+"y0": 1217.0,
+"x1": 2184.0,
+"y1": 1292.0
+},
+{
+"text": "ön alım hakkının kullanılarak  devre konu payların Aytur A.Ş. adına tescili talebinin reddine karar",
+"conf": 0.7180549552683148,
+"x0": 285.0,
+"y0": 1275.0,
+"x1": 2185.0,
+"y1": 1340.0
+},
+{
+"text": "vermiştir. Karar taraflarca aleyhlerine olan kısımlar yönünden temyiz edilmiş ve dosya halen Yargıtay",
+"conf": 0.5653954146038406,
+"x0": 284.0,
+"y0": 1326.0,
+"x1": 2185.0,
+"y1": 1404.0
+},
+{
+"text": "aşamasında",
+"conf": 0.8596071010063806,
+"x0": 283.0,
+"y0": 1379.0,
+"x1": 514.0,
+"y1": 1436.0
+},
+{
+"text": "dava sonucu hakkında belirsizlik bulunmaktadı.",
+"conf": 0.9933314815828158,
+"x0": 603.0,
+"y0": 1385.0,
+"x1": 1503.0,
+"y1": 1438.0
+},
+{
+"text": "Ayrıca aynı ortak tarafindan Aktay A.Ş. aleyhine Aktay A.Ş:nin haklı sebeplerle feshi, fesih kabul",
+"conf": 0.4077438939235626,
+"x0": 288.0,
+"y0": 1485.0,
+"x1": 2185.0,
+"y1": 1554.0
+},
+{
+"text": "edilmez ise davacının paydaşlıktan çıkartılması talepli olarak dava açılmıştır. 6 Kasım 2012 tarihinde",
+"conf": 0.7923320912590995,
+"x0": 282.0,
+"y0": 1535.0,
+"x1": 2185.0,
+"y1": 1603.0
+},
+{
+"text": "davacının davalı şirkete kayyum atanması ve özel denetçi tayini taleplerinin reddine karar verilmiştir.",
+"conf": 0.6538849325707785,
+"x0": 281.0,
+"y0": 1589.0,
+"x1": 2182.0,
+"y1": 1658.0
+},
+{
+"text": "Dava halen devam etmektedir.",
+"conf": 0.7984810077915576,
+"x0": 283.0,
+"y0": 1644.0,
+"x1": 859.0,
+"y1": 1695.0
+},
+{
+"text": "İstanbul, 12 Nisan 2013",
+"conf": 0.8823878815387155,
+"x0": 278.0,
+"y0": 1847.0,
+"x1": 737.0,
+"y1": 1911.0
+},
+{
+"text": "DRT BAĞIMSIZ DENETIM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLIK Aş.",
+"conf": 0.3733438353074482,
+"x0": 279.0,
+"y0": 2054.0,
+"x1": 1941.0,
+"y1": 2131.0
+},
+{
+"text": "Member of DELOITTE TOUCHE TOHMATSU LIMITED",
+"conf": 0.7473114021239421,
+"x0": 281.0,
+"y0": 2170.0,
+"x1": 1457.0,
+"y1": 2225.0
+},
+{
+"text": "Yall",
+"conf": 0.259887158870697,
+"x0": 229.0,
+"y0": 2240.0,
+"x1": 913.0,
+"y1": 2427.0
+},
+{
+"text": "Saim",
+"conf": 0.9992497563362122,
+"x0": 281.0,
+"y0": 2433.0,
+"x1": 387.0,
+"y1": 2482.0
+},
+{
+"text": "Üstündağ",
+"conf": 0.9996058947963475,
+"x0": 380.0,
+"y0": 2420.0,
+"x1": 584.0,
+"y1": 2494.0
+},
+{
+"text": "Sorumlu Ortak Başdenetçi",
+"conf": 0.8112894385097763,
+"x0": 280.0,
+"y0": 2484.0,
+"x1": 787.0,
+"y1": 2547.0
+},
+{
+"text": "yıla",
+"conf": 0.9980525374412537,
+"x0": 1064.2103500411843,
+"y0": 591.3677951735247,
+"x1": 1151.7896499588157,
+"y1": 652.6322048264753
+},
+{
+"text": "detayı",
+"conf": 0.9989859563769979,
+"x0": 544.179144999128,
+"y0": 901.0934345469491,
+"x1": 679.820855000872,
+"y1": 968.9065654530509
+},
+{
+"text": "talep",
+"conf": 0.9999959482858913,
+"x0": 774.2802183604219,
+"y0": 1166.093434546949,
+"x1": 886.7197816395781,
+"y1": 1233.906565453051
+},
+{
+"text": "olup",
+"conf": 0.9999757409095764,
+"x0": 505.2960058056062,
+"y0": 1376.0967805394005,
+"x1": 611.7039941943938,
+"y1": 1442.9032194605995
+}
+]
+}

@@ -1,0 +1,742 @@
+{
+"page": 16,
+"dpi": 300,
+"tokens": [
+{
+"text": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. VE BAĞLI ORTAKLIKLARI",
+"conf": 0.7118060366276011,
+"x0": 290.0,
+"y0": 101.0,
+"x1": 2007.0,
+"y1": 178.0
+},
+{
+"text": "BAĞMMSIZ DENETİMDEN GEÇMİŞ 31 ARALIK 2012 TARİHİ İTİBARİYLE",
+"conf": 0.5689035183725821,
+"x0": 293.0,
+"y0": 214.0,
+"x1": 1793.0,
+"y1": 281.0
+},
+{
+"text": "KONSOLİDE FİNANSAL TABLOLARA İİŞKİN AÇIKLAYICI DPPNOTLAR",
+"conf": 0.7097106411557975,
+"x0": 293.0,
+"y0": 269.0,
+"x1": 1776.0,
+"y1": 334.0
+},
+{
+"text": "(Tüm tutarlar Türk Lirası (TL) olarak gösterilmistir)",
+"conf": 0.8760108291173269,
+"x0": 294.0,
+"y0": 361.0,
+"x1": 999.0,
+"y1": 409.0
+},
+{
+"text": "2.",
+"conf": 0.9784254728701751,
+"x0": 177.0,
+"y0": 496.0,
+"x1": 219.0,
+"y1": 534.0
+},
+{
+"text": "FİNANSAL TABLOLARIN SUNUMUNA İLİŞKİN ESASLAR (devamı)",
+"conf": 0.7281190612670096,
+"x0": 292.0,
+"y0": 482.0,
+"x1": 1725.0,
+"y1": 554.0
+},
+{
+"text": "2.1",
+"conf": 0.99898757653113,
+"x0": 176.0,
+"y0": 602.0,
+"x1": 245.0,
+"y1": 651.0
+},
+{
+"text": "Sunuma",
+"conf": 0.9921148587094066,
+"x0": 294.0,
+"y0": 602.0,
+"x1": 470.0,
+"y1": 651.0
+},
+{
+"text": "İlişkin Temel Esaslar (devamı)",
+"conf": 0.7047182855280784,
+"x0": 459.0,
+"y0": 589.0,
+"x1": 1078.0,
+"y1": 669.0
+},
+{
+"text": "Konsolidasvona İliskin Esaslar (devamı)",
+"conf": 0.49403773523256894,
+"x0": 290.0,
+"y0": 684.0,
+"x1": 1047.0,
+"y1": 753.0
+},
+{
+"text": "İgtirakler (devamı)",
+"conf": 0.617346122828714,
+"x0": 291.0,
+"y0": 779.0,
+"x1": 663.0,
+"y1": 841.0
+},
+{
+"text": "Ekteki   finansal   tablolarda   iştiraklerin   faaliyet",
+"conf": 0.6187500774312784,
+"x0": 291.0,
+"y0": 875.0,
+"x1": 1192.0,
+"y1": 937.0
+},
+{
+"text": "sonuçları   ile",
+"conf": 0.7652316380388883,
+"x0": 1222.0,
+"y0": 877.0,
+"x1": 1477.0,
+"y1": 943.0
+},
+{
+"text": "varlık",
+"conf": 0.9999250035384173,
+"x0": 1490.0,
+"y0": 881.0,
+"x1": 1610.0,
+"y1": 930.0
+},
+{
+"text": "ve",
+"conf": 0.9180338224358718,
+"x0": 1620.0,
+"y0": 890.0,
+"x1": 1672.0,
+"y1": 927.0
+},
+{
+"text": "yükümlülükleri,  UFRS",
+"conf": 0.8458200587426051,
+"x0": 1686.0,
+"y0": 878.0,
+"x1": 2136.0,
+"y1": 940.0
+},
+{
+"text": "5",
+"conf": 0.9999641183257246,
+"x0": 2150.0,
+"y0": 886.0,
+"x1": 2176.0,
+"y1": 926.0
+},
+{
+"text": "standardı uyarınca satılmak üzere elde tutulan varlık olarak muhasebelestirilenler dışında, özkaynak",
+"conf": 0.7383458044808835,
+"x0": 291.0,
+"y0": 929.0,
+"x1": 2185.0,
+"y1": 995.0
+},
+{
+"text": "yöntemi kullanılarak muhasebeleştirilmiştir. Özkaynak yöntemine göre konsolide bilançoda iştirakler,",
+"conf": 0.7303272364587291,
+"x0": 291.0,
+"y0": 978.0,
+"x1": 2182.0,
+"y1": 1046.0
+},
+{
+"text": "maliyet bedelinin iştirakin net varlıklarındaki alım sonrası dönemde oluşan değişimdeki Grup' un payı",
+"conf": 0.46406584843213206,
+"x0": 291.0,
+"y0": 1034.0,
+"x1": 2185.0,
+"y1": 1101.0
+},
+{
+"text": "kadar   düzeltilmesi",
+"conf": 0.9550818048764057,
+"x0": 292.0,
+"y0": 1085.0,
+"x1": 660.0,
+"y1": 1140.0
+},
+{
+"text": "sonucu",
+"conf": 0.9998419754815491,
+"x0": 677.0,
+"y0": 1099.0,
+"x1": 817.0,
+"y1": 1138.0
+},
+{
+"text": "bulunan   tutardan;   iştirakte   oluşan   herhangi",
+"conf": 0.6318893901274997,
+"x0": 831.0,
+"y0": 1085.0,
+"x1": 1688.0,
+"y1": 1153.0
+},
+{
+"text": "bir   değer   düşüklüğünün",
+"conf": 0.6825212847241764,
+"x0": 1700.0,
+"y0": 1090.0,
+"x1": 2182.0,
+"y1": 1154.0
+},
+{
+"text": "düşülmesi  neticesinde   elde edilen tutar   üzerinden   gösterilir.   İştirakin,   Grup'un iştirakteki payıı",
+"conf": 0.22239756583916992,
+"x0": 293.0,
+"y0": 1138.0,
+"x1": 2182.0,
+"y1": 1206.0
+},
+{
+"text": "(özünde Grup'un iştirakteki net yatırımının bir parçasını oluşturan herhangi bir uzun vadeli yatırımı da",
+"conf": 0.8517738558786545,
+"x0": 291.0,
+"y0": 1191.0,
+"x1": 2185.0,
+"y1": 1259.0
+},
+{
+"text": "içeren)",
+"conf": 0.9479465428174959,
+"x0": 292.0,
+"y0": 1246.0,
+"x1": 434.0,
+"y1": 1301.0
+},
+{
+"text": "aşan",
+"conf": 0.981587290763855,
+"x0": 449.0,
+"y0": 1255.0,
+"x1": 540.0,
+"y1": 1300.0
+},
+{
+"text": "zararları   kayıtlara",
+"conf": 0.7585872383166261,
+"x0": 555.0,
+"y0": 1249.0,
+"x1": 903.0,
+"y1": 1301.0
+},
+{
+"text": "alınmaz   İlave",
+"conf": 0.48902452410367164,
+"x0": 916.0,
+"y0": 1241.0,
+"x1": 1203.0,
+"y1": 1304.0
+},
+{
+"text": "zarar",
+"conf": 0.9968115542102202,
+"x0": 1211.0,
+"y0": 1258.0,
+"x1": 1313.0,
+"y1": 1294.0
+},
+{
+"text": "ayrılması",
+"conf": 0.9533310237920234,
+"x0": 1328.0,
+"y0": 1241.0,
+"x1": 1514.0,
+"y1": 1309.0
+},
+{
+"text": "ancak Grup'un yasal   veya  zımni",
+"conf": 0.40790281520476873,
+"x0": 1525.0,
+"y0": 1249.0,
+"x1": 2182.0,
+"y1": 1312.0
+},
+{
+"text": "kabulden   doğan yükümlülüğe",
+"conf": 0.8029020456434116,
+"x0": 292.0,
+"y0": 1298.0,
+"x1": 873.0,
+"y1": 1355.0
+},
+{
+"text": "maruz",
+"conf": 0.9992177166791754,
+"x0": 885.0,
+"y0": 1310.0,
+"x1": 1009.0,
+"y1": 1349.0
+},
+{
+"text": "kalmış olması ya",
+"conf": 0.5920181692489322,
+"x0": 1015.0,
+"y0": 1297.0,
+"x1": 1367.0,
+"y1": 1361.0
+},
+{
+"text": "da  iştirak adına ödemeler yapmış   olması",
+"conf": 0.38227072975632004,
+"x0": 1377.0,
+"y0": 1303.0,
+"x1": 2185.0,
+"y1": 1365.0
+},
+{
+"text": "halinde söz konusudur.",
+"conf": 0.7428918895734664,
+"x0": 292.0,
+"y0": 1350.0,
+"x1": 727.0,
+"y1": 1402.0
+},
+{
+"text": "Satın",
+"conf": 0.8522377847685918,
+"x0": 292.0,
+"y0": 1441.0,
+"x1": 401.0,
+"y1": 1490.0
+},
+{
+"text": "alım",
+"conf": 0.8501927343178912,
+"x0": 430.0,
+"y0": 1444.0,
+"x1": 521.0,
+"y1": 1489.0
+},
+{
+"text": "bedelinin;",
+"conf": 0.9850762311583658,
+"x0": 552.0,
+"y0": 1435.0,
+"x1": 750.0,
+"y1": 1500.0
+},
+{
+"text": "iştirakin",
+"conf": 0.8272297863868675,
+"x0": 774.0,
+"y0": 1443.0,
+"x1": 939.0,
+"y1": 1498.0
+},
+{
+"text": "satın",
+"conf": 0.9806932669117785,
+"x0": 964.0,
+"y0": 1447.0,
+"x1": 1064.0,
+"y1": 1492.0
+},
+{
+"text": "alınma",
+"conf": 0.9721135302324525,
+"x0": 1096.0,
+"y0": 1447.0,
+"x1": 1228.0,
+"y1": 1492.0
+},
+{
+"text": "tarihindeki",
+"conf": 0.9431670272074891,
+"x0": 1257.0,
+"y0": 1446.0,
+"x1": 1471.0,
+"y1": 1495.0
+},
+{
+"text": "kayıtlı",
+"conf": 0.9787701605884344,
+"x0": 1498.0,
+"y0": 1449.0,
+"x1": 1627.0,
+"y1": 1501.0
+},
+{
+"text": "belirlenebilir",
+"conf": 0.9997565954893158,
+"x0": 1655.0,
+"y0": 1446.0,
+"x1": 1907.0,
+"y1": 1495.0
+},
+{
+"text": "varlıklarının;",
+"conf": 0.7480743377735247,
+"x0": 1930.0,
+"y0": 1445.0,
+"x1": 2183.0,
+"y1": 1505.0
+},
+{
+"text": "yükümlülüklerinin ve şarta bağlı borçlarının gerçeğe uygun değerinin üzerindeki kısmı şerefiye olarak",
+"conf": 0.8007056293504439,
+"x0": 287.0,
+"y0": 1489.0,
+"x1": 2185.0,
+"y1": 1557.0
+},
+{
+"text": "kaydedilir.  Şerefiye, yatırımın",
+"conf": 0.41415216107100267,
+"x0": 287.0,
+"y0": 1542.0,
+"x1": 883.0,
+"y1": 1607.0
+},
+{
+"text": "defter   değerine dahil   edilir",
+"conf": 0.4616630961807369,
+"x0": 895.0,
+"y0": 1550.0,
+"x1": 1432.0,
+"y1": 1605.0
+},
+{
+"text": "ve",
+"conf": 0.9966039810977708,
+"x0": 1444.0,
+"y0": 1560.0,
+"x1": 1497.0,
+"y1": 1598.0
+},
+{
+"text": "yatırımın bir parçası   olarak   değer",
+"conf": 0.5660568521182677,
+"x0": 1506.0,
+"y0": 1548.0,
+"x1": 2185.0,
+"y1": 1611.0
+},
+{
+"text": "düşüklüğü açısından incelenir. İştirakin satın alınma tarihindeki kayıtlı tanımlanabilir  varlıklarının;",
+"conf": 0.41243640129994835,
+"x0": 291.0,
+"y0": 1596.0,
+"x1": 2186.0,
+"y1": 1664.0
+},
+{
+"text": "yükümlülüklerinin ve garta bağlı borçlarını gerçeğe uygun değerinin satım alım bedelini aşan kısmı",
+"conf": 0.44298137509596236,
+"x0": 286.0,
+"y0": 1642.0,
+"x1": 2186.0,
+"y1": 1717.0
+},
+{
+"text": "yeniden değerlendirildikten sonra doğrudan",
+"conf": 0.9377359893625036,
+"x0": 286.0,
+"y0": 1698.0,
+"x1": 1101.0,
+"y1": 1765.0
+},
+{
+"text": "tablosuna kaydedilir.",
+"conf": 0.8830208348205753,
+"x0": 1189.0,
+"y0": 1700.0,
+"x1": 1590.0,
+"y1": 1768.0
+},
+{
+"text": "UMS 39 standardıda yer alan kurallar, Grup'un bir iştirakteki yatıımı ile ilgili bir değer düşüklüğü",
+"conf": 0.6917430517715714,
+"x0": 287.0,
+"y0": 1790.0,
+"x1": 2187.0,
+"y1": 1863.0
+},
+{
+"text": "karşılığıınn  muhasebeleştirilmesinin   gerekli",
+"conf": 0.5464848918530264,
+"x0": 288.0,
+"y0": 1846.0,
+"x1": 1134.0,
+"y1": 1909.0
+},
+{
+"text": "olmadığı  belirlemek amacıyla uygulanır:  Değer",
+"conf": 0.6387582374067255,
+"x0": 1254.0,
+"y0": 1845.0,
+"x1": 2187.0,
+"y1": 1919.0
+},
+{
+"text": "düşüklüğü göstergesi olması durumunda, iştirak yatırımını",
+"conf": 0.7179554630629135,
+"x0": 291.0,
+"y0": 1896.0,
+"x1": 1420.0,
+"y1": 1960.0
+},
+{
+"text": "kazanılabilir tutarı (kullanım değeri",
+"conf": 0.910101881773551,
+"x0": 1506.0,
+"y0": 1907.0,
+"x1": 2186.0,
+"y1": 1964.0
+},
+{
+"text": "ile gerçeğe uygun değerinden satış maliyetlerinin düşülmesi sonucu bulunan tutardan büyük olanı) ile",
+"conf": 0.6638364963478717,
+"x0": 288.0,
+"y0": 1953.0,
+"x1": 2185.0,
+"y1": 2019.0
+},
+{
+"text": "defter degeri karşılaştuılarak yatırımın tüm defter değeri UMS 36ya göre değer düşüklüğü açısından",
+"conf": 0.41695564322294265,
+"x0": 291.0,
+"y0": 2004.0,
+"x1": 2186.0,
+"y1": 2073.0
+},
+{
+"text": "tek",
+"conf": 0.9999966963759913,
+"x0": 290.0,
+"y0": 2061.0,
+"x1": 359.0,
+"y1": 2106.0
+},
+{
+"text": "bir",
+"conf": 0.99979455866399,
+"x0": 375.0,
+"y0": 2061.0,
+"x1": 439.0,
+"y1": 2106.0
+},
+{
+"text": "varlık  gibi test edilir.",
+"conf": 0.5806071893917722,
+"x0": 453.0,
+"y0": 2060.0,
+"x1": 886.0,
+"y1": 2115.0
+},
+{
+"text": "İştirakteki   yatırımın",
+"conf": 0.6925307052480755,
+"x0": 908.0,
+"y0": 2054.0,
+"x1": 1300.0,
+"y1": 2120.0
+},
+{
+"text": "kazanılabilir",
+"conf": 0.996005437451058,
+"x0": 1410.0,
+"y0": 2063.0,
+"x1": 1652.0,
+"y1": 2112.0
+},
+{
+"text": "tutarının",
+"conf": 0.8524435115778671,
+"x0": 1664.0,
+"y0": 2067.0,
+"x1": 1829.0,
+"y1": 2111.0
+},
+{
+"text": "sonradan",
+"conf": 0.9999799380167514,
+"x0": 1844.0,
+"y0": 2066.0,
+"x1": 2022.0,
+"y1": 2115.0
+},
+{
+"text": "artması",
+"conf": 0.9997793035563375,
+"x0": 2037.0,
+"y0": 2070.0,
+"x1": 2183.0,
+"y1": 2114.0
+},
+{
+"text": "durumunda; söz konusu değer düşüklüğü zararı UMS 36 uyarınca iptal edilir,",
+"conf": 0.634472322073523,
+"x0": 286.0,
+"y0": 2103.0,
+"x1": 1714.0,
+"y1": 2175.0
+},
+{
+"text": "bir iştirakine ait hisselerin bir bölümünü satarak iştirak üzerindeki önemli etkiyi kaybettiğinde,",
+"conf": 0.6597510283729365,
+"x0": 409.0,
+"y0": 2202.0,
+"x1": 2185.0,
+"y1": 2269.0
+},
+{
+"text": "kalan payını; gerçeğe uygun değeriyle hesaplar. Kalan payın gerçeğe uygun değeri, UMS 39 uyarınca",
+"conf": 0.5565655518566446,
+"x0": 288.0,
+"y0": 2254.0,
+"x1": 2185.0,
+"y1": 2321.0
+},
+{
+"text": "bir finansal varlık  olarak başlangıçta muhasebeleştirilen gerçeğe uygun değer olarak kabul  edilir.",
+"conf": 0.5047970849243983,
+"x0": 288.0,
+"y0": 2306.0,
+"x1": 2185.0,
+"y1": 2371.0
+},
+{
+"text": "Gerçeğe",
+"conf": 0.8621003543647228,
+"x0": 289.0,
+"y0": 2362.0,
+"x1": 456.0,
+"y1": 2417.0
+},
+{
+"text": "uygun değer ile kayıtlı   değer   arasındaki   fark   karlzarar   içinde muhasebeleştirilir .",
+"conf": 0.34070874126681,
+"x0": 469.0,
+"y0": 2359.0,
+"x1": 2053.0,
+"y1": 2424.0
+},
+{
+"text": "iştirakteki yatırmma ilişkin daha önce diğer kapsamlı gelirde muhasebeleştirdiği tüm tutarları yatırım",
+"conf": 0.6981234778810322,
+"x0": 284.0,
+"y0": 2408.0,
+"x1": 2185.0,
+"y1": 2480.0
+},
+{
+"text": "yapılan işletmenin varlık ya da borçlarını doğrudan elden çıkarması ile aynı esaslara uygun olarak",
+"conf": 0.6023243140399613,
+"x0": 282.0,
+"y0": 2463.0,
+"x1": 2185.0,
+"y1": 2532.0
+},
+{
+"text": "muhasebeleştirir. Bu kapsamda iştirake ilişkin diğer kapsamlı gelirde muhasebelegtirilen tüm tutarlar,",
+"conf": 0.8239583175340816,
+"x0": 286.0,
+"y0": 2511.0,
+"x1": 2188.0,
+"y1": 2586.0
+},
+{
+"text": "Grup' un iştiraki üzerindeki önemli etkiyi kaybetmesi durumunda özkaynaklardan karlzarara aktarılır.",
+"conf": 0.6757493916545156,
+"x0": 286.0,
+"y0": 2571.0,
+"x1": 2152.0,
+"y1": 2634.0
+},
+{
+"text": "şirketlerinden biri ile Grup'un bir iştiraki arasında gerçekleşen işlemler neticesinde oluşan kar ve",
+"conf": 0.6101020234569492,
+"x0": 390.0,
+"y0": 2653.0,
+"x1": 2183.0,
+"y1": 2733.0
+},
+{
+"text": "zararlar, Grup'un ilgili iştirakteki payı oranında elimine edilir.",
+"conf": 0.6931945325672512,
+"x0": 287.0,
+"y0": 2710.0,
+"x1": 1441.0,
+"y1": 2777.0
+},
+{
+"text": "12",
+"conf": 0.9997941609973214,
+"x0": 1214.0,
+"y0": 3227.0,
+"x1": 1264.0,
+"y1": 3271.0
+},
+{
+"text": "gelir",
+"conf": 0.9981025194049367,
+"x0": 1097.1579833204635,
+"y0": 1703.7259609713753,
+"x1": 1198.8420166795365,
+"y1": 1766.2740390286247
+},
+{
+"text": "olup,",
+"conf": 0.8402760389296651,
+"x0": 1135.2412184612524,
+"y0": 1845.0843686541932,
+"x1": 1252.7587815387476,
+"y1": 1915.9156313458068
+},
+{
+"text": "geri",
+"conf": 0.9997612237930298,
+"x0": 1418.102633403899,
+"y0": 1902.3577578827878,
+"x1": 1507.897366596101,
+"y1": 1964.6422421172122
+},
+{
+"text": "geri",
+"conf": 0.583353207108231,
+"x0": 1309.3700465834029,
+"y0": 2062.201711565463,
+"x1": 1401.6299534165971,
+"y1": 2119.798288434537
+},
+{
+"text": "Grup,",
+"conf": 0.4739514900467616,
+"x0": 287.117125257246,
+"y0": 2199.0835899750778,
+"x1": 414.882874742754,
+"y1": 2262.9164100249222
+},
+{
+"text": "Grup,",
+"conf": 0.638239748576403,
+"x0": 2062.1373099869593,
+"y0": 2366.0835899750778,
+"x1": 2188.8626900130407,
+"y1": 2429.9164100249222
+},
+{
+"text": "Grup",
+"conf": 0.9999679327011108,
+"x0": 283.25603373527974,
+"y0": 2659.100307970093,
+"x1": 400.74396626472026,
+"y1": 2724.899692029907
+}
+]
+}

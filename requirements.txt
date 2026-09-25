@@ -1,0 +1,8 @@
+easyocr>=1.7.2
+torch>=2.2
+pymupdf>=1.24.3
+opencv-python-headless>=4.8
+numpy>=1.24
+pyyaml>=6.0
+sentence-transformers>=2.7
+openai>=1.40

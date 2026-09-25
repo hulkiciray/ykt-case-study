@@ -1,0 +1,15 @@
+pdf_path: "data/raw/ozak_gyo_2012_denetim_raporu.pdf"
+summary_pages: [5, 6, 7]
+note_number: 11
+
+dpi: 300
+ocr_cache_dir: "cache/ocr"
+output_dir: "outputs"
+low_confidence_threshold: 0.70
+
+# linking
+embedding_model: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+llm_model: "gpt-4.1-mini"
+link_threshold: 0.60                        # method A default, replaced by the value fitted on control_links
+control_links: "data/control_links.json"
+llm_cache_dir: "cache/llm"

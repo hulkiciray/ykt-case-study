@@ -1,0 +1,766 @@
+{
+"page": 33,
+"dpi": 300,
+"tokens": [
+{
+"text": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. VE BAĞLI ORTAKLIKLARI",
+"conf": 0.5651702389887533,
+"x0": 289.0,
+"y0": 111.0,
+"x1": 2002.0,
+"y1": 186.0
+},
+{
+"text": "BAĞIMSIZ DENETİMDEN GEÇMİŞ 31 ARALIK 2012 TARİHİ İTİBARİYLE",
+"conf": 0.8638314115022958,
+"x0": 289.0,
+"y0": 219.0,
+"x1": 1791.0,
+"y1": 291.0
+},
+{
+"text": "KONSOLIDE FİNANSAL TABLOLARA İLİŞKİN AÇIKLAYICI DPPNOTLAR",
+"conf": 0.4330594658303434,
+"x0": 288.0,
+"y0": 277.0,
+"x1": 1774.0,
+"y1": 345.0
+},
+{
+"text": "(Tüm tutarlar Türk Lirası (TL) olarak gösterilmiştir)",
+"conf": 0.738529781936153,
+"x0": 289.0,
+"y0": 370.0,
+"x1": 996.0,
+"y1": 418.0
+},
+{
+"text": "2.",
+"conf": 0.9855046317611406,
+"x0": 172.0,
+"y0": 501.0,
+"x1": 216.0,
+"y1": 545.0
+},
+{
+"text": "FİNANSAL TABLOLARIN SUNUMUNA İLİŞKİN ESASLAR (devamı)",
+"conf": 0.7761243395214779,
+"x0": 288.0,
+"y0": 494.0,
+"x1": 1724.0,
+"y1": 561.0
+},
+{
+"text": "2.5",
+"conf": 0.8597942590713501,
+"x0": 172.0,
+"y0": 594.0,
+"x1": 241.0,
+"y1": 639.0
+},
+{
+"text": "Önemli Mubasebe Politikalarını Özeti (devamı)",
+"conf": 0.6085952240989573,
+"x0": 289.0,
+"y0": 583.0,
+"x1": 1252.0,
+"y1": 652.0
+},
+{
+"text": "İşletme Birlegmeleri",
+"conf": 0.8022375967297436,
+"x0": 288.0,
+"y0": 677.0,
+"x1": 690.0,
+"y1": 744.0
+},
+{
+"text": "İşletme satın alımları satın alı yöntemi kullanılarak muhasebeleştirilir. Bir isletme birlegmesinde",
+"conf": 0.43029397041292,
+"x0": 287.0,
+"y0": 767.0,
+"x1": 2181.0,
+"y1": 842.0
+},
+{
+"text": "transfer edilen bedel, gerçeğe uygun değeri üzerinden ölçülür; transfer edilen bedel, edinen igletme",
+"conf": 0.5705821582668944,
+"x0": 288.0,
+"y0": 825.0,
+"x1": 2179.0,
+"y1": 890.0
+},
+{
+"text": "tarafindan transfer edilen varlıkların birleşme tarihindeki gerçeğe uygun değerlerinin; edinen işletme",
+"conf": 0.80134467632499,
+"x0": 287.0,
+"y0": 878.0,
+"x1": 2182.0,
+"y1": 944.0
+},
+{
+"text": "tarafindan",
+"conf": 0.9535821556633499,
+"x0": 289.0,
+"y0": 933.0,
+"x1": 489.0,
+"y1": 982.0
+},
+{
+"text": "edinilen",
+"conf": 0.999982298258728,
+"x0": 506.0,
+"y0": 933.0,
+"x1": 667.0,
+"y1": 982.0
+},
+{
+"text": "işletmenin",
+"conf": 0.9710234379322038,
+"x0": 684.0,
+"y0": 936.0,
+"x1": 886.0,
+"y1": 988.0
+},
+{
+"text": "önceki",
+"conf": 0.9985657959497197,
+"x0": 906.0,
+"y0": 936.0,
+"x1": 1040.0,
+"y1": 985.0
+},
+{
+"text": "sahiplerine",
+"conf": 0.9995298293480652,
+"x0": 1057.0,
+"y0": 936.0,
+"x1": 1268.0,
+"y1": 991.0
+},
+{
+"text": "üstlenilen",
+"conf": 0.9999767783143199,
+"x0": 1405.0,
+"y0": 936.0,
+"x1": 1597.0,
+"y1": 985.0
+},
+{
+"text": "borçların",
+"conf": 0.9703148273570585,
+"x0": 1616.0,
+"y0": 939.0,
+"x1": 1789.0,
+"y1": 993.0
+},
+{
+"text": "ve",
+"conf": 0.995881453954985,
+"x0": 1809.0,
+"y0": 948.0,
+"x1": 1862.0,
+"y1": 984.0
+},
+{
+"text": "edinen",
+"conf": 0.9999974206488531,
+"x0": 1879.0,
+"y0": 939.0,
+"x1": 2014.0,
+"y1": 988.0
+},
+{
+"text": "işletme",
+"conf": 0.9018925402792798,
+"x0": 2033.0,
+"y0": 942.0,
+"x1": 2178.0,
+"y1": 993.0
+},
+{
+"text": "tarafindan çıkarılan özkaynak   paylarının toplamı  olarak hesaplanır.  Satın",
+"conf": 0.5629577760324552,
+"x0": 288.0,
+"y0": 981.0,
+"x1": 1713.0,
+"y1": 1048.0
+},
+{
+"text": "alıma ilişkin maliyetler",
+"conf": 0.696729098495912,
+"x0": 1723.0,
+"y0": 991.0,
+"x1": 2181.0,
+"y1": 1048.0
+},
+{
+"text": "genellikle oluştukları anda",
+"conf": 0.9564181072145461,
+"x0": 286.0,
+"y0": 1032.0,
+"x1": 789.0,
+"y1": 1100.0
+},
+{
+"text": "olarak muhasebeleştirilir.",
+"conf": 0.6575048896173926,
+"x0": 888.0,
+"y0": 1039.0,
+"x1": 1362.0,
+"y1": 1099.0
+},
+{
+"text": "Satın alınan tanımlanabilir varlıklar ile üstlenilen yükümlülükler, satın alım tarihinde gerçeğe uygun",
+"conf": 0.7159104609539714,
+"x0": 286.0,
+"y0": 1126.0,
+"x1": 2179.0,
+"y1": 1195.0
+},
+{
+"text": "degerleri üzerinden muhasebelestirilir. Aşağıda belirtilenler bu şekilde muhasebelegtirilmez:",
+"conf": 0.7268067117157073,
+"x0": 288.0,
+"y0": 1179.0,
+"x1": 1982.0,
+"y1": 1245.0
+},
+{
+"text": "Ertelenmiş vergi varlıkları ya da yükümlülükleri veya çalışanlara sağlanan faydalara ilişkin varlık",
+"conf": 0.7579759871391895,
+"x0": 361.0,
+"y0": 1272.0,
+"x1": 2182.0,
+"y1": 1340.0
+},
+{
+"text": "ya da yükümlülükler, sırasıyla, UMS 12 Gelir Vergisi ve UMS 19 Çalışanlara Sağlanan Faydalar",
+"conf": 0.6834120590203251,
+"x0": 362.0,
+"y0": 1329.0,
+"x1": 2182.0,
+"y1": 1396.0
+},
+{
+"text": "standartları uyarınca hesaplanarak, muhasebeleştirilir;",
+"conf": 0.6678493200520429,
+"x0": 362.0,
+"y0": 1379.0,
+"x1": 1362.0,
+"y1": 1443.0
+},
+{
+"text": "Satın alınan işletmenin hisse bazlı ödeme anlaşmaları ya da Grupun satın alınan işletmenin hisse",
+"conf": 0.5940847204925789,
+"x0": 365.0,
+"y0": 1475.0,
+"x1": 2182.0,
+"y1": 1539.0
+},
+{
+"text": "bazlı ödeme anlasmalarının yerine geçmesi amacıyla imzaladığı hisse bazlı ödeme anlagmaları ile",
+"conf": 0.6051400991984193,
+"x0": 364.0,
+"y0": 1524.0,
+"x1": 2183.0,
+"y1": 1597.0
+},
+{
+"text": "ilişkili yükümlülükler ya da özkaynak araçları, satın alım tarihinde UFRS 2 Hisse Bazlı Ödeme",
+"conf": 0.4648160838523198,
+"x0": 361.0,
+"y0": 1574.0,
+"x1": 2184.0,
+"y1": 1642.0
+},
+{
+"text": "Anlaşmaları standardı uyarıca muhasebeleştirilir; ve",
+"conf": 0.7688769625075925,
+"x0": 367.0,
+"y0": 1634.0,
+"x1": 1354.0,
+"y1": 1695.0
+},
+{
+"text": "UFRS 5",
+"conf": 0.7939344426498272,
+"x0": 363.0,
+"y0": 1726.0,
+"x1": 525.0,
+"y1": 1778.0
+},
+{
+"text": "Amaçlı Elde Tutulan Duran Varlıklar ve Durdurulan Faaliyetler standardı uyarınca",
+"conf": 0.7236408190450848,
+"x0": 633.0,
+"y0": 1728.0,
+"x1": 2182.0,
+"y1": 1792.0
+},
+{
+"text": "satış amaçlı elde tutulan olarak sınıflandıılan varlıklar (ya da elden çıkarma grupları) UFRS 5*de",
+"conf": 0.6153040200889174,
+"x0": 359.0,
+"y0": 1778.0,
+"x1": 2185.0,
+"y1": 1845.0
+},
+{
+"text": "belirtilen kurallara göre muhasebelestirilir.",
+"conf": 0.8177915633048236,
+"x0": 363.0,
+"y0": 1833.0,
+"x1": 1152.0,
+"y1": 1890.0
+},
+{
+"text": "Şerefiye, satın alım için transfer edilen bedelin; satın alıan işletmedeki varsa kontrol",
+"conf": 0.7853427492400544,
+"x0": 285.0,
+"y0": 1920.0,
+"x1": 1905.0,
+"y1": 1984.0
+},
+{
+"text": "olmayan",
+"conf": 0.9994000095683908,
+"x0": 2005.0,
+"y0": 1928.0,
+"x1": 2184.0,
+"y1": 1992.0
+},
+{
+"text": "payların",
+"conf": 0.9993095780307498,
+"x0": 282.0,
+"y0": 1970.0,
+"x1": 454.0,
+"y1": 2039.0
+},
+{
+"text": "ve,",
+"conf": 0.8174652340059506,
+"x0": 463.0,
+"y0": 1987.0,
+"x1": 526.0,
+"y1": 2026.0
+},
+{
+"text": "varsa,   aşamalı   olarak   gerçekleşen",
+"conf": 0.4893845025387595,
+"x0": 541.0,
+"y0": 1980.0,
+"x1": 1205.0,
+"y1": 2035.0
+},
+{
+"text": "bir   işletme   birleşmesinde   edinen   işletmenin  daha",
+"conf": 0.31255537468405103,
+"x0": 1216.0,
+"y0": 1981.0,
+"x1": 2181.0,
+"y1": 2038.0
+},
+{
+"text": "önceden",
+"conf": 0.9586649513211616,
+"x0": 285.0,
+"y0": 2028.0,
+"x1": 454.0,
+"y1": 2081.0
+},
+{
+"text": "elinde   bulundurduğu   edinilen",
+"conf": 0.6929343342260953,
+"x0": 469.0,
+"y0": 2022.0,
+"x1": 1060.0,
+"y1": 2090.0
+},
+{
+"text": "işletmedeki   özkaynak   paylarının",
+"conf": 0.7487839172313271,
+"x0": 1075.0,
+"y0": 2027.0,
+"x1": 1723.0,
+"y1": 2095.0
+},
+{
+"text": "gerçeğe",
+"conf": 0.9658755161703633,
+"x0": 1737.0,
+"y0": 2038.0,
+"x1": 1893.0,
+"y1": 2090.0
+},
+{
+"text": "uygun",
+"conf": 0.9997624383302843,
+"x0": 1907.0,
+"y0": 2044.0,
+"x1": 2035.0,
+"y1": 2093.0
+},
+{
+"text": "değeri",
+"conf": 0.7788643451322151,
+"x0": 2053.0,
+"y0": 2034.0,
+"x1": 2183.0,
+"y1": 2096.0
+},
+{
+"text": "toplamının;  satın alınan işletmenin",
+"conf": 0.4930925157457217,
+"x0": 282.0,
+"y0": 2081.0,
+"x1": 967.0,
+"y1": 2141.0
+},
+{
+"text": "satın alma tarihinde   tanmmlanabilen   varlıklarıın",
+"conf": 0.42849287266807473,
+"x0": 977.0,
+"y0": 2085.0,
+"x1": 1912.0,
+"y1": 2137.0
+},
+{
+"text": "ve   üstlenilen",
+"conf": 0.6124037764344986,
+"x0": 1923.0,
+"y0": 2088.0,
+"x1": 2181.0,
+"y1": 2137.0
+},
+{
+"text": "tanımlanabilir  yükümlülüklerinin net tutarını   aşan tutar   olarak hesaplanır.",
+"conf": 0.4554890126460753,
+"x0": 285.0,
+"y0": 2130.0,
+"x1": 1718.0,
+"y1": 2196.0
+},
+{
+"text": "Yeniden   değerlendirme",
+"conf": 0.6152849530712812,
+"x0": 1730.0,
+"y0": 2137.0,
+"x1": 2182.0,
+"y1": 2199.0
+},
+{
+"text": "sonrasında   satın  alıan işletmenin",
+"conf": 0.5933687574659939,
+"x0": 286.0,
+"y0": 2189.0,
+"x1": 958.0,
+"y1": 2244.0
+},
+{
+"text": "satın alma tarihinde tanımlanabilen",
+"conf": 0.593182111749238,
+"x0": 969.0,
+"y0": 2189.0,
+"x1": 1663.0,
+"y1": 2241.0
+},
+{
+"text": "varlıklarının",
+"conf": 0.9742034282734973,
+"x0": 1675.0,
+"y0": 2196.0,
+"x1": 1911.0,
+"y1": 2240.0
+},
+{
+"text": "ve   üstlenilen",
+"conf": 0.710492130831926,
+"x0": 1923.0,
+"y0": 2195.0,
+"x1": 2181.0,
+"y1": 2244.0
+},
+{
+"text": "tanımlanabilir   yükümlülüklerinin",
+"conf": 0.8938871853046745,
+"x0": 282.0,
+"y0": 2235.0,
+"x1": 935.0,
+"y1": 2297.0
+},
+{
+"text": "net",
+"conf": 0.9999871984651112,
+"x0": 954.0,
+"y0": 2248.0,
+"x1": 1025.0,
+"y1": 2289.0
+},
+{
+"text": "tutarının,",
+"conf": 0.7474439215937098,
+"x0": 1044.0,
+"y0": 2248.0,
+"x1": 1220.0,
+"y1": 2292.0
+},
+{
+"text": "devredilen",
+"conf": 0.9999982659239094,
+"x0": 1246.0,
+"y0": 2244.0,
+"x1": 1451.0,
+"y1": 2293.0
+},
+{
+"text": "satın",
+"conf": 0.9520336485034646,
+"x0": 1475.0,
+"y0": 2248.0,
+"x1": 1571.0,
+"y1": 2292.0
+},
+{
+"text": "alma",
+"conf": 0.9955074787139893,
+"x0": 1595.0,
+"y0": 2248.0,
+"x1": 1694.0,
+"y1": 2292.0
+},
+{
+"text": "bedelinin;",
+"conf": 0.7817665478732735,
+"x0": 1719.0,
+"y0": 2242.0,
+"x1": 1914.0,
+"y1": 2299.0
+},
+{
+"text": "satın",
+"conf": 0.9949678749797526,
+"x0": 1935.0,
+"y0": 2251.0,
+"x1": 2032.0,
+"y1": 2295.0
+},
+{
+"text": "alınan",
+"conf": 0.8621806744299502,
+"x0": 2056.0,
+"y0": 2251.0,
+"x1": 2180.0,
+"y1": 2295.0
+},
+{
+"text": "igletmedeki kontrol gücü olmayan payların ve, varsa, satın alma öncesinde satın alınan işletmedeki",
+"conf": 0.5362514631712576,
+"x0": 285.0,
+"y0": 2292.0,
+"x1": 2185.0,
+"y1": 2355.0
+},
+{
+"text": "payların   gerçeğe",
+"conf": 0.9509725877400196,
+"x0": 282.0,
+"y0": 2339.0,
+"x1": 621.0,
+"y1": 2405.0
+},
+{
+"text": "uygun",
+"conf": 0.9995899673691258,
+"x0": 634.0,
+"y0": 2353.0,
+"x1": 761.0,
+"y1": 2405.0
+},
+{
+"text": "değeri   toplamını",
+"conf": 0.734142747532434,
+"x0": 777.0,
+"y0": 2348.0,
+"x1": 1106.0,
+"y1": 2403.0
+},
+{
+"text": "aşması   durumunda,",
+"conf": 0.8846370094077451,
+"x0": 1122.0,
+"y0": 2345.0,
+"x1": 1506.0,
+"y1": 2407.0
+},
+{
+"text": "bu   tutar   pazarlıklı",
+"conf": 0.8110960036360654,
+"x0": 1516.0,
+"y0": 2349.0,
+"x1": 1887.0,
+"y1": 2411.0
+},
+{
+"text": "satın",
+"conf": 0.8163940636256638,
+"x0": 1900.0,
+"y0": 2358.0,
+"x1": 1996.0,
+"y1": 2399.0
+},
+{
+"text": "almadan",
+"conf": 0.9999775615943197,
+"x0": 2014.0,
+"y0": 2354.0,
+"x1": 2181.0,
+"y1": 2403.0
+},
+{
+"text": "kaynaklanan kazanç olarak doğrudan karlzarar içinde muhasebelestirilir",
+"conf": 0.9126756572972877,
+"x0": 284.0,
+"y0": 2395.0,
+"x1": 1622.0,
+"y1": 2459.0
+},
+{
+"text": "Hissedar paylarını temsil eden ve sahiplerine tasfiye durumunda işletmenin net varlıklarının belli bir",
+"conf": 0.88846021563707,
+"x0": 284.0,
+"y0": 2483.0,
+"x1": 2186.0,
+"y1": 2555.0
+},
+{
+"text": "oranda  pay",
+"conf": 0.8238440831099504,
+"x0": 286.0,
+"y0": 2543.0,
+"x1": 514.0,
+"y1": 2600.0
+},
+{
+"text": "hakkını",
+"conf": 0.9986871698121025,
+"x0": 528.0,
+"y0": 2547.0,
+"x1": 677.0,
+"y1": 2591.0
+},
+{
+"text": "veren",
+"conf": 0.9999820871440241,
+"x0": 690.0,
+"y0": 2552.0,
+"x1": 803.0,
+"y1": 2591.0
+},
+{
+"text": "kontrol   gücü olmayan paylar, ilk olarak ya   gerçeğe   uygun   değerleri",
+"conf": 0.3853046854172294,
+"x0": 814.0,
+"y0": 2543.0,
+"x1": 2182.0,
+"y1": 2611.0
+},
+{
+"text": "üzerinden ya da satın alınan işletmenin tanmmlanabilir net varlıklarının kontrol gücü olmayan",
+"conf": 0.6653018571049577,
+"x0": 285.0,
+"y0": 2594.0,
+"x1": 2052.0,
+"y1": 2662.0
+},
+{
+"text": "oranında muhasebeleştirilen tutarları üzerinden ölçülür.",
+"conf": 0.8888475239483773,
+"x0": 284.0,
+"y0": 2647.0,
+"x1": 1343.0,
+"y1": 2710.0
+},
+{
+"text": "esası, her bir işleme göre belirlenir.",
+"conf": 0.7266433098409262,
+"x0": 1486.0,
+"y0": 2653.0,
+"x1": 2178.0,
+"y1": 2710.0
+},
+{
+"text": "Diger kontrol gücü olmayan pay türleri gerçeğe uygun değere göre ya da, uygulanabilir   olduğu",
+"conf": 0.3980700834085187,
+"x0": 284.0,
+"y0": 2698.0,
+"x1": 2186.0,
+"y1": 2770.0
+},
+{
+"text": "durumlarda, bir başka UFRS standardında belirtilen yöntemler uyarmca ölçülür.",
+"conf": 0.5838932672478551,
+"x0": 283.0,
+"y0": 2747.0,
+"x1": 1763.0,
+"y1": 2819.0
+},
+{
+"text": "29",
+"conf": 1.0,
+"x0": 1209.0,
+"y0": 3235.0,
+"x1": 1261.0,
+"y1": 3279.0
+},
+{
+"text": "karşı",
+"conf": 0.9907129008177731,
+"x0": 1282.2913328886734,
+"y0": 935.1079613181162,
+"x1": 1395.7086671113266,
+"y1": 998.8920386818838
+},
+{
+"text": "gider",
+"conf": 0.9999892309661262,
+"x0": 781.3941368172834,
+"y0": 1032.9130254674349,
+"x1": 895.6058631827166,
+"y1": 1099.0869745325651
+},
+{
+"text": "Satış",
+"conf": 0.9878924222807806,
+"x0": 524.2967073982367,
+"y0": 1722.093434546949,
+"x1": 636.7032926017633,
+"y1": 1789.906565453051
+},
+{
+"text": "gücü",
+"conf": 0.9936049914754586,
+"x0": 1904.2599556283028,
+"y0": 1925.855415446014,
+"x1": 2008.7400443716972,
+"y1": 1988.144584553986
+},
+{
+"text": "paylar",
+"conf": 0.9993352566047035,
+"x0": 2051.2599556283026,
+"y0": 2599.4065213264607,
+"x1": 2183.7400443716974,
+"y1": 2662.5934786735393
+},
+{
+"text": "Ölçüm",
+"conf": 0.9997482036111308,
+"x0": 1337.2298385565339,
+"y0": 2638.074486052446,
+"x1": 1487.7701614434661,
+"y1": 2719.925513947554
+}
+]
+}

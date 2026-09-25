@@ -1,0 +1,518 @@
+{
+"page": 67,
+"dpi": 300,
+"tokens": [
+{
+"text": "ÖZAK GAYRIMENKUL YATIRIM ORTAKLIĞI A.Ş. VE BAĞLI ORTAKLIKLARI",
+"conf": 0.7131991802790766,
+"x0": 292.0,
+"y0": 98.0,
+"x1": 2013.0,
+"y1": 176.0
+},
+{
+"text": "BAĞIMSIZ DENETİMDEN GEÇMİŞ 31 ARALIK 2012 TARİHİ İTİBARİYLE",
+"conf": 0.7002518536089565,
+"x0": 292.0,
+"y0": 203.0,
+"x1": 1799.0,
+"y1": 278.0
+},
+{
+"text": "KONSOLIDE FİNANSAL TABLOLARA İİŞKİN AÇIKLAYICIDİPNOTLAR",
+"conf": 0.7486928814486332,
+"x0": 292.0,
+"y0": 262.0,
+"x1": 1783.0,
+"y1": 335.0
+},
+{
+"text": "(Tüm tutarlar Türk Lirası (TL) olarak gösterilmistir)",
+"conf": 0.6425202597504468,
+"x0": 294.0,
+"y0": 355.0,
+"x1": 1004.0,
+"y1": 407.0
+},
+{
+"text": "19.",
+"conf": 0.9334394284253223,
+"x0": 179.0,
+"y0": 451.0,
+"x1": 239.0,
+"y1": 500.0
+},
+{
+"text": "ÖZKAYNAKLAR (devamı)",
+"conf": 0.999276068079042,
+"x0": 294.0,
+"y0": 440.0,
+"x1": 858.0,
+"y1": 512.0
+},
+{
+"text": "Sermaye",
+"conf": 0.9999349822450374,
+"x0": 291.0,
+"y0": 552.0,
+"x1": 470.0,
+"y1": 617.0
+},
+{
+"text": "ve",
+"conf": 0.9998682514936711,
+"x0": 572.0,
+"y0": 567.0,
+"x1": 622.0,
+"y1": 603.0
+},
+{
+"text": "Sermaye Rezervleri (devamı) :",
+"conf": 0.7186687130186056,
+"x0": 618.0,
+"y0": 555.0,
+"x1": 1181.0,
+"y1": 620.0
+},
+{
+"text": "1",
+"conf": 0.9981623993071622,
+"x0": 300.0,
+"y0": 659.0,
+"x1": 319.0,
+"y1": 692.0
+},
+{
+"text": "Ocak 2008 itibarıla yürürlüğe giren Seri: KI, No: 29 sayılı tebliğ ve ona açıklama getiren SPK",
+"conf": 0.6873613205304183,
+"x0": 334.0,
+"y0": 649.0,
+"x1": 2188.0,
+"y1": 726.0
+},
+{
+"text": "duyurularına göre ~Ödenmiş sermaye? , \"Kardan ayrılan kısıtlanmı yedekler\" ve \"Hisse senedi ihraç",
+"conf": 0.40270286756484325,
+"x0": 291.0,
+"y0": 695.0,
+"x1": 2192.0,
+"y1": 779.0
+},
+{
+"text": "primleri?nin yasal  kayıtlardaki tutarları üzerinden gösterilmesi gerekmektedir.  Söz konusu tebliğin",
+"conf": 0.5260315435962725,
+"x0": 288.0,
+"y0": 753.0,
+"x1": 2188.0,
+"y1": 828.0
+},
+{
+"text": "uygulanması  esnasında değerlemelerde çıkan farklılıkların (enflasyon düzeltmesinden kaynaklanan",
+"conf": 0.506535317656017,
+"x0": 288.0,
+"y0": 803.0,
+"x1": 2188.0,
+"y1": 882.0
+},
+{
+"text": "farlılıklar gibi):",
+"conf": 0.9882608674213761,
+"x0": 291.0,
+"y0": 861.0,
+"x1": 593.0,
+"y1": 924.0
+},
+{
+"text": "'Ödenmis sermaye\"den kaynaklanmaktaysa",
+"conf": 0.6430882449550481,
+"x0": 345.0,
+"y0": 947.0,
+"x1": 1196.0,
+"y1": 1025.0
+},
+{
+"text": "ve henüz sermayeye ilave   edilmemişse, 'Ödenmiş",
+"conf": 0.3372420549289718,
+"x0": 1201.0,
+"y0": 962.0,
+"x1": 2190.0,
+"y1": 1031.0
+},
+{
+"text": "sermaye\" kaleminden sonra gelmek üzere açılacak \"Sermaye düzeltmesi farkları' kalemiyle;",
+"conf": 0.7633922182619344,
+"x0": 346.0,
+"y0": 1009.0,
+"x1": 2059.0,
+"y1": 1083.0
+},
+{
+"text": "'Kardan ayrılan kısıtlanmış yedekler' ve 'Hisse senedi",
+"conf": 0.5318290828322749,
+"x0": 348.0,
+"y0": 1105.0,
+"x1": 1414.0,
+"y1": 1171.0
+},
+{
+"text": "primleri nden kaynaklanmakta ve",
+"conf": 0.7917354791574273,
+"x0": 1520.0,
+"y0": 1112.0,
+"x1": 2185.0,
+"y1": 1178.0
+},
+{
+"text": "henüz kar dağıtımı veya sermaye artırımına konu olmamışsa <Geçmiş",
+"conf": 0.745490199906062,
+"x0": 348.0,
+"y0": 1163.0,
+"x1": 1642.0,
+"y1": 1231.0
+},
+{
+"text": "karlzararıyla\" >",
+"conf": 0.6757674022865434,
+"x0": 1745.0,
+"y0": 1175.0,
+"x1": 2011.0,
+"y1": 1229.0
+},
+{
+"text": "iliskilendirilmesi gerekmektedir. Diğer özkaynak kalemleri ise SPK Finansal Raporlama Standartları",
+"conf": 0.7050235927182489,
+"x0": 287.0,
+"y0": 1254.0,
+"x1": 2188.0,
+"y1": 1331.0
+},
+{
+"text": "çerçevesinde değerlenen tutarları ile gösterilmektedir.",
+"conf": 0.7412814492912148,
+"x0": 287.0,
+"y0": 1306.0,
+"x1": 1283.0,
+"y1": 1373.0
+},
+{
+"text": "Sermaye düzeltmesi farklarının sermayeye eklenmek dışında bir kullanımı yoktur .",
+"conf": 0.9104247850757662,
+"x0": 285.0,
+"y0": 1405.0,
+"x1": 1808.0,
+"y1": 1479.0
+},
+{
+"text": "Kar Dağıtımı:",
+"conf": 0.7652449645907845,
+"x0": 289.0,
+"y0": 1515.0,
+"x1": 560.0,
+"y1": 1572.0
+},
+{
+"text": "Sermaye Piyasası Kurulu 'nca (Kurul)",
+"conf": 0.7955953786364279,
+"x0": 286.0,
+"y0": 1617.0,
+"x1": 1012.0,
+"y1": 1683.0
+},
+{
+"text": "27 Ocak 2010 tarihinde 2009",
+"conf": 0.5403227469919922,
+"x0": 1024.0,
+"y0": 1627.0,
+"x1": 1586.0,
+"y1": 1679.0
+},
+{
+"text": "faaliyetlerinden elde edilen",
+"conf": 0.9669527650267606,
+"x0": 1665.0,
+"y0": 1633.0,
+"x1": 2186.0,
+"y1": 1690.0
+},
+{
+"text": "karların dağıtım esasları ile ilgili olarak; payları borsada işlem gören anonim ortaklıklar için; herhangi",
+"conf": 0.6364649932730143,
+"x0": 284.0,
+"y0": 1680.0,
+"x1": 2189.0,
+"y1": 1754.0
+},
+{
+"text": "bir   asgari",
+"conf": 0.8727899454762856,
+"x0": 285.0,
+"y0": 1740.0,
+"x1": 493.0,
+"y1": 1803.0
+},
+{
+"text": "kar   dağıtım",
+"conf": 0.870516977987467,
+"x0": 503.0,
+"y0": 1745.0,
+"x1": 738.0,
+"y1": 1800.0
+},
+{
+"text": "zorunluluğu   getirilmemesine",
+"conf": 0.9495820457496766,
+"x0": 754.0,
+"y0": 1742.0,
+"x1": 1310.0,
+"y1": 1804.0
+},
+{
+"text": "(31",
+"conf": 0.9836746574900905,
+"x0": 1323.0,
+"y0": 1751.0,
+"x1": 1394.0,
+"y1": 1802.0
+},
+{
+"text": "Aralık   2008:  %20),",
+"conf": 0.6354332019712764,
+"x0": 1411.0,
+"y0": 1745.0,
+"x1": 1812.0,
+"y1": 1811.0
+},
+{
+"text": "bu   kapsamda; kar",
+"conf": 0.529735974558048,
+"x0": 1822.0,
+"y0": 1756.0,
+"x1": 2188.0,
+"y1": 1811.0
+},
+{
+"text": "dağıtımnnın Kurulun Seri:IV, No:27 sayılı",
+"conf": 0.47384235828298316,
+"x0": 284.0,
+"y0": 1801.0,
+"x1": 1131.0,
+"y1": 1868.0
+},
+{
+"text": "(c",
+"conf": 0.06533433246156323,
+"x0": 1139.0,
+"y0": 1814.0,
+"x1": 1166.0,
+"y1": 1832.0
+},
+{
+"text": "Sermaye Piyasası Kanununa Tabi Olan Halka Açık",
+"conf": 0.7544317920100034,
+"x0": 1175.0,
+"y0": 1809.0,
+"x1": 2189.0,
+"y1": 1874.0
+},
+{
+"text": "Anonim Ortaklıkların Temettü Avansı Dağıtımında Uyacakları Esaslar Hakkında Tebliğinde yer alan",
+"conf": 0.7069390030116539,
+"x0": 290.0,
+"y0": 1861.0,
+"x1": 2186.0,
+"y1": 1933.0
+},
+{
+"text": "esaslar,",
+"conf": 0.9311826642429445,
+"x0": 284.0,
+"y0": 1918.0,
+"x1": 440.0,
+"y1": 1980.0
+},
+{
+"text": "ortaklıkların",
+"conf": 0.9589601887172687,
+"x0": 456.0,
+"y0": 1923.0,
+"x1": 698.0,
+"y1": 1976.0
+},
+{
+"text": "esas",
+"conf": 0.9999523758888245,
+"x0": 720.0,
+"y0": 1935.0,
+"x1": 809.0,
+"y1": 1974.0
+},
+{
+"text": "sözleşmelerinde",
+"conf": 0.8929896565192563,
+"x0": 829.0,
+"y0": 1929.0,
+"x1": 1136.0,
+"y1": 1983.0
+},
+{
+"text": "bulunan",
+"conf": 0.9997965615217237,
+"x0": 1157.0,
+"y0": 1930.0,
+"x1": 1318.0,
+"y1": 1982.0
+},
+{
+"text": "hükümler",
+"conf": 0.9997103073284184,
+"x0": 1339.0,
+"y0": 1931.0,
+"x1": 1528.0,
+"y1": 1981.0
+},
+{
+"text": "ve",
+"conf": 0.9967238136844033,
+"x0": 1549.0,
+"y0": 1941.0,
+"x1": 1601.0,
+"y1": 1977.0
+},
+{
+"text": "şirketler",
+"conf": 0.9983079426333399,
+"x0": 1624.0,
+"y0": 1934.0,
+"x1": 1789.0,
+"y1": 1989.0
+},
+{
+"text": "tarafindan   kamuya",
+"conf": 0.9612933416856666,
+"x0": 1807.0,
+"y0": 1934.0,
+"x1": 2189.0,
+"y1": 1998.0
+},
+{
+"text": "açıklanmış olan kar dağıtım politikaları çerçevesinde gerçeklegtirilmesine karar verilmiştir .",
+"conf": 0.9087000043035645,
+"x0": 284.0,
+"y0": 1980.0,
+"x1": 1969.0,
+"y1": 2054.0
+},
+{
+"text": "Bunun yanında söz konusu Kurul Kararı ile konsolide finansal tablo düzenleme yükümlülüğü bulunan",
+"conf": 0.6718418922710916,
+"x0": 283.0,
+"y0": 2101.0,
+"x1": 2189.0,
+"y1": 2175.0
+},
+{
+"text": "şirketlerin; yasal  kayıtlarında   bulunan kaynaklarından  karşılanabildiği  sürece, net   dağıılabilir kar",
+"conf": 0.43496488136933603,
+"x0": 281.0,
+"y0": 2160.0,
+"x1": 2188.0,
+"y1": 2235.0
+},
+{
+"text": "tutarını Seri:YI No:29 Tebliği çerçevesinde  hazırlayıp kamuya ilan edecekleri konsolide finansal",
+"conf": 0.46125993703762036,
+"x0": 279.0,
+"y0": 2222.0,
+"x1": 2188.0,
+"y1": 2297.0
+},
+{
+"text": "tablolarında yer alan net dönem karlarını dikkate alarak hesaplamaları gerektiği düzenlenmiştir.",
+"conf": 0.8916200686749024,
+"x0": 280.0,
+"y0": 2287.0,
+"x1": 2047.0,
+"y1": 2355.0
+},
+{
+"text": "Şirketin bilanço tarihi itibariyle yasal kayıtlarında dönem karı 23.148.090 TL (31 Aralık 2011 karı:",
+"conf": 0.6373463711839008,
+"x0": 282.0,
+"y0": 2395.0,
+"x1": 2185.0,
+"y1": 2464.0
+},
+{
+"text": "6.838.195 TL)",
+"conf": 0.9925913542251994,
+"x0": 283.0,
+"y0": 2450.0,
+"x1": 568.0,
+"y1": 2507.0
+},
+{
+"text": "yasal kayıtlarında kar dağıtumına konu olabilecek kaynaklar toplamı 30.511.415",
+"conf": 0.6097376149625486,
+"x0": 672.0,
+"y0": 2456.0,
+"x1": 2187.0,
+"y1": 2524.0
+},
+{
+"text": "TLdir (31 Aralık 2011: 7.764.060 TL)",
+"conf": 0.9267112934017883,
+"x0": 282.0,
+"y0": 2504.0,
+"x1": 1022.0,
+"y1": 2566.0
+},
+{
+"text": "63",
+"conf": 0.9394872474703063,
+"x0": 1209.0,
+"y0": 3271.0,
+"x1": 1258.0,
+"y1": 3315.0
+},
+{
+"text": "artışı",
+"conf": 0.9691843868156929,
+"x0": 461.1492874992733,
+"y0": 556.105097901312,
+"x1": 574.8507125007267,
+"y1": 613.894902098688
+},
+{
+"text": "ihraç",
+"conf": 0.9991814077653258,
+"x0": 1410.281002722382,
+"y0": 1111.093434546949,
+"x1": 1525.718997277618,
+"y1": 1178.906565453051
+},
+{
+"text": "yıllar",
+"conf": 0.9997166030992761,
+"x0": 1633.2599556283028,
+"y0": 1169.1124471268438,
+"x1": 1748.7400443716972,
+"y1": 1230.8875528731562
+},
+{
+"text": "yılı",
+"conf": 0.9972358345985413,
+"x0": 1584.1579833204635,
+"y0": 1628.1930397296705,
+"x1": 1667.8420166795365,
+"y1": 1690.8069602703295
+},
+{
+"text": "olup,",
+"conf": 0.9654897465295104,
+"x0": 563.2114170725736,
+"y0": 2448.0816364570073,
+"x1": 684.7885829274264,
+"y1": 2519.9183635429927
+}
+]
+}

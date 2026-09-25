@@ -1,0 +1,1035 @@
+{
+  "note_number": 11,
+  "title": "YATIRIM AMAÇLI GAYRİMENKULLER",
+  "pages": [
+    53,
+    54
+  ],
+  "blocks": [
+    {
+      "block_id": "n11_b1",
+      "page": 53,
+      "year": 2012,
+      "columns": [
+        "Arazi ve Arsalar",
+        "Binalar",
+        "Toplam"
+      ],
+      "row_ids": [
+        "n11_p53_r01",
+        "n11_p53_r02",
+        "n11_p53_r03",
+        "n11_p53_r04",
+        "n11_p53_r05",
+        "n11_p53_r06"
+      ]
+    },
+    {
+      "block_id": "n11_b2",
+      "page": 53,
+      "year": 2011,
+      "columns": [
+        "Arazi ve Arsalar",
+        "Binalar",
+        "Toplam"
+      ],
+      "row_ids": [
+        "n11_p53_r07",
+        "n11_p53_r08",
+        "n11_p53_r09",
+        "n11_p53_r10",
+        "n11_p53_r11"
+      ]
+    },
+    {
+      "block_id": "n11_b3",
+      "page": 54,
+      "year": 2012,
+      "columns": [
+        "31 Aralık 2012",
+        "31 Aralık 2011"
+      ],
+      "row_ids": [
+        "n11_p54_r12",
+        "n11_p54_r13",
+        "n11_p54_r14"
+      ]
+    },
+    {
+      "block_id": "n11_b4",
+      "page": 54,
+      "year": 2012,
+      "columns": [
+        "31 Aralık 2012 Gerçege Oygun Değeri",
+        "31 Aralık 2011 Gerçege Uygun Değeri"
+      ],
+      "row_ids": [
+        "n11_p54_r15",
+        "n11_p54_r16",
+        "n11_p54_r17",
+        "n11_p54_r18",
+        "n11_p54_r19"
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "row_id": "n11_p53_r01",
+      "block_id": "n11_b1",
+      "page": 53,
+      "label": "1 Ocak 2012 itibari ile açılış bakiyesi",
+      "values": [
+        {
+          "raw": "227.317.822",
+          "kind": "number",
+          "value": 227317822,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.7746723804049107,
+          "col": 0,
+          "header": "Arazi ve Arsalar",
+          "period": {
+            "date": "2012-01-01",
+            "year": 2012,
+            "source": "label"
+          },
+          "confidence": 0.8648
+        },
+        {
+          "raw": "196.262.178",
+          "kind": "number",
+          "value": 196262178,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9749827203549816,
+          "col": 1,
+          "header": "Binalar",
+          "period": {
+            "date": "2012-01-01",
+            "year": 2012,
+            "source": "label"
+          },
+          "confidence": 0.985
+        },
+        {
+          "raw": "423.580.000",
+          "kind": "number",
+          "value": 423580000,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9698112255731807,
+          "col": 2,
+          "header": "Toplam",
+          "period": {
+            "date": "2012-01-01",
+            "year": 2012,
+            "source": "label"
+          },
+          "confidence": 0.9819
+        }
+      ],
+      "confidence": 0.8752
+    },
+    {
+      "row_id": "n11_p53_r02",
+      "block_id": "n11_b1",
+      "page": 53,
+      "label": "Alı sonrası yapılan harcamalar",
+      "values": [
+        {
+          "raw": "19.197.311",
+          "kind": "number",
+          "value": 19197311,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9248765025079715,
+          "col": 0,
+          "header": "Arazi ve Arsalar",
+          "period": {
+            "date": null,
+            "year": 2012,
+            "source": "block"
+          },
+          "confidence": 0.9549
+        },
+        {
+          "raw": "-",
+          "kind": "dash",
+          "value": null,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9,
+          "col": 1,
+          "header": "Binalar",
+          "period": {
+            "date": null,
+            "year": 2012,
+            "source": "block"
+          },
+          "confidence": 0.94
+        },
+        {
+          "raw": "19.197.311",
+          "kind": "number",
+          "value": 19197311,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9846557824390241,
+          "col": 2,
+          "header": "Toplam",
+          "period": {
+            "date": null,
+            "year": 2012,
+            "source": "block"
+          },
+          "confidence": 0.9908
+        }
+      ],
+      "confidence": 0.958
+    },
+    {
+      "row_id": "n11_p53_r03",
+      "block_id": "n11_b1",
+      "page": 53,
+      "label": "Makul değer degişikliginden kaynaklanan kazanç",
+      "values": [
+        {
+          "raw": "3.896.434",
+          "kind": "number",
+          "value": 3896434,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.7030890674796981,
+          "col": 0,
+          "header": "Arazi ve Arsalar",
+          "period": {
+            "date": null,
+            "year": 2012,
+            "source": "block"
+          },
+          "confidence": 0.8219
+        },
+        {
+          "raw": "-",
+          "kind": "dash",
+          "value": null,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9,
+          "col": 1,
+          "header": "Binalar",
+          "period": {
+            "date": null,
+            "year": 2012,
+            "source": "block"
+          },
+          "confidence": 0.94
+        },
+        {
+          "raw": "3.896.434",
+          "kind": "number",
+          "value": 3896434,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.876522081773935,
+          "col": 2,
+          "header": "Toplam",
+          "period": {
+            "date": null,
+            "year": 2012,
+            "source": "block"
+          },
+          "confidence": 0.9259
+        }
+      ],
+      "confidence": 0.8634
+    },
+    {
+      "row_id": "n11_p53_r04",
+      "block_id": "n11_b1",
+      "page": 53,
+      "label": "Stoklara transferler",
+      "values": [
+        {
+          "raw": "(72.681.523)",
+          "kind": "number",
+          "value": -72681523,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.7564876341725946,
+          "col": 0,
+          "header": "Arazi ve Arsalar",
+          "period": {
+            "date": null,
+            "year": 2012,
+            "source": "block"
+          },
+          "confidence": 0.8539
+        },
+        {
+          "raw": "-",
+          "kind": "dash",
+          "value": null,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9,
+          "col": 1,
+          "header": "Binalar",
+          "period": {
+            "date": null,
+            "year": 2012,
+            "source": "block"
+          },
+          "confidence": 0.94
+        },
+        {
+          "raw": "(72.681.523)",
+          "kind": "number",
+          "value": -72681523,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9775320381752082,
+          "col": 2,
+          "header": "Toplam",
+          "period": {
+            "date": null,
+            "year": 2012,
+            "source": "block"
+          },
+          "confidence": 0.9865
+        }
+      ],
+      "confidence": 0.9107
+    },
+    {
+      "row_id": "n11_p53_r05",
+      "block_id": "n11_b1",
+      "page": 53,
+      "label": "31 Aralık 2012 itibari ile kapanış bakiyesi",
+      "values": [
+        {
+          "raw": "177.730.044",
+          "kind": "number",
+          "value": 177730044,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9983672399235954,
+          "col": 0,
+          "header": "Arazi ve Arsalar",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "label"
+          },
+          "confidence": 0.999
+        },
+        {
+          "raw": "196.262.178",
+          "kind": "number",
+          "value": 196262178,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9990280788228011,
+          "col": 1,
+          "header": "Binalar",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "label"
+          },
+          "confidence": 0.9994
+        },
+        {
+          "raw": "373.992.222",
+          "kind": "number",
+          "value": 373992222,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9465746622146156,
+          "col": 2,
+          "header": "Toplam",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "label"
+          },
+          "confidence": 0.9679
+        }
+      ],
+      "confidence": 0.8877
+    },
+    {
+      "row_id": "n11_p53_r06",
+      "block_id": "n11_b1",
+      "page": 53,
+      "label": "31 Aralık 2012 itibari ile net defter değeri",
+      "values": [
+        {
+          "raw": "177.730.044",
+          "kind": "number",
+          "value": 177730044,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9526547623428405,
+          "col": 0,
+          "header": "Arazi ve Arsalar",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "label"
+          },
+          "confidence": 0.9716
+        },
+        {
+          "raw": "196.262.178",
+          "kind": "number",
+          "value": 196262178,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.6249092874497073,
+          "col": 1,
+          "header": "Binalar",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "label"
+          },
+          "confidence": 0.7749
+        },
+        {
+          "raw": "373.992.222",
+          "kind": "number",
+          "value": 373992222,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.8716433403376743,
+          "col": 2,
+          "header": "Toplam",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "label"
+          },
+          "confidence": 0.923
+        }
+      ],
+      "confidence": 0.9015
+    },
+    {
+      "row_id": "n11_p53_r07",
+      "block_id": "n11_b2",
+      "page": 53,
+      "label": "1 Ocak 2011 itibari ile açılış bakiyesi (Yeniden Düzenlenmiş)",
+      "values": [
+        {
+          "raw": "82.097.790",
+          "kind": "number",
+          "value": 82097790,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.8987709090845534,
+          "col": 0,
+          "header": "Arazi ve Arsalar",
+          "period": {
+            "date": "2011-01-01",
+            "year": 2011,
+            "source": "label"
+          },
+          "confidence": 0.9393
+        },
+        {
+          "raw": "122.937.178",
+          "kind": "number",
+          "value": 122937178,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9642272433944599,
+          "col": 1,
+          "header": "Binalar",
+          "period": {
+            "date": "2011-01-01",
+            "year": 2011,
+            "source": "label"
+          },
+          "confidence": 0.9785
+        },
+        {
+          "raw": "205.034.968",
+          "kind": "number",
+          "value": 205034968,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9816130966163454,
+          "col": 2,
+          "header": "Toplam",
+          "period": {
+            "date": "2011-01-01",
+            "year": 2011,
+            "source": "label"
+          },
+          "confidence": 0.989
+        }
+      ],
+      "confidence": 0.8856
+    },
+    {
+      "row_id": "n11_p53_r08",
+      "block_id": "n11_b2",
+      "page": 53,
+      "label": "Alılar (*",
+      "values": [
+        {
+          "raw": "64.046.943",
+          "kind": "number",
+          "value": 64046943,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9988578077260074,
+          "col": 0,
+          "header": "Arazi ve Arsalar",
+          "period": {
+            "date": null,
+            "year": 2011,
+            "source": "block"
+          },
+          "confidence": 0.9993
+        },
+        {
+          "raw": "13.598.089",
+          "kind": "number",
+          "value": 13598089,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9300674543740284,
+          "col": 1,
+          "header": "Binalar",
+          "period": {
+            "date": null,
+            "year": 2011,
+            "source": "block"
+          },
+          "confidence": 0.958
+        },
+        {
+          "raw": "77.645.032",
+          "kind": "number",
+          "value": 77645032,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.8269720456249422,
+          "col": 2,
+          "header": "Toplam",
+          "period": {
+            "date": null,
+            "year": 2011,
+            "source": "block"
+          },
+          "confidence": 0.8962
+        }
+      ],
+      "confidence": 0.9514
+    },
+    {
+      "row_id": "n11_p53_r09",
+      "block_id": "n11_b2",
+      "page": 53,
+      "label": "Çıkışlar (*=",
+      "values": [
+        {
+          "raw": "-",
+          "kind": "dash",
+          "value": null,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9,
+          "col": 0,
+          "header": "Arazi ve Arsalar",
+          "period": {
+            "date": null,
+            "year": 2011,
+            "source": "block"
+          },
+          "confidence": 0.94
+        },
+        {
+          "raw": "(10.450.000)",
+          "kind": "number",
+          "value": -10450000,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9392716997669422,
+          "col": 1,
+          "header": "Binalar",
+          "period": {
+            "date": null,
+            "year": 2011,
+            "source": "block"
+          },
+          "confidence": 0.9636
+        },
+        {
+          "raw": "(10.450.000)",
+          "kind": "number",
+          "value": -10450000,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.7626419821315258,
+          "col": 2,
+          "header": "Toplam",
+          "period": {
+            "date": null,
+            "year": 2011,
+            "source": "block"
+          },
+          "confidence": 0.8576
+        }
+      ],
+      "confidence": 0.8097
+    },
+    {
+      "row_id": "n11_p53_r10",
+      "block_id": "n11_b2",
+      "page": 53,
+      "label": "Makul değer değişikliğinden kaynaklanan kazanç",
+      "values": [
+        {
+          "raw": "81.173.089",
+          "kind": "number",
+          "value": 81173089,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.8904887956572693,
+          "col": 0,
+          "header": "Arazi ve Arsalar",
+          "period": {
+            "date": null,
+            "year": 2011,
+            "source": "block"
+          },
+          "confidence": 0.9343
+        },
+        {
+          "raw": "70.176.911",
+          "kind": "number",
+          "value": 70176911,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.775426399659104,
+          "col": 1,
+          "header": "Binalar",
+          "period": {
+            "date": null,
+            "year": 2011,
+            "source": "block"
+          },
+          "confidence": 0.8653
+        },
+        {
+          "raw": "151.350.000",
+          "kind": "number",
+          "value": 151350000,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.833321089680098,
+          "col": 2,
+          "header": "Toplam",
+          "period": {
+            "date": null,
+            "year": 2011,
+            "source": "block"
+          },
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.8248
+    },
+    {
+      "row_id": "n11_p53_r11",
+      "block_id": "n11_b2",
+      "page": 53,
+      "label": "31 Aralık 2011 itibari ile kapanış bakiyesi",
+      "values": [
+        {
+          "raw": "227.317.822",
+          "kind": "number",
+          "value": 227317822,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9412683012590768,
+          "col": 0,
+          "header": "Arazi ve Arsalar",
+          "period": {
+            "date": "2011-12-31",
+            "year": 2011,
+            "source": "label"
+          },
+          "confidence": 0.9648
+        },
+        {
+          "raw": "196.262.178",
+          "kind": "number",
+          "value": 196262178,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.618154139822113,
+          "col": 1,
+          "header": "Binalar",
+          "period": {
+            "date": "2011-12-31",
+            "year": 2011,
+            "source": "label"
+          },
+          "confidence": 0.7709
+        },
+        {
+          "raw": "423.580.000",
+          "kind": "number",
+          "value": 423580000,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.8286851590737816,
+          "col": 2,
+          "header": "Toplam",
+          "period": {
+            "date": "2011-12-31",
+            "year": 2011,
+            "source": "label"
+          },
+          "confidence": 0.8972
+        }
+      ],
+      "confidence": 0.8394
+    },
+    {
+      "row_id": "n11_p54_r12",
+      "block_id": "n11_b3",
+      "page": 54,
+      "label": "İskonto oranı (%)",
+      "values": [
+        {
+          "raw": "%9",
+          "kind": "percent",
+          "value": 9.0,
+          "decimal": true,
+          "repairs": [],
+          "ocr_conf": 0.9868048521777903,
+          "col": 0,
+          "header": "31 Aralık 2012",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "header"
+          },
+          "confidence": 0.9921
+        },
+        {
+          "raw": "%10,5",
+          "kind": "percent",
+          "value": 10.5,
+          "decimal": true,
+          "repairs": [],
+          "ocr_conf": 0.9568323985225661,
+          "col": 1,
+          "header": "31 Aralık 2011",
+          "period": {
+            "date": "2011-12-31",
+            "year": 2011,
+            "source": "header"
+          },
+          "confidence": 0.9741
+        }
+      ],
+      "confidence": 0.8783
+    },
+    {
+      "row_id": "n11_p54_r13",
+      "block_id": "n11_b3",
+      "page": 54,
+      "label": "Doluluk oranı (%)(*)",
+      "values": [
+        {
+          "raw": "%86,6",
+          "kind": "percent",
+          "value": 86.6,
+          "decimal": true,
+          "repairs": [],
+          "ocr_conf": 0.8902714407232842,
+          "col": 0,
+          "header": "31 Aralık 2012",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "header"
+          },
+          "confidence": 0.9342
+        },
+        {
+          "raw": "%80,8",
+          "kind": "percent",
+          "value": 80.8,
+          "decimal": true,
+          "repairs": [],
+          "ocr_conf": 0.9298670907460894,
+          "col": 1,
+          "header": "31 Aralık 2011",
+          "period": {
+            "date": "2011-12-31",
+            "year": 2011,
+            "source": "header"
+          },
+          "confidence": 0.9579
+        }
+      ],
+      "confidence": 0.9334
+    },
+    {
+      "row_id": "n11_p54_r14",
+      "block_id": "n11_b3",
+      "page": 54,
+      "label": "Kira artış oranı (%)",
+      "values": [
+        {
+          "raw": "%3",
+          "kind": "percent",
+          "value": 3.0,
+          "decimal": true,
+          "repairs": [],
+          "ocr_conf": 0.9891917697205165,
+          "col": 0,
+          "header": "31 Aralık 2012",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "header"
+          },
+          "confidence": 0.9935
+        },
+        {
+          "raw": "%2-%4",
+          "kind": "percent_range",
+          "value": [
+            2.0,
+            4.0
+          ],
+          "decimal": true,
+          "repairs": [],
+          "ocr_conf": 0.6127311123106273,
+          "col": 1,
+          "header": "31 Aralık 2011",
+          "period": {
+            "date": "2011-12-31",
+            "year": 2011,
+            "source": "header"
+          },
+          "confidence": 0.7676
+        }
+      ],
+      "confidence": 0.9125
+    },
+    {
+      "row_id": "n11_p54_r15",
+      "block_id": "n11_b4",
+      "page": 54,
+      "label": "Bağcılar Arsa",
+      "values": [
+        {
+          "raw": "22.719.446",
+          "kind": "number",
+          "value": 22719446,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.5965580638304567,
+          "col": 0,
+          "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "header"
+          },
+          "confidence": 0.7579
+        },
+        {
+          "raw": "21.717.000",
+          "kind": "number",
+          "value": 21717000,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.984605039559602,
+          "col": 1,
+          "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+          "period": {
+            "date": "2011-12-31",
+            "year": 2011,
+            "source": "header"
+          },
+          "confidence": 0.9908
+        }
+      ],
+      "confidence": 0.9046
+    },
+    {
+      "row_id": "n11_p54_r16",
+      "block_id": "n11_b4",
+      "page": 54,
+      "label": "Bayrampaşa Arsa",
+      "values": [
+        {
+          "raw": "81.026.895",
+          "kind": "number",
+          "value": 81026895,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.792702457267988,
+          "col": 0,
+          "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "header"
+          },
+          "confidence": 0.8756
+        },
+        {
+          "raw": "138.538.000",
+          "kind": "number",
+          "value": 138538000,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.8421018695822525,
+          "col": 1,
+          "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+          "period": {
+            "date": "2011-12-31",
+            "year": 2011,
+            "source": "header"
+          },
+          "confidence": 0.9053
+        }
+      ],
+      "confidence": 0.922
+    },
+    {
+      "row_id": "n11_p54_r17",
+      "block_id": "n11_b4",
+      "page": 54,
+      "label": "Güneşli Bina",
+      "values": [
+        {
+          "raw": "83.586.353",
+          "kind": "number",
+          "value": 83586353,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.5812324918720297,
+          "col": 0,
+          "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "header"
+          },
+          "confidence": 0.7487
+        },
+        {
+          "raw": "81.890.000",
+          "kind": "number",
+          "value": 81890000,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9938691604251093,
+          "col": 1,
+          "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+          "period": {
+            "date": "2011-12-31",
+            "year": 2011,
+            "source": "header"
+          },
+          "confidence": 0.9963
+        }
+      ],
+      "confidence": 0.9095
+    },
+    {
+      "row_id": "n11_p54_r18",
+      "block_id": "n11_b4",
+      "page": 54,
+      "label": "İkitelli Bina",
+      "values": [
+        {
+          "raw": "186.659.528",
+          "kind": "number",
+          "value": 186659528,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.8042777566908164,
+          "col": 0,
+          "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "header"
+          },
+          "confidence": 0.8826
+        },
+        {
+          "raw": "181.435.000",
+          "kind": "number",
+          "value": 181435000,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9489917999274291,
+          "col": 1,
+          "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+          "period": {
+            "date": "2011-12-31",
+            "year": 2011,
+            "source": "header"
+          },
+          "confidence": 0.9694
+        }
+      ],
+      "confidence": 0.8769
+    },
+    {
+      "row_id": "n11_p54_r19",
+      "block_id": "n11_b4",
+      "page": 54,
+      "label": "",
+      "values": [
+        {
+          "raw": "373.992.222",
+          "kind": "number",
+          "value": 373992222,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9621400176187872,
+          "col": 0,
+          "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+          "period": {
+            "date": "2012-12-31",
+            "year": 2012,
+            "source": "header"
+          },
+          "confidence": 0.9773
+        },
+        {
+          "raw": "423.580.000",
+          "kind": "number",
+          "value": 423580000,
+          "decimal": false,
+          "repairs": [],
+          "ocr_conf": 0.9953196898064839,
+          "col": 1,
+          "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+          "period": {
+            "date": "2011-12-31",
+            "year": 2011,
+            "source": "header"
+          },
+          "confidence": 0.9972
+        }
+      ],
+      "confidence": 0.8711
+    }
+  ]
+}

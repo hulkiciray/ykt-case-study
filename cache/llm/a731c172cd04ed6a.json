@@ -1,0 +1,74 @@
+{
+  "decisions": [
+    {
+      "row_id": "n11_p54_r19",
+      "relation": "equals_total",
+      "col": 1,
+      "confidence": 1,
+      "reason": "The row's value at column 1 for 31 Aralık 2011 Gerçege Uygun Değeri is exactly 423580000, matching the summary item's balance at 2011-12-31."
+    },
+    {
+      "row_id": "n11_p53_r11",
+      "relation": "equals_total",
+      "col": 2,
+      "confidence": 1,
+      "reason": "The row labeled '31 Aralık 2011 itibari ile kapanış bakiyesi' has a 'Toplam' value of 423580000 at 2011-12-31, exactly matching the summary item balance."
+    },
+    {
+      "row_id": "n11_p53_r01",
+      "relation": "equals_opening_balance",
+      "col": 2,
+      "confidence": 1,
+      "reason": "The row labeled '1 Ocak 2012 itibari ile açılış bakiyesi' has a 'Toplam' value of 423580000 at 2012-01-01, which is the opening balance for the period following the summary item's 2011-12-31 balance."
+    },
+    {
+      "row_id": "n11_p54_r15",
+      "relation": "breakdown_component",
+      "col": 1,
+      "confidence": 0.8,
+      "reason": "The row 'Bağcılar Arsa' has a value of 21717000 at 2011-12-31, which is a component of the total investment properties balance."
+    },
+    {
+      "row_id": "n11_p53_r10",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 1,
+      "reason": "The row reports gains (flows) for 2011, but the summary item is a balance at 2011-12-31, so relation is unrelated."
+    },
+    {
+      "row_id": "n11_p54_r16",
+      "relation": "breakdown_component",
+      "col": 1,
+      "confidence": 0.8,
+      "reason": "The row 'Bayrampaşa Arsa' has a value of 138538000 at 2011-12-31, likely a component of the total investment properties balance."
+    },
+    {
+      "row_id": "n11_p54_r18",
+      "relation": "breakdown_component",
+      "col": 1,
+      "confidence": 0.8,
+      "reason": "The row 'İkitelli Bina' has a value of 181435000 at 2011-12-31, likely a component of the total investment properties balance."
+    },
+    {
+      "row_id": "n11_p54_r17",
+      "relation": "breakdown_component",
+      "col": 1,
+      "confidence": 0.8,
+      "reason": "The row 'Güneşli Bina' has a value of 81890000 at 2011-12-31, likely a component of the total investment properties balance."
+    },
+    {
+      "row_id": "n11_p53_r09",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 1,
+      "reason": "The row reports outflows (movements) for 2011, but the summary item is a balance at 2011-12-31, so relation is unrelated."
+    },
+    {
+      "row_id": "n11_p53_r08",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 1,
+      "reason": "The row reports inflows (movements) for 2011, but the summary item is a balance at 2011-12-31, so relation is unrelated."
+    }
+  ]
+}

@@ -1,0 +1,1238 @@
+{
+  "note_number": 11,
+  "items": [
+    {
+      "item_id": "p5_r12:v0",
+      "summary_row": "p5_r12",
+      "col": "v0",
+      "label": "Yatırım Amaçlı Gayrimenkuller",
+      "statement": "balance_sheet",
+      "period": {
+        "type": "instant",
+        "start": null,
+        "end": "2012-12-31",
+        "role": "current",
+        "audited": true,
+        "header": "Bağımsız Denetimden Geçmiş Cari Dönem 31 Aralık 2012"
+      },
+      "value": 373992222
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "summary_row": "p5_r12",
+      "col": "v1",
+      "label": "Yatırım Amaçlı Gayrimenkuller",
+      "statement": "balance_sheet",
+      "period": {
+        "type": "instant",
+        "start": null,
+        "end": "2011-12-31",
+        "role": "prior",
+        "audited": true,
+        "header": "Bağımsız Denetimden Geçmiş Geçmiş Dönem 31 Aralık 2011"
+      },
+      "value": 423580000
+    },
+    {
+      "item_id": "p7_r05:v0",
+      "summary_row": "p7_r05",
+      "col": "v0",
+      "label": "Yatırım Amaçlı Gayrimenkul Değerleme Farkları",
+      "statement": "comprehensive_income",
+      "period": {
+        "type": "duration",
+        "start": "2012-01-01",
+        "end": "2012-12-31",
+        "role": "current",
+        "audited": true,
+        "header": "Cari Dönem   Geçmiş Dönem Bağımsız Denetimden Geçmiş 1 Ocak- 31 Aralık 2012"
+      },
+      "value": 3896434
+    },
+    {
+      "item_id": "p7_r05:v1",
+      "summary_row": "p7_r05",
+      "col": "v1",
+      "label": "Yatırım Amaçlı Gayrimenkul Değerleme Farkları",
+      "statement": "comprehensive_income",
+      "period": {
+        "type": "duration",
+        "start": "2011-01-01",
+        "end": "2011-12-31",
+        "role": "prior",
+        "audited": true,
+        "header": "Cari Dönem   Geçmiş Dönem Bağımsız Denetimden Geçmiş 1 Ocak- 31 Aralık 2011"
+      },
+      "value": 151350000
+    }
+  ],
+  "candidates": [
+    {
+      "item_id": "p5_r12:v0",
+      "note_row": "n11_p53_r02",
+      "block_id": "n11_b1",
+      "label": "Alı sonrası yapılan harcamalar",
+      "col": 2,
+      "header": "Toplam",
+      "value": 19197311,
+      "period": {
+        "date": null,
+        "year": 2012,
+        "source": "block"
+      },
+      "value_match": 0.0,
+      "period_match": 0.6,
+      "semantic": 0.4082,
+      "score_a": 0.3241
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "note_row": "n11_p53_r03",
+      "block_id": "n11_b1",
+      "label": "Makul değer degişikliginden kaynaklanan kazanç",
+      "col": 2,
+      "header": "Toplam",
+      "value": 3896434,
+      "period": {
+        "date": null,
+        "year": 2012,
+        "source": "block"
+      },
+      "value_match": 0.0,
+      "period_match": 0.6,
+      "semantic": 0.5869,
+      "score_a": 0.4134
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "note_row": "n11_p53_r04",
+      "block_id": "n11_b1",
+      "label": "Stoklara transferler",
+      "col": 2,
+      "header": "Toplam",
+      "value": -72681523,
+      "period": {
+        "date": null,
+        "year": 2012,
+        "source": "block"
+      },
+      "value_match": 0.0,
+      "period_match": 0.6,
+      "semantic": 0.3488,
+      "score_a": 0.2944
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "note_row": "n11_p53_r05",
+      "block_id": "n11_b1",
+      "label": "31 Aralık 2012 itibari ile kapanış bakiyesi",
+      "col": 2,
+      "header": "Toplam",
+      "value": 373992222,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "label"
+      },
+      "value_match": 1.0,
+      "period_match": 1.0,
+      "semantic": 0.131,
+      "score_a": 0.5655
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "note_row": "n11_p53_r06",
+      "block_id": "n11_b1",
+      "label": "31 Aralık 2012 itibari ile net defter değeri",
+      "col": 2,
+      "header": "Toplam",
+      "value": 373992222,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "label"
+      },
+      "value_match": 1.0,
+      "period_match": 1.0,
+      "semantic": 0.3442,
+      "score_a": 0.6721
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "note_row": "n11_p54_r15",
+      "block_id": "n11_b4",
+      "label": "Bağcılar Arsa",
+      "col": 0,
+      "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "value": 22719446,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.3687,
+      "score_a": 0.3844
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "note_row": "n11_p54_r16",
+      "block_id": "n11_b4",
+      "label": "Bayrampaşa Arsa",
+      "col": 0,
+      "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "value": 81026895,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.3226,
+      "score_a": 0.3613
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "note_row": "n11_p54_r17",
+      "block_id": "n11_b4",
+      "label": "Güneşli Bina",
+      "col": 0,
+      "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "value": 83586353,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.2281,
+      "score_a": 0.314
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "note_row": "n11_p54_r18",
+      "block_id": "n11_b4",
+      "label": "İkitelli Bina",
+      "col": 0,
+      "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "value": 186659528,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.2999,
+      "score_a": 0.3499
+    },
+    {
+      "item_id": "p5_r12:v0",
+      "note_row": "n11_p54_r19",
+      "block_id": "n11_b4",
+      "label": "",
+      "col": 0,
+      "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "value": 373992222,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "header"
+      },
+      "value_match": 1.0,
+      "period_match": 1.0,
+      "semantic": 0.2775,
+      "score_a": 0.6387
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "note_row": "n11_p53_r01",
+      "block_id": "n11_b1",
+      "label": "1 Ocak 2012 itibari ile açılış bakiyesi",
+      "col": 2,
+      "header": "Toplam",
+      "value": 423580000,
+      "period": {
+        "date": "2012-01-01",
+        "year": 2012,
+        "source": "label"
+      },
+      "value_match": 1.0,
+      "period_match": 0.8,
+      "semantic": 0.145,
+      "score_a": 0.5325
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "note_row": "n11_p53_r08",
+      "block_id": "n11_b2",
+      "label": "Alılar (*",
+      "col": 2,
+      "header": "Toplam",
+      "value": 77645032,
+      "period": {
+        "date": null,
+        "year": 2011,
+        "source": "block"
+      },
+      "value_match": 0.0,
+      "period_match": 0.6,
+      "semantic": 0.2524,
+      "score_a": 0.2462
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "note_row": "n11_p53_r09",
+      "block_id": "n11_b2",
+      "label": "Çıkışlar (*=",
+      "col": 2,
+      "header": "Toplam",
+      "value": -10450000,
+      "period": {
+        "date": null,
+        "year": 2011,
+        "source": "block"
+      },
+      "value_match": 0.0,
+      "period_match": 0.6,
+      "semantic": 0.3089,
+      "score_a": 0.2744
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "note_row": "n11_p53_r10",
+      "block_id": "n11_b2",
+      "label": "Makul değer değişikliğinden kaynaklanan kazanç",
+      "col": 2,
+      "header": "Toplam",
+      "value": 151350000,
+      "period": {
+        "date": null,
+        "year": 2011,
+        "source": "block"
+      },
+      "value_match": 0.0,
+      "period_match": 0.6,
+      "semantic": 0.4941,
+      "score_a": 0.367
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "note_row": "n11_p53_r11",
+      "block_id": "n11_b2",
+      "label": "31 Aralık 2011 itibari ile kapanış bakiyesi",
+      "col": 2,
+      "header": "Toplam",
+      "value": 423580000,
+      "period": {
+        "date": "2011-12-31",
+        "year": 2011,
+        "source": "label"
+      },
+      "value_match": 1.0,
+      "period_match": 1.0,
+      "semantic": 0.1302,
+      "score_a": 0.5651
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "note_row": "n11_p54_r15",
+      "block_id": "n11_b4",
+      "label": "Bağcılar Arsa",
+      "col": 1,
+      "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "value": 21717000,
+      "period": {
+        "date": "2011-12-31",
+        "year": 2011,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.3496,
+      "score_a": 0.3748
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "note_row": "n11_p54_r16",
+      "block_id": "n11_b4",
+      "label": "Bayrampaşa Arsa",
+      "col": 1,
+      "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "value": 138538000,
+      "period": {
+        "date": "2011-12-31",
+        "year": 2011,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.3248,
+      "score_a": 0.3624
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "note_row": "n11_p54_r17",
+      "block_id": "n11_b4",
+      "label": "Güneşli Bina",
+      "col": 1,
+      "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "value": 81890000,
+      "period": {
+        "date": "2011-12-31",
+        "year": 2011,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.2395,
+      "score_a": 0.3197
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "note_row": "n11_p54_r18",
+      "block_id": "n11_b4",
+      "label": "İkitelli Bina",
+      "col": 1,
+      "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "value": 181435000,
+      "period": {
+        "date": "2011-12-31",
+        "year": 2011,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.296,
+      "score_a": 0.348
+    },
+    {
+      "item_id": "p5_r12:v1",
+      "note_row": "n11_p54_r19",
+      "block_id": "n11_b4",
+      "label": "",
+      "col": 1,
+      "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "value": 423580000,
+      "period": {
+        "date": "2011-12-31",
+        "year": 2011,
+        "source": "header"
+      },
+      "value_match": 1.0,
+      "period_match": 1.0,
+      "semantic": 0.2696,
+      "score_a": 0.6348
+    },
+    {
+      "item_id": "p7_r05:v0",
+      "note_row": "n11_p53_r02",
+      "block_id": "n11_b1",
+      "label": "Alı sonrası yapılan harcamalar",
+      "col": 2,
+      "header": "Toplam",
+      "value": 19197311,
+      "period": {
+        "date": null,
+        "year": 2012,
+        "source": "block"
+      },
+      "value_match": 0.0,
+      "period_match": 0.6,
+      "semantic": 0.3354,
+      "score_a": 0.2877
+    },
+    {
+      "item_id": "p7_r05:v0",
+      "note_row": "n11_p53_r03",
+      "block_id": "n11_b1",
+      "label": "Makul değer degişikliginden kaynaklanan kazanç",
+      "col": 2,
+      "header": "Toplam",
+      "value": 3896434,
+      "period": {
+        "date": null,
+        "year": 2012,
+        "source": "block"
+      },
+      "value_match": 1.0,
+      "period_match": 0.6,
+      "semantic": 0.6416,
+      "score_a": 0.7408
+    },
+    {
+      "item_id": "p7_r05:v0",
+      "note_row": "n11_p53_r04",
+      "block_id": "n11_b1",
+      "label": "Stoklara transferler",
+      "col": 2,
+      "header": "Toplam",
+      "value": -72681523,
+      "period": {
+        "date": null,
+        "year": 2012,
+        "source": "block"
+      },
+      "value_match": 0.0,
+      "period_match": 0.6,
+      "semantic": 0.2368,
+      "score_a": 0.2384
+    },
+    {
+      "item_id": "p7_r05:v0",
+      "note_row": "n11_p53_r05",
+      "block_id": "n11_b1",
+      "label": "31 Aralık 2012 itibari ile kapanış bakiyesi",
+      "col": 2,
+      "header": "Toplam",
+      "value": 373992222,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "label"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.0432,
+      "score_a": 0.2216
+    },
+    {
+      "item_id": "p7_r05:v0",
+      "note_row": "n11_p53_r06",
+      "block_id": "n11_b1",
+      "label": "31 Aralık 2012 itibari ile net defter değeri",
+      "col": 2,
+      "header": "Toplam",
+      "value": 373992222,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "label"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.3089,
+      "score_a": 0.3545
+    },
+    {
+      "item_id": "p7_r05:v0",
+      "note_row": "n11_p54_r15",
+      "block_id": "n11_b4",
+      "label": "Bağcılar Arsa",
+      "col": 0,
+      "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "value": 22719446,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.3356,
+      "score_a": 0.3678
+    },
+    {
+      "item_id": "p7_r05:v0",
+      "note_row": "n11_p54_r16",
+      "block_id": "n11_b4",
+      "label": "Bayrampaşa Arsa",
+      "col": 0,
+      "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "value": 81026895,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.2874,
+      "score_a": 0.3437
+    },
+    {
+      "item_id": "p7_r05:v0",
+      "note_row": "n11_p54_r17",
+      "block_id": "n11_b4",
+      "label": "Güneşli Bina",
+      "col": 0,
+      "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "value": 83586353,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.2238,
+      "score_a": 0.3119
+    },
+    {
+      "item_id": "p7_r05:v0",
+      "note_row": "n11_p54_r18",
+      "block_id": "n11_b4",
+      "label": "İkitelli Bina",
+      "col": 0,
+      "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "value": 186659528,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.2633,
+      "score_a": 0.3317
+    },
+    {
+      "item_id": "p7_r05:v0",
+      "note_row": "n11_p54_r19",
+      "block_id": "n11_b4",
+      "label": "",
+      "col": 0,
+      "header": "31 Aralık 2012 Gerçege Oygun Değeri",
+      "value": 373992222,
+      "period": {
+        "date": "2012-12-31",
+        "year": 2012,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.253,
+      "score_a": 0.3265
+    },
+    {
+      "item_id": "p7_r05:v1",
+      "note_row": "n11_p53_r08",
+      "block_id": "n11_b2",
+      "label": "Alılar (*",
+      "col": 2,
+      "header": "Toplam",
+      "value": 77645032,
+      "period": {
+        "date": null,
+        "year": 2011,
+        "source": "block"
+      },
+      "value_match": 0.0,
+      "period_match": 0.6,
+      "semantic": 0.1617,
+      "score_a": 0.2009
+    },
+    {
+      "item_id": "p7_r05:v1",
+      "note_row": "n11_p53_r09",
+      "block_id": "n11_b2",
+      "label": "Çıkışlar (*=",
+      "col": 2,
+      "header": "Toplam",
+      "value": -10450000,
+      "period": {
+        "date": null,
+        "year": 2011,
+        "source": "block"
+      },
+      "value_match": 0.0,
+      "period_match": 0.6,
+      "semantic": 0.1942,
+      "score_a": 0.2171
+    },
+    {
+      "item_id": "p7_r05:v1",
+      "note_row": "n11_p53_r10",
+      "block_id": "n11_b2",
+      "label": "Makul değer değişikliğinden kaynaklanan kazanç",
+      "col": 2,
+      "header": "Toplam",
+      "value": 151350000,
+      "period": {
+        "date": null,
+        "year": 2011,
+        "source": "block"
+      },
+      "value_match": 1.0,
+      "period_match": 0.6,
+      "semantic": 0.5756,
+      "score_a": 0.7078
+    },
+    {
+      "item_id": "p7_r05:v1",
+      "note_row": "n11_p53_r11",
+      "block_id": "n11_b2",
+      "label": "31 Aralık 2011 itibari ile kapanış bakiyesi",
+      "col": 2,
+      "header": "Toplam",
+      "value": 423580000,
+      "period": {
+        "date": "2011-12-31",
+        "year": 2011,
+        "source": "label"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.0503,
+      "score_a": 0.2252
+    },
+    {
+      "item_id": "p7_r05:v1",
+      "note_row": "n11_p54_r15",
+      "block_id": "n11_b4",
+      "label": "Bağcılar Arsa",
+      "col": 1,
+      "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "value": 21717000,
+      "period": {
+        "date": "2011-12-31",
+        "year": 2011,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.3741,
+      "score_a": 0.3871
+    },
+    {
+      "item_id": "p7_r05:v1",
+      "note_row": "n11_p54_r16",
+      "block_id": "n11_b4",
+      "label": "Bayrampaşa Arsa",
+      "col": 1,
+      "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "value": 138538000,
+      "period": {
+        "date": "2011-12-31",
+        "year": 2011,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.3488,
+      "score_a": 0.3744
+    },
+    {
+      "item_id": "p7_r05:v1",
+      "note_row": "n11_p54_r17",
+      "block_id": "n11_b4",
+      "label": "Güneşli Bina",
+      "col": 1,
+      "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "value": 81890000,
+      "period": {
+        "date": "2011-12-31",
+        "year": 2011,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.2916,
+      "score_a": 0.3458
+    },
+    {
+      "item_id": "p7_r05:v1",
+      "note_row": "n11_p54_r18",
+      "block_id": "n11_b4",
+      "label": "İkitelli Bina",
+      "col": 1,
+      "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "value": 181435000,
+      "period": {
+        "date": "2011-12-31",
+        "year": 2011,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.3301,
+      "score_a": 0.365
+    },
+    {
+      "item_id": "p7_r05:v1",
+      "note_row": "n11_p54_r19",
+      "block_id": "n11_b4",
+      "label": "",
+      "col": 1,
+      "header": "31 Aralık 2011 Gerçege Uygun Değeri",
+      "value": 423580000,
+      "period": {
+        "date": "2011-12-31",
+        "year": 2011,
+        "source": "header"
+      },
+      "value_match": 0.0,
+      "period_match": 1.0,
+      "semantic": 0.3238,
+      "score_a": 0.3619
+    }
+  ],
+  "method_a": {
+    "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "weights": {
+      "semantic": 0.5,
+      "value": 0.3,
+      "period": 0.2
+    },
+    "threshold": 0.4729,
+    "threshold_source": "control_examples",
+    "links": [
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p53_r05",
+        "col": 2,
+        "value": 373992222,
+        "relation": "equals_total",
+        "score": 0.5655,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p53_r06",
+        "col": 2,
+        "value": 373992222,
+        "relation": "equals_total",
+        "score": 0.6721,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p54_r19",
+        "col": 0,
+        "value": 373992222,
+        "relation": "equals_total",
+        "score": 0.6387,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p53_r01",
+        "col": 2,
+        "value": 423580000,
+        "relation": "equals_opening_balance",
+        "score": 0.5325,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p53_r11",
+        "col": 2,
+        "value": 423580000,
+        "relation": "equals_total",
+        "score": 0.5651,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p54_r19",
+        "col": 1,
+        "value": 423580000,
+        "relation": "equals_total",
+        "score": 0.6348,
+        "method": "A"
+      },
+      {
+        "item_id": "p7_r05:v0",
+        "note_row": "n11_p53_r03",
+        "col": 2,
+        "value": 3896434,
+        "relation": "equals_movement",
+        "score": 0.7408,
+        "method": "A"
+      },
+      {
+        "item_id": "p7_r05:v1",
+        "note_row": "n11_p53_r10",
+        "col": 2,
+        "value": 151350000,
+        "relation": "equals_movement",
+        "score": 0.7078,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p54_r15",
+        "col": 0,
+        "value": 22719446,
+        "relation": "breakdown_component",
+        "score": 0.6387,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p54_r16",
+        "col": 0,
+        "value": 81026895,
+        "relation": "breakdown_component",
+        "score": 0.6387,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p54_r17",
+        "col": 0,
+        "value": 83586353,
+        "relation": "breakdown_component",
+        "score": 0.6387,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p54_r18",
+        "col": 0,
+        "value": 186659528,
+        "relation": "breakdown_component",
+        "score": 0.6387,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p53_r07",
+        "col": 2,
+        "value": 205034968,
+        "relation": "breakdown_component",
+        "score": 0.5651,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p53_r08",
+        "col": 2,
+        "value": 77645032,
+        "relation": "breakdown_component",
+        "score": 0.5651,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p53_r09",
+        "col": 2,
+        "value": -10450000,
+        "relation": "breakdown_component",
+        "score": 0.5651,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p53_r10",
+        "col": 2,
+        "value": 151350000,
+        "relation": "breakdown_component",
+        "score": 0.5651,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p54_r15",
+        "col": 1,
+        "value": 21717000,
+        "relation": "breakdown_component",
+        "score": 0.6348,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p54_r16",
+        "col": 1,
+        "value": 138538000,
+        "relation": "breakdown_component",
+        "score": 0.6348,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p54_r17",
+        "col": 1,
+        "value": 81890000,
+        "relation": "breakdown_component",
+        "score": 0.6348,
+        "method": "A"
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p54_r18",
+        "col": 1,
+        "value": 181435000,
+        "relation": "breakdown_component",
+        "score": 0.6348,
+        "method": "A"
+      }
+    ]
+  },
+  "method_b": {
+    "model": "gpt-4.1-mini",
+    "calls": {
+      "api": 4,
+      "cached": 0
+    },
+    "fallback_items": [],
+    "links": [
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p53_r06",
+        "col": 2,
+        "value": 373992222,
+        "relation": "equals_total",
+        "score": 1,
+        "method": "B",
+        "reason": "The row '31 Aralık 2012 itibari ile net defter değeri' total column (col 2) matches exactly the summary item value 373,992,222 TL at 2012-12-31."
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p54_r19",
+        "col": 0,
+        "value": 373992222,
+        "relation": "equals_total",
+        "score": 0.9,
+        "method": "B",
+        "reason": "The row shows '31 Aralık 2012 Gerçege Oygun Değeri' total value 373,992,222 TL at 2012-12-31, matching the summary item value, but label indicates fair value, not net book value."
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p53_r05",
+        "col": 2,
+        "value": 373992222,
+        "relation": "equals_total",
+        "score": 1,
+        "method": "B",
+        "reason": "The row '31 Aralık 2012 itibari ile kapanış bakiyesi' total column (col 2) matches exactly the summary item value 373,992,222 TL at 2012-12-31."
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p53_r03",
+        "col": 2,
+        "value": 3896434,
+        "relation": "equals_movement",
+        "score": 0.8,
+        "method": "B",
+        "reason": "The row 'Makul değer degişikliginden kaynaklanan kazanç' shows a gain amount 3,896,434 TL for 2012, which is a movement (gain) in the period, not a balance."
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p54_r15",
+        "col": 0,
+        "value": 22719446,
+        "relation": "breakdown_component",
+        "score": 0.7,
+        "method": "B",
+        "reason": "The row 'Bağcılar Arsa' shows a component fair value 22,719,446 TL at 2012-12-31, likely part of a breakdown of total fair value."
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p54_r16",
+        "col": 0,
+        "value": 81026895,
+        "relation": "breakdown_component",
+        "score": 0.7,
+        "method": "B",
+        "reason": "The row 'Bayrampaşa Arsa' shows a component fair value 81,026,895 TL at 2012-12-31, likely part of a breakdown of total fair value."
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p54_r18",
+        "col": 0,
+        "value": 186659528,
+        "relation": "breakdown_component",
+        "score": 0.7,
+        "method": "B",
+        "reason": "The row 'İkitelli Bina' shows a component fair value 186,659,528 TL at 2012-12-31, likely part of a breakdown of total fair value."
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p53_r02",
+        "col": 2,
+        "value": 19197311,
+        "relation": "equals_movement",
+        "score": 0.8,
+        "method": "B",
+        "reason": "The row 'Alı sonrası yapılan harcamalar' shows an amount 19,197,311 TL for 2012, representing additions (movement) during the period."
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p54_r17",
+        "col": 0,
+        "value": 83586353,
+        "relation": "breakdown_component",
+        "score": 0.7,
+        "method": "B",
+        "reason": "The row 'Güneşli Bina' shows a component fair value 83,586,353 TL at 2012-12-31, likely part of a breakdown of total fair value."
+      },
+      {
+        "item_id": "p5_r12:v0",
+        "note_row": "n11_p53_r04",
+        "col": 2,
+        "value": -72681523,
+        "relation": "equals_movement",
+        "score": 0.8,
+        "method": "B",
+        "reason": "The row 'Stoklara transferler' shows a negative movement -72,681,523 TL for 2012, representing transfers out (movement) during the period."
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p54_r19",
+        "col": 1,
+        "value": 423580000,
+        "relation": "equals_total",
+        "score": 1,
+        "method": "B",
+        "reason": "The value 423580000 at column 1 matches exactly the summary item value for 2011-12-31."
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p53_r11",
+        "col": 2,
+        "value": 423580000,
+        "relation": "equals_total",
+        "score": 1,
+        "method": "B",
+        "reason": "The 'Toplam' column value 423580000 at 2011-12-31 matches the summary item value exactly."
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p53_r01",
+        "col": 2,
+        "value": 423580000,
+        "relation": "equals_opening_balance",
+        "score": 1,
+        "method": "B",
+        "reason": "The opening balance at 2012-01-01 equals the summary item closing balance at 2011-12-31."
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p54_r15",
+        "col": 1,
+        "value": 21717000,
+        "relation": "breakdown_component",
+        "score": 0.8,
+        "method": "B",
+        "reason": "The value 21717000 at 2011-12-31 is a component of the total investment properties, likely part of a breakdown."
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p54_r16",
+        "col": 1,
+        "value": 138538000,
+        "relation": "breakdown_component",
+        "score": 0.8,
+        "method": "B",
+        "reason": "The value 138538000 at 2011-12-31 is a component of the total investment properties, likely part of a breakdown."
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p54_r18",
+        "col": 1,
+        "value": 181435000,
+        "relation": "breakdown_component",
+        "score": 0.8,
+        "method": "B",
+        "reason": "The value 181435000 at 2011-12-31 is a component of the total investment properties, likely part of a breakdown."
+      },
+      {
+        "item_id": "p5_r12:v1",
+        "note_row": "n11_p54_r17",
+        "col": 1,
+        "value": 81890000,
+        "relation": "breakdown_component",
+        "score": 0.8,
+        "method": "B",
+        "reason": "The value 81890000 at 2011-12-31 is a component of the total investment properties, likely part of a breakdown."
+      },
+      {
+        "item_id": "p7_r05:v0",
+        "note_row": "n11_p53_r03",
+        "col": 2,
+        "value": 3896434,
+        "relation": "equals_total",
+        "score": 0.95,
+        "method": "B",
+        "reason": "The row 'Makul değer degişikliginden kaynaklanan kazanç' total column value 3896434 matches the summary item value 3896434 for period 2012."
+      },
+      {
+        "item_id": "p7_r05:v1",
+        "note_row": "n11_p53_r10",
+        "col": 2,
+        "value": 151350000,
+        "relation": "equals_movement",
+        "score": 0.9,
+        "method": "B",
+        "reason": "The row 'Makul değer değişikliğinden kaynaklanan kazanç' total in column 2 matches the summary item value 151350000 for 2011, indicating it is the movement (gain) for the period."
+      },
+      {
+        "item_id": "p7_r05:v1",
+        "note_row": "n11_p53_r11",
+        "col": 2,
+        "value": 423580000,
+        "relation": "equals_total",
+        "score": 0.95,
+        "method": "B",
+        "reason": "The row '31 Aralık 2011 itibari ile kapanış bakiyesi' total matches the total balance 423580000 at 2011-12-31, indicating it is the closing balance."
+      }
+    ]
+  },
+  "comparison": {
+    "both_same_relation": [
+      "p5_r12:v0 -> n11_p53_r05",
+      "p5_r12:v0 -> n11_p53_r06",
+      "p5_r12:v0 -> n11_p54_r15",
+      "p5_r12:v0 -> n11_p54_r16",
+      "p5_r12:v0 -> n11_p54_r17",
+      "p5_r12:v0 -> n11_p54_r18",
+      "p5_r12:v0 -> n11_p54_r19",
+      "p5_r12:v1 -> n11_p53_r01",
+      "p5_r12:v1 -> n11_p53_r11",
+      "p5_r12:v1 -> n11_p54_r15",
+      "p5_r12:v1 -> n11_p54_r16",
+      "p5_r12:v1 -> n11_p54_r17",
+      "p5_r12:v1 -> n11_p54_r18",
+      "p5_r12:v1 -> n11_p54_r19",
+      "p7_r05:v1 -> n11_p53_r10"
+    ],
+    "both_different_relation": [
+      "p7_r05:v0 -> n11_p53_r03 (A: equals_movement, B: equals_total)"
+    ],
+    "only_a": [
+      "p5_r12:v1 -> n11_p53_r07 (breakdown_component)",
+      "p5_r12:v1 -> n11_p53_r08 (breakdown_component)",
+      "p5_r12:v1 -> n11_p53_r09 (breakdown_component)",
+      "p5_r12:v1 -> n11_p53_r10 (breakdown_component)"
+    ],
+    "only_b": [
+      "p5_r12:v0 -> n11_p53_r02 (equals_movement)",
+      "p5_r12:v0 -> n11_p53_r03 (equals_movement)",
+      "p5_r12:v0 -> n11_p53_r04 (equals_movement)",
+      "p7_r05:v1 -> n11_p53_r11 (equals_total)"
+    ]
+  },
+  "evaluation": {
+    "control_links": 16,
+    "method_a": {
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1": 0.889,
+      "relation_accuracy": 1.0,
+      "false_positives": [
+        "p5_r12:v1 -> n11_p53_r07",
+        "p5_r12:v1 -> n11_p53_r08",
+        "p5_r12:v1 -> n11_p53_r09",
+        "p5_r12:v1 -> n11_p53_r10"
+      ],
+      "missed": []
+    },
+    "method_b": {
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1": 0.889,
+      "relation_accuracy": 0.938,
+      "false_positives": [
+        "p5_r12:v0 -> n11_p53_r02",
+        "p5_r12:v0 -> n11_p53_r03",
+        "p5_r12:v0 -> n11_p53_r04",
+        "p7_r05:v1 -> n11_p53_r11"
+      ],
+      "missed": []
+    }
+  }
+}

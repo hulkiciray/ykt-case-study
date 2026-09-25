@@ -1,0 +1,622 @@
+{
+"page": 26,
+"dpi": 300,
+"tokens": [
+{
+"text": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI AŞ. VE BAĞLI ORTAKLIKLARI",
+"conf": 0.9169663614265647,
+"x0": 291.0,
+"y0": 108.0,
+"x1": 2005.0,
+"y1": 186.0
+},
+{
+"text": "BAĞIMSIZ DENETIMDEN GEÇMİŞ 31 ARALIK 2012 TARİHİ İTİBARİYLE",
+"conf": 0.5518622077182992,
+"x0": 293.0,
+"y0": 219.0,
+"x1": 1790.0,
+"y1": 284.0
+},
+{
+"text": "KONSOLİDE FNNANSAL TABLOLARA İLİŞKİN AÇIKLAYICI DIPNOTLAR",
+"conf": 0.6029477998567797,
+"x0": 289.0,
+"y0": 269.0,
+"x1": 1774.0,
+"y1": 343.0
+},
+{
+"text": "(Tüm tutarlar Türk Lirası (TL) olarak gösterilmiştir)",
+"conf": 0.7397796034630667,
+"x0": 292.0,
+"y0": 366.0,
+"x1": 996.0,
+"y1": 418.0
+},
+{
+"text": "2.",
+"conf": 0.992370616260626,
+"x0": 177.0,
+"y0": 498.0,
+"x1": 222.0,
+"y1": 543.0
+},
+{
+"text": "FİNANSAL TABLOLARIN SUNUMUNA İLİŞKİN ESASLAR (devamı)",
+"conf": 0.6076303615005982,
+"x0": 288.0,
+"y0": 488.0,
+"x1": 1725.0,
+"y1": 563.0
+},
+{
+"text": "2.5",
+"conf": 0.6471748948097229,
+"x0": 175.0,
+"y0": 589.0,
+"x1": 244.0,
+"y1": 633.0
+},
+{
+"text": "Önemli Muhasebe Politikalarının Özeti (devamı)",
+"conf": 0.6406370544191161,
+"x0": 292.0,
+"y0": 580.0,
+"x1": 1252.0,
+"y1": 649.0
+},
+{
+"text": "Maddi Duran Varlıklar (devamı)",
+"conf": 0.6362037290633407,
+"x0": 292.0,
+"y0": 679.0,
+"x1": 936.0,
+"y1": 736.0
+},
+{
+"text": "Kiralama veya idari amaçlı ya da h lihazırda belirlenmemiş olan diğer amaçlar doğrultusunda",
+"conf": 0.4580976466976387,
+"x0": 287.0,
+"y0": 767.0,
+"x1": 2090.0,
+"y1": 842.0
+},
+{
+"text": "edilme",
+"conf": 0.997653193876578,
+"x0": 289.0,
+"y0": 824.0,
+"x1": 426.0,
+"y1": 873.0
+},
+{
+"text": "aşamasındaki   varlıklar,",
+"conf": 0.9020604756373046,
+"x0": 444.0,
+"y0": 822.0,
+"x1": 902.0,
+"y1": 879.0
+},
+{
+"text": "maliyet",
+"conf": 0.9997980935557782,
+"x0": 922.0,
+"y0": 826.0,
+"x1": 1073.0,
+"y1": 881.0
+},
+{
+"text": "değerlerinden",
+"conf": 0.9886071830225585,
+"x0": 1089.0,
+"y0": 825.0,
+"x1": 1354.0,
+"y1": 885.0
+},
+{
+"text": "varsa",
+"conf": 0.9999773423633286,
+"x0": 1376.0,
+"y0": 838.0,
+"x1": 1481.0,
+"y1": 877.0
+},
+{
+"text": "değer   düşüklüğü",
+"conf": 0.7734523390935804,
+"x0": 1503.0,
+"y0": 825.0,
+"x1": 1837.0,
+"y1": 891.0
+},
+{
+"text": "kaybı",
+"conf": 0.4925577954621938,
+"x0": 1852.0,
+"y0": 835.0,
+"x1": 1970.0,
+"y1": 889.0
+},
+{
+"text": "düşülerek",
+"conf": 0.9938990506882274,
+"x0": 1989.0,
+"y0": 835.0,
+"x1": 2181.0,
+"y1": 889.0
+},
+{
+"text": "gösterilirler. Maliyete yasal harçlar da dahil edilir. Kullanıma ve satışa hazır hale getirilmesi önemli",
+"conf": 0.5233761758204173,
+"x0": 285.0,
+"y0": 866.0,
+"x1": 2180.0,
+"y1": 944.0
+},
+{
+"text": "ölçüde zaman isteyen varlıklar söz konusu olduğunda, borçlanma maliyetleri aktiflestirilir. Bu tür",
+"conf": 0.48239317893644945,
+"x0": 288.0,
+"y0": 927.0,
+"x1": 2182.0,
+"y1": 994.0
+},
+{
+"text": "varlıklar, diğer sabit varlıklar için kullanılan amortisman yönteminde olduğu gibi, kullanmma hazır",
+"conf": 0.5840207225682069,
+"x0": 286.0,
+"y0": 978.0,
+"x1": 2180.0,
+"y1": 1051.0
+},
+{
+"text": "olduklarında amortismana tabi tutulurlar.",
+"conf": 0.7977506469439742,
+"x0": 286.0,
+"y0": 1035.0,
+"x1": 1048.0,
+"y1": 1087.0
+},
+{
+"text": "Binalar, Grup'un turizm otelcilik hizmetlerini yürüttükleri binalardan oluşmaktadı.",
+"conf": 0.8195665890590189,
+"x0": 284.0,
+"y0": 1120.0,
+"x1": 1823.0,
+"y1": 1189.0
+},
+{
+"text": "Makine",
+"conf": 0.9998477040135677,
+"x0": 289.0,
+"y0": 1216.0,
+"x1": 440.0,
+"y1": 1265.0
+},
+{
+"text": "ve",
+"conf": 0.8118617937898919,
+"x0": 449.0,
+"y0": 1225.0,
+"x1": 499.0,
+"y1": 1261.0
+},
+{
+"text": "ekipmanlar; maliyet değerlerinden birikmiş amortisman ve birikmiş   değer düşüklükleri",
+"conf": 0.4481693983836687,
+"x0": 509.0,
+"y0": 1214.0,
+"x1": 2180.0,
+"y1": 1287.0
+},
+{
+"text": "düşüldükten sonraki tutar üzerinden gösterilirler.",
+"conf": 0.782924216090904,
+"x0": 285.0,
+"y0": 1267.0,
+"x1": 1187.0,
+"y1": 1330.0
+},
+{
+"text": "Arazi",
+"conf": 0.9999369316515072,
+"x0": 290.0,
+"y0": 1362.0,
+"x1": 400.0,
+"y1": 1407.0
+},
+{
+"text": "ve",
+"conf": 0.9964124935110508,
+"x0": 413.0,
+"y0": 1368.0,
+"x1": 466.0,
+"y1": 1404.0
+},
+{
+"text": "yapılmakta   olan yatırılar   dışında   maddi   duran   varlıkları;   maliyet  veya  değerlenmiş",
+"conf": 0.3345203972855916,
+"x0": 475.0,
+"y0": 1357.0,
+"x1": 2183.0,
+"y1": 1431.0
+},
+{
+"text": "tutarları beklenen faydalı ömürlerine göre doğrusal amortisman yöntemi kullanılarak   amortismana",
+"conf": 0.7347179261625302,
+"x0": 281.0,
+"y0": 1409.0,
+"x1": 2180.0,
+"y1": 1478.0
+},
+{
+"text": "tabi tutulur. Beklenen faydalı ömür, kalıntı değer ve amortisman yöntemi; tahminlerde ortaya çıkan",
+"conf": 0.621458731043613,
+"x0": 281.0,
+"y0": 1463.0,
+"x1": 2182.0,
+"y1": 1537.0
+},
+{
+"text": "değisikliklerin olası etkileri için her yıl gözden geçirilir ve tahminlerde bir değişiklik varsa ileriye",
+"conf": 0.6012664376476339,
+"x0": 284.0,
+"y0": 1515.0,
+"x1": 2180.0,
+"y1": 1588.0
+},
+{
+"text": "dönük olarak muhasebeleştirilir.",
+"conf": 0.7441069532301404,
+"x0": 285.0,
+"y0": 1566.0,
+"x1": 883.0,
+"y1": 1631.0
+},
+{
+"text": "Finansal kiralama ile alınan varlıklar, beklenen faydalı ömrü ile söz konusu kiralama süresinden kısa",
+"conf": 0.9107416663181523,
+"x0": 279.0,
+"y0": 1658.0,
+"x1": 2179.0,
+"y1": 1724.0
+},
+{
+"text": "olanı ile sahip olunan maddi duran varlıklarla aynı şekilde amortismana tabi tutulur.",
+"conf": 0.684250663907621,
+"x0": 282.0,
+"y0": 1709.0,
+"x1": 1828.0,
+"y1": 1777.0
+},
+{
+"text": "Maddi duran varlıkların elden çıkarılması ya da bir maddi duran varlığın hizmetten alınması sonucu",
+"conf": 0.585157664482498,
+"x0": 282.0,
+"y0": 1802.0,
+"x1": 2179.0,
+"y1": 1869.0
+},
+{
+"text": "oluşan kazanç veya",
+"conf": 0.9551638330199667,
+"x0": 280.0,
+"y0": 1854.0,
+"x1": 668.0,
+"y1": 1918.0
+},
+{
+"text": "satış hasılatı ile varlığın defter değeri arasındaki fark olarak belirlenir ve",
+"conf": 0.8091586191826867,
+"x0": 787.0,
+"y0": 1859.0,
+"x1": 2182.0,
+"y1": 1921.0
+},
+{
+"text": "tablosuna dahil edilir.",
+"conf": 0.8259102002948933,
+"x0": 374.0,
+"y0": 1910.0,
+"x1": 791.0,
+"y1": 1961.0
+},
+{
+"text": "Grup, 30 Eylül 2011 tarihinden itibaren maddi duran varlıklar içerisindeki binasını yeniden değerleme",
+"conf": 0.6769629144787424,
+"x0": 278.0,
+"y0": 1995.0,
+"x1": 2180.0,
+"y1": 2071.0
+},
+{
+"text": "metoduna göre muhasebelestirmeye başlamıgtır. Bu değişikliğin nedeni,",
+"conf": 0.44367126701359616,
+"x0": 279.0,
+"y0": 2049.0,
+"x1": 1665.0,
+"y1": 2118.0
+},
+{
+"text": "yönetiminin yeniden",
+"conf": 0.9706905412000685,
+"x0": 1776.0,
+"y0": 2059.0,
+"x1": 2180.0,
+"y1": 2123.0
+},
+{
+"text": "değerleme metodunun maliyet metoduna göre daha güvenilir bir bilgi sunacağını düşünmesidir.",
+"conf": 0.7160908538418655,
+"x0": 280.0,
+"y0": 2100.0,
+"x1": 2070.0,
+"y1": 2175.0
+},
+{
+"text": "bu muhasebe politikası değişikliğini UMS 8 paragraf 17'ye istinaden ileriye dönük uygulamıştır.",
+"conf": 0.5663608750527287,
+"x0": 279.0,
+"y0": 2153.0,
+"x1": 2057.0,
+"y1": 2230.0
+},
+{
+"text": "Finansal Kiralama İşlemleri",
+"conf": 0.9600919569725503,
+"x0": 280.0,
+"y0": 2246.0,
+"x1": 838.0,
+"y1": 2308.0
+},
+{
+"text": "Finansal kiralamayla elde edilen varlıklar, kiralama tarihindeki varlığın makul değeri; ya da asgari kira",
+"conf": 0.6493921904224149,
+"x0": 276.0,
+"y0": 2336.0,
+"x1": 2180.0,
+"y1": 2414.0
+},
+{
+"text": "ödemelerinin   bugünkü   değerinden   düşük",
+"conf": 0.5764074964634402,
+"x0": 277.0,
+"y0": 2390.0,
+"x1": 1093.0,
+"y1": 2455.0
+},
+{
+"text": "olanı   kullanılarak   aktiflestirilir.   Kiralayana   karşı",
+"conf": 0.7414732226997905,
+"x0": 1104.0,
+"y0": 2395.0,
+"x1": 2076.0,
+"y1": 2467.0
+},
+{
+"text": "olan",
+"conf": 0.9999830722808838,
+"x0": 2089.0,
+"y0": 2410.0,
+"x1": 2177.0,
+"y1": 2454.0
+},
+{
+"text": "yükümlülük; bilançoda finansal kiralama yükümlülüğü olarak gösterilir",
+"conf": 0.7314531868165393,
+"x0": 277.0,
+"y0": 2445.0,
+"x1": 1612.0,
+"y1": 2512.0
+},
+{
+"text": "Finansal kiralama ödemeleri; finansman gideri ve finansal kiralama yükümlüğündeki azalışı sağlayan",
+"conf": 0.7196778721123619,
+"x0": 276.0,
+"y0": 2548.0,
+"x1": 2180.0,
+"y1": 2625.0
+},
+{
+"text": "ana para ödemesi olarak ayrılır ve böylelikle borcun",
+"conf": 0.7840164591222664,
+"x0": 277.0,
+"y0": 2604.0,
+"x1": 1274.0,
+"y1": 2667.0
+},
+{
+"text": "kalan ana para bakiyesi üzerinden sabit bir",
+"conf": 0.7714131995854149,
+"x0": 1363.0,
+"y0": 2611.0,
+"x1": 2179.0,
+"y1": 2675.0
+},
+{
+"text": "oranda faiz hesaplanmasını sağlar. Finansal giderler; Grup'un yukarıda ayrıntılarına yer verilen genel",
+"conf": 0.7195126339494009,
+"x0": 276.0,
+"y0": 2656.0,
+"x1": 2183.0,
+"y1": 2731.0
+},
+{
+"text": "borçlanma politikası kapsamında finansman giderlerinin aktiflestirilen kısmı haricindeki bölümü",
+"conf": 0.866791866268317,
+"x0": 279.0,
+"y0": 2704.0,
+"x1": 2082.0,
+"y1": 2778.0
+},
+{
+"text": "tablosuna kaydedilir. Koşullu kiralar oluştukları dönemde gider olarak kaydedilir.",
+"conf": 0.8109664193211695,
+"x0": 273.0,
+"y0": 2758.0,
+"x1": 1785.0,
+"y1": 2830.0
+},
+{
+"text": "Faaliyet kiralamaları için",
+"conf": 0.8565938465452047,
+"x0": 273.0,
+"y0": 2868.0,
+"x1": 761.0,
+"y1": 2928.0
+},
+{
+"text": "ödemeler (kiralayandan kira işleminin gerçeklesebilmesi için alıan",
+"conf": 0.7567865346019189,
+"x0": 908.0,
+"y0": 2871.0,
+"x1": 2179.0,
+"y1": 2939.0
+},
+{
+"text": "veya alıacak olan teşvikler de kira dönemi boyunca doğrusal yöntem ile",
+"conf": 0.720612133587128,
+"x0": 277.0,
+"y0": 2920.0,
+"x1": 1664.0,
+"y1": 2989.0
+},
+{
+"text": "tablosuna kaydedilir),",
+"conf": 0.7559898311551685,
+"x0": 1760.0,
+"y0": 2931.0,
+"x1": 2180.0,
+"y1": 2994.0
+},
+{
+"text": "kira dönemi boyunca doğrusal yöntem ile",
+"conf": 0.7560161732767195,
+"x0": 274.0,
+"y0": 2975.0,
+"x1": 1101.0,
+"y1": 3039.0
+},
+{
+"text": "tablosuna kaydedilir. Faaliyet kiralaması altındaki",
+"conf": 0.7223910254687941,
+"x0": 1208.0,
+"y0": 2975.0,
+"x1": 2180.0,
+"y1": 3048.0
+},
+{
+"text": "koşullu kiralar oluştukları dönemde",
+"conf": 0.8183831208786789,
+"x0": 273.0,
+"y0": 3026.0,
+"x1": 945.0,
+"y1": 3087.0
+},
+{
+"text": "olarak kaydedilir.",
+"conf": 0.8525158344453628,
+"x0": 1046.0,
+"y0": 3034.0,
+"x1": 1383.0,
+"y1": 3088.0
+},
+{
+"text": "22",
+"conf": 0.999999915706304,
+"x0": 1200.0,
+"y0": 3232.0,
+"x1": 1253.0,
+"y1": 3277.0
+},
+{
+"text": "inşa",
+"conf": 0.9899246096611023,
+"x0": 2086.3950713390177,
+"y0": 778.0902578521221,
+"x1": 2186.6049286609823,
+"y1": 846.9097421478779
+},
+{
+"text": "kayıp",
+"conf": 0.9988433168479991,
+"x0": 664.2446259315113,
+"y0": 1856.0967805394005,
+"x1": 787.7553740684887,
+"y1": 1922.9032194605995
+},
+{
+"text": "gelir",
+"conf": 0.999980967589268,
+"x0": 278.04405590008355,
+"y0": 1902.5554371415092,
+"x1": 384.95594409991645,
+"y1": 1970.4445628584908
+},
+{
+"text": "Grup",
+"conf": 0.9862646552863078,
+"x0": 1662.2500078450682,
+"y0": 2058.0967805394007,
+"x1": 1777.7499921549318,
+"y1": 2124.9032194605993
+},
+{
+"text": "Grup",
+"conf": 0.9999865889549255,
+"x0": 2067.165810889156,
+"y0": 2116.0835899750778,
+"x1": 2182.834189110844,
+"y1": 2179.9164100249222
+},
+{
+"text": "geri",
+"conf": 0.999982476234436,
+"x0": 1274.2599556283028,
+"y0": 2610.6261398715565,
+"x1": 1362.7400443716972,
+"y1": 2668.3738601284435
+},
+{
+"text": "gelir",
+"conf": 0.9998256146041303,
+"x0": 2078.1579833204632,
+"y0": 2721.820006359981,
+"x1": 2179.8420166795368,
+"y1": 2783.179993640019
+},
+{
+"text": "yapılan",
+"conf": 0.9988894642477363,
+"x0": 759.2103500411844,
+"y0": 2867.4804980832996,
+"x1": 906.7896499588156,
+"y1": 2934.5195019167004
+},
+{
+"text": "gelir",
+"conf": 0.9998967339975823,
+"x0": 1662.1579833204635,
+"y0": 2927.7673458616728,
+"x1": 1763.8420166795365,
+"y1": 2989.2326541383272
+},
+{
+"text": "gelir",
+"conf": 0.9999836865077046,
+"x0": 1104.2599556283028,
+"y0": 2973.724116396971,
+"x1": 1208.7400443716972,
+"y1": 3038.275883603029
+},
+{
+"text": "gider",
+"conf": 0.9999956284136424,
+"x0": 939.3070020560507,
+"y0": 3025.967025127989,
+"x1": 1051.6929979439492,
+"y1": 3090.032974872011
+}
+]
+}

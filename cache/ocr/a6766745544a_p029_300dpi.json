@@ -1,0 +1,622 @@
+{
+"page": 29,
+"dpi": 300,
+"tokens": [
+{
+"text": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. VE BAĞLI ORTAKLIKLARI",
+"conf": 0.7319251377429089,
+"x0": 285.0,
+"y0": 112.0,
+"x1": 2002.0,
+"y1": 189.0
+},
+{
+"text": "BAĞIMSIZ DENETİMDEN GEÇMİŞ 31 ARALIK 2012 TARİHİ İTİBARİYLE",
+"conf": 0.7412667391425072,
+"x0": 285.0,
+"y0": 221.0,
+"x1": 1790.0,
+"y1": 290.0
+},
+{
+"text": "KONSOLIDE FİNANSAL TABLOLARA İLİŞKİN AÇIKLAYICI DİPNOTLAR",
+"conf": 0.7815458185256897,
+"x0": 284.0,
+"y0": 275.0,
+"x1": 1773.0,
+"y1": 342.0
+},
+{
+"text": "(Tüm tutarlar Türk Lirası (TL) olarak gösterilmistir)",
+"conf": 0.6817661819795429,
+"x0": 287.0,
+"y0": 372.0,
+"x1": 992.0,
+"y1": 417.0
+},
+{
+"text": "2.",
+"conf": 0.8429836913258926,
+"x0": 169.0,
+"y0": 501.0,
+"x1": 214.0,
+"y1": 545.0
+},
+{
+"text": "FİNANSAL TABLOLARIN SUNUMUNA İLİŞKİN ESASLAR (devamı)",
+"conf": 0.8353723675546874,
+"x0": 285.0,
+"y0": 494.0,
+"x1": 1724.0,
+"y1": 561.0
+},
+{
+"text": "2.5",
+"conf": 0.5629419947606269,
+"x0": 168.0,
+"y0": 591.0,
+"x1": 239.0,
+"y1": 640.0
+},
+{
+"text": "Önemli Muhasebe Politikalarının Özeti (devamı)",
+"conf": 0.7667964572545832,
+"x0": 288.0,
+"y0": 584.0,
+"x1": 1249.0,
+"y1": 652.0
+},
+{
+"text": "Finansal Araçlar (devamı)",
+"conf": 0.7390735726634305,
+"x0": 282.0,
+"y0": 682.0,
+"x1": 805.0,
+"y1": 742.0
+},
+{
+"text": "Finansal varlıklar (devamı)",
+"conf": 0.9540809358407023,
+"x0": 286.0,
+"y0": 773.0,
+"x1": 800.0,
+"y1": 829.0
+},
+{
+"text": "Finansal varlıklar",
+"conf": 0.9767608647989261,
+"x0": 283.0,
+"y0": 865.0,
+"x1": 626.0,
+"y1": 914.0
+},
+{
+"text": "(6",
+"conf": 0.3562977388858641,
+"x0": 629.0,
+"y0": 871.0,
+"x1": 653.0,
+"y1": 892.0
+},
+{
+"text": "'gerçeğe uygun değer farkı k~r veya zarara yansıtılan finansal varlıklar? , 'vadesine",
+"conf": 0.42006054408352755,
+"x0": 644.0,
+"y0": 867.0,
+"x1": 2182.0,
+"y1": 930.0
+},
+{
+"text": "kadar elde tutulacak yatırımlar? , 'satılmaya hazır finansal varlıklar?' ve 'krediler ve alacaklar?' olarak",
+"conf": 0.5383973328663713,
+"x0": 285.0,
+"y0": 915.0,
+"x1": 2185.0,
+"y1": 981.0
+},
+{
+"text": "sııflandıılır.  Sııflandıma, finansal   varlığın  elde edilme",
+"conf": 0.4770986403246777,
+"x0": 284.0,
+"y0": 966.0,
+"x1": 1412.0,
+"y1": 1038.0
+},
+{
+"text": "amacına",
+"conf": 0.9977601783345835,
+"x0": 1420.0,
+"y0": 986.0,
+"x1": 1579.0,
+"y1": 1023.0
+},
+{
+"text": "ve",
+"conf": 0.9997788205039201,
+"x0": 1595.0,
+"y0": 986.0,
+"x1": 1648.0,
+"y1": 1025.0
+},
+{
+"text": "özelliğine bağlı olarak, ilk",
+"conf": 0.5492422603020569,
+"x0": 1656.0,
+"y0": 976.0,
+"x1": 2185.0,
+"y1": 1036.0
+},
+{
+"text": "kayda alma sırasında belirlenmektedir.",
+"conf": 0.9126595745106943,
+"x0": 284.0,
+"y0": 1021.0,
+"x1": 1008.0,
+"y1": 1082.0
+},
+{
+"text": "Etkin faiz yöntemi",
+"conf": 0.7703645605298705,
+"x0": 286.0,
+"y0": 1114.0,
+"x1": 632.0,
+"y1": 1169.0
+},
+{
+"text": "Etkin faiz yöntemi, borçlanma aracının itfa edilmiş maliyet ile değerlenmesi ve ilgili faiz gelirinin",
+"conf": 0.7331221548129374,
+"x0": 285.0,
+"y0": 1204.0,
+"x1": 2184.0,
+"y1": 1273.0
+},
+{
+"text": "ilişkili   olduğu   döneme  dağıtılması   yöntemidir.  Etkin",
+"conf": 0.5677605710385203,
+"x0": 282.0,
+"y0": 1256.0,
+"x1": 1332.0,
+"y1": 1319.0
+},
+{
+"text": "faiz",
+"conf": 0.9999964833259583,
+"x0": 1345.0,
+"y0": 1265.0,
+"x1": 1429.0,
+"y1": 1314.0
+},
+{
+"text": "oranı;   finansal",
+"conf": 0.8759559625317591,
+"x0": 1441.0,
+"y0": 1265.0,
+"x1": 1732.0,
+"y1": 1320.0
+},
+{
+"text": "aracın",
+"conf": 0.9583961292602163,
+"x0": 1743.0,
+"y0": 1274.0,
+"x1": 1867.0,
+"y1": 1313.0
+},
+{
+"text": "beklenen",
+"conf": 0.9999889153533945,
+"x0": 1883.0,
+"y0": 1269.0,
+"x1": 2056.0,
+"y1": 1313.0
+},
+{
+"text": "ömrü",
+"conf": 0.9930697083473206,
+"x0": 2071.0,
+"y0": 1268.0,
+"x1": 2181.0,
+"y1": 1317.0
+},
+{
+"text": "boyunca veya uygun olması durumunda daha kısa bir zaman dilimi süresince tahsil edilecek tahmini",
+"conf": 0.8307251766950516,
+"x0": 284.0,
+"y0": 1310.0,
+"x1": 2185.0,
+"y1": 1372.0
+},
+{
+"text": "nakit toplamının; ilgili finansal varlığın tam olarak net bugünkü değerine indirgeyen orandır.",
+"conf": 0.6215258427042045,
+"x0": 281.0,
+"y0": 1362.0,
+"x1": 1991.0,
+"y1": 1436.0
+},
+{
+"text": "Gerçeğe uygun değer farkı k#r veya zarara yansıtılan finansal varlıklar dışında sınıflandırılan finansal",
+"conf": 0.7072164965524549,
+"x0": 284.0,
+"y0": 1453.0,
+"x1": 2185.0,
+"y1": 1518.0
+},
+{
+"text": "varlıklar ile ilgili gelirler etkin faiz yöntemi kullanmak suretiyle hesaplanmaktadır.",
+"conf": 0.7551195106247675,
+"x0": 285.0,
+"y0": 1503.0,
+"x1": 1814.0,
+"y1": 1570.0
+},
+{
+"text": "Gerceğe uygun değer_farkı_k'y veya zarara_vansıtılan finansal varlıklar",
+"conf": 0.3921170175211119,
+"x0": 285.0,
+"y0": 1598.0,
+"x1": 1615.0,
+"y1": 1659.0
+},
+{
+"text": "Gerçeğe uygun değer farkı",
+"conf": 0.5850187883074313,
+"x0": 284.0,
+"y0": 1691.0,
+"x1": 823.0,
+"y1": 1753.0
+},
+{
+"text": "tablosuna yansıtılan finansal   varlıklar;  alım-satım amacıyla elde",
+"conf": 0.569220905206289,
+"x0": 932.0,
+"y0": 1693.0,
+"x1": 2185.0,
+"y1": 1757.0
+},
+{
+"text": "tutulan finansal   varlıklardır .",
+"conf": 0.6174224755849385,
+"x0": 283.0,
+"y0": 1745.0,
+"x1": 823.0,
+"y1": 1797.0
+},
+{
+"text": "Bir finansal  varlık kısa vadede elden çıkarılması   amacıyla edinildiği",
+"conf": 0.5524943673837036,
+"x0": 839.0,
+"y0": 1747.0,
+"x1": 2185.0,
+"y1": 1812.0
+},
+{
+"text": "zaman",
+"conf": 0.9993448233093926,
+"x0": 284.0,
+"y0": 1806.0,
+"x1": 417.0,
+"y1": 1845.0
+},
+{
+"text": "söz   konusu   kategoride   sınıflandırılır.",
+"conf": 0.6251694368236111,
+"x0": 428.0,
+"y0": 1798.0,
+"x1": 1159.0,
+"y1": 1860.0
+},
+{
+"text": "Finansal   riske",
+"conf": 0.8796026671115467,
+"x0": 1172.0,
+"y0": 1803.0,
+"x1": 1454.0,
+"y1": 1852.0
+},
+{
+"text": "etkili",
+"conf": 0.9998646550459793,
+"x0": 1580.0,
+"y0": 1803.0,
+"x1": 1687.0,
+"y1": 1852.0
+},
+{
+"text": "bir",
+"conf": 0.9999536805718507,
+"x0": 1702.0,
+"y0": 1806.0,
+"x1": 1766.0,
+"y1": 1851.0
+},
+{
+"text": "koruma",
+"conf": 0.9722658970527839,
+"x0": 1779.0,
+"y0": 1809.0,
+"x1": 1928.0,
+"y1": 1853.0
+},
+{
+"text": "aracı   olarak",
+"conf": 0.6552186136501058,
+"x0": 1940.0,
+"y0": 1805.0,
+"x1": 2184.0,
+"y1": 1854.0
+},
+{
+"text": "belirlenmemiş olan türev ürünleri teşkil eden bahse konu finansal varlıklar",
+"conf": 0.6399915506200997,
+"x0": 282.0,
+"y0": 1846.0,
+"x1": 1705.0,
+"y1": 1910.0
+},
+{
+"text": "da gerçeğe uygun değer",
+"conf": 0.9903747068127895,
+"x0": 1722.0,
+"y0": 1856.0,
+"x1": 2187.0,
+"y1": 1918.0
+},
+{
+"text": "farkı k#r veya zarara yansıtılan finansal varlıklar olarak sınıflandırılır .",
+"conf": 0.6394727169461963,
+"x0": 282.0,
+"y0": 1901.0,
+"x1": 1576.0,
+"y1": 1964.0
+},
+{
+"text": "Vadesine kadar elde tutulacak_vatırmmlar",
+"conf": 0.5074617722661763,
+"x0": 285.0,
+"y0": 1996.0,
+"x1": 1055.0,
+"y1": 2056.0
+},
+{
+"text": "Grup'un   vadesine kadar elde tutma olanağı",
+"conf": 0.5641482784784635,
+"x0": 281.0,
+"y0": 2088.0,
+"x1": 1144.0,
+"y1": 2150.0
+},
+{
+"text": "ve",
+"conf": 0.994957489628238,
+"x0": 1151.0,
+"y0": 2103.0,
+"x1": 1204.0,
+"y1": 2139.0
+},
+{
+"text": "niyeti olduğu, sabit  veya belirlenebilir bir ödeme",
+"conf": 0.6636635363085174,
+"x0": 1212.0,
+"y0": 2092.0,
+"x1": 2187.0,
+"y1": 2152.0
+},
+{
+"text": "planına   sahips",
+"conf": 0.7056594945620904,
+"x0": 283.0,
+"y0": 2143.0,
+"x1": 568.0,
+"y1": 2200.0
+},
+{
+"text": "sabit",
+"conf": 0.9999789950400523,
+"x0": 582.0,
+"y0": 2143.0,
+"x1": 686.0,
+"y1": 2192.0
+},
+{
+"text": "vadeli",
+"conf": 0.999703413485629,
+"x0": 699.0,
+"y0": 2146.0,
+"x1": 820.0,
+"y1": 2191.0
+},
+{
+"text": "borçlanma   araçları;",
+"conf": 0.6403441004956857,
+"x0": 836.0,
+"y0": 2144.0,
+"x1": 1220.0,
+"y1": 2206.0
+},
+{
+"text": "vadesine   kadar   elde",
+"conf": 0.6014362567489954,
+"x0": 1232.0,
+"y0": 2145.0,
+"x1": 1638.0,
+"y1": 2197.0
+},
+{
+"text": "tutulacak   yatırımlar   olarak",
+"conf": 0.9229802151204878,
+"x0": 1651.0,
+"y0": 2145.0,
+"x1": 2187.0,
+"y1": 2208.0
+},
+{
+"text": "sınıflandırılır; Vadesine kadar elde tutulacak yatırımlar etkin faiz yöntemine göre itfa edilmiş maliyet",
+"conf": 0.5683909557328036,
+"x0": 282.0,
+"y0": 2194.0,
+"x1": 2187.0,
+"y1": 2259.0
+},
+{
+"text": "bedelinden   değer  düşüklüğü   tutarı   düşülerek   kayıtlara   alınır",
+"conf": 0.47710580881923714,
+"x0": 282.0,
+"y0": 2246.0,
+"x1": 1469.0,
+"y1": 2310.0
+},
+{
+"text": "ve",
+"conf": 0.9904125493869592,
+"x0": 1480.0,
+"y0": 2262.0,
+"x1": 1533.0,
+"y1": 2300.0
+},
+{
+"text": "ilgili   gelirler  etkin faiz yöntemi",
+"conf": 0.5131521646722276,
+"x0": 1540.0,
+"y0": 2247.0,
+"x1": 2185.0,
+"y1": 2313.0
+},
+{
+"text": "kullanılmak suretiyle hesaplanır.",
+"conf": 0.8025928606941365,
+"x0": 282.0,
+"y0": 2297.0,
+"x1": 890.0,
+"y1": 2360.0
+},
+{
+"text": "Satılmaya hazır finansal varlıklar",
+"conf": 0.8220120190050012,
+"x0": 283.0,
+"y0": 2396.0,
+"x1": 920.0,
+"y1": 2453.0
+},
+{
+"text": "Satılmaya hazır finansal varlıklar, satılmaya hazır olarak finansal varlık olarak smnıflandıılan ya da (a)",
+"conf": 0.43540361312609394,
+"x0": 282.0,
+"y0": 2470.0,
+"x1": 2186.0,
+"y1": 2543.0
+},
+{
+"text": "krediler ve alacaklar; (b) vadesine kadar elde tutulacak yatırımlar veya (c) gerçeğe uygun değer farkı",
+"conf": 0.7727206730892137,
+"x0": 281.0,
+"y0": 2523.0,
+"x1": 2188.0,
+"y1": 2597.0
+},
+{
+"text": "k#r",
+"conf": 0.6686684464561062,
+"x0": 283.0,
+"y0": 2584.0,
+"x1": 357.0,
+"y1": 2633.0
+},
+{
+"text": "veya",
+"conf": 0.970295786857605,
+"x0": 375.0,
+"y0": 2593.0,
+"x1": 471.0,
+"y1": 2638.0
+},
+{
+"text": "zarara",
+"conf": 0.9894908159434136,
+"x0": 490.0,
+"y0": 2593.0,
+"x1": 614.0,
+"y1": 2632.0
+},
+{
+"text": "yansıtılan",
+"conf": 0.9797152154567262,
+"x0": 629.0,
+"y0": 2580.0,
+"x1": 826.0,
+"y1": 2643.0
+},
+{
+"text": "finansal",
+"conf": 0.7265689073808204,
+"x0": 840.0,
+"y0": 2587.0,
+"x1": 1002.0,
+"y1": 2636.0
+},
+{
+"text": "varlıklar",
+"conf": 0.9850470928911381,
+"x0": 1018.0,
+"y0": 2587.0,
+"x1": 1188.0,
+"y1": 2636.0
+},
+{
+"text": "olarak   smıflandırılmayan",
+"conf": 0.5916768341621039,
+"x0": 1201.0,
+"y0": 2584.0,
+"x1": 1698.0,
+"y1": 2650.0
+},
+{
+"text": "türev   olmayan",
+"conf": 0.9323279126898154,
+"x0": 1711.0,
+"y0": 2589.0,
+"x1": 2011.0,
+"y1": 2651.0
+},
+{
+"text": "finansal",
+"conf": 0.9481560314248088,
+"x0": 2025.0,
+"y0": 2592.0,
+"x1": 2186.0,
+"y1": 2641.0
+},
+{
+"text": "varlıklardır.",
+"conf": 0.9788510875003034,
+"x0": 284.0,
+"y0": 2640.0,
+"x1": 513.0,
+"y1": 2684.0
+},
+{
+"text": "25",
+"conf": 0.6272192705356472,
+"x0": 1209.0,
+"y0": 3238.0,
+"x1": 1261.0,
+"y1": 3279.0
+},
+{
+"text": "gelir",
+"conf": 0.7817947354360495,
+"x0": 827.3070020560507,
+"y0": 1690.6717988226487,
+"x1": 929.6929979439493,
+"y1": 1755.3282011773513
+},
+{
+"text": "karşı",
+"conf": 0.9986821843944338,
+"x0": 1460.2913328886734,
+"y0": 1801.1079613181162,
+"x1": 1573.7086671113266,
+"y1": 1864.8920386818838
+}
+]
+}

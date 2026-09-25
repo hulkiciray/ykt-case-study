@@ -1,0 +1,74 @@
+{
+  "decisions": [
+    {
+      "row_id": "n11_p53_r06",
+      "relation": "equals_total",
+      "col": 2,
+      "confidence": 1,
+      "reason": "The row '31 Aralık 2012 itibari ile net defter değeri' total column (col 2) matches exactly the summary item value 373992222 at period 2012-12-31."
+    },
+    {
+      "row_id": "n11_p54_r19",
+      "relation": "equals_total",
+      "col": 0,
+      "confidence": 0.9,
+      "reason": "The row '(unlabelled total row)' column '31 Aralık 2012 Gerçege Oygun Değeri' matches the summary item value 373992222 at 2012-12-31, but label suggests fair value not net book value."
+    },
+    {
+      "row_id": "n11_p53_r05",
+      "relation": "equals_total",
+      "col": 2,
+      "confidence": 1,
+      "reason": "The row '31 Aralık 2012 itibari ile kapanış bakiyesi' total column (col 2) matches exactly the summary item value 373992222 at 2012-12-31."
+    },
+    {
+      "row_id": "n11_p53_r03",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 1,
+      "reason": "The row 'Makul değer degişikliginden kaynaklanan kazanç' is a movement (gain) for 2012, not a balance at 2012-12-31."
+    },
+    {
+      "row_id": "n11_p54_r15",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 1,
+      "reason": "The row 'Bağcılar Arsa' is a component of fair value breakdown, not net book value balance."
+    },
+    {
+      "row_id": "n11_p54_r16",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 1,
+      "reason": "The row 'Bayrampaşa Arsa' is a component of fair value breakdown, not net book value balance."
+    },
+    {
+      "row_id": "n11_p54_r18",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 1,
+      "reason": "The row 'İkitelli Bina' is a component of fair value breakdown, not net book value balance."
+    },
+    {
+      "row_id": "n11_p53_r02",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 1,
+      "reason": "The row 'Alı sonrası yapılan harcamalar' is a movement (expense) during 2012, not a balance at 2012-12-31."
+    },
+    {
+      "row_id": "n11_p54_r17",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 1,
+      "reason": "The row 'Güneşli Bina' is a component of fair value breakdown, not net book value balance."
+    },
+    {
+      "row_id": "n11_p53_r04",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 1,
+      "reason": "The row 'Stoklara transferler' is a movement (transfer) during 2012, not a balance at 2012-12-31."
+    }
+  ]
+}

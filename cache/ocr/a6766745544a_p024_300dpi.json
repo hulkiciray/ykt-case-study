@@ -1,0 +1,694 @@
+{
+"page": 24,
+"dpi": 300,
+"tokens": [
+{
+"text": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI AŞ. VE BAĞLI ORTAKLIKLARI",
+"conf": 0.4981540198280804,
+"x0": 301.0,
+"y0": 114.0,
+"x1": 2010.0,
+"y1": 186.0
+},
+{
+"text": "BAĞIMSIZ DENETIMDEN GEÇMİŞ 31 ARALIK 2012 TARİHİ İTİBARİYLE",
+"conf": 0.6751709336260211,
+"x0": 294.0,
+"y0": 214.0,
+"x1": 1797.0,
+"y1": 288.0
+},
+{
+"text": "KONSOLİDE FİNANSAL TABLOLARA İLİŞKİN AÇIKLAYICI DİPNOTLAR",
+"conf": 0.6904548954243312,
+"x0": 295.0,
+"y0": 270.0,
+"x1": 1778.0,
+"y1": 343.0
+},
+{
+"text": "(Tüm tutarlar Türk Lirası (TL) olarak gösterilmiştir)",
+"conf": 0.70994962265047,
+"x0": 297.0,
+"y0": 368.0,
+"x1": 1004.0,
+"y1": 418.0
+},
+{
+"text": "2.",
+"conf": 0.4844706189450985,
+"x0": 177.0,
+"y0": 498.0,
+"x1": 222.0,
+"y1": 543.0
+},
+{
+"text": "FINANSAL TABLOLARIN SUNUMUNA İLİŞKİN ESASLAR (devamı)",
+"conf": 0.8093289918153118,
+"x0": 295.0,
+"y0": 490.0,
+"x1": 1728.0,
+"y1": 563.0
+},
+{
+"text": "2.4",
+"conf": 0.9013971199831752,
+"x0": 176.0,
+"y0": 588.0,
+"x1": 250.0,
+"y1": 637.0
+},
+{
+"text": "Yeni ve Revize Edilmiş Uluslararası Finansal Raporlama Standartları (devamı)",
+"conf": 0.800650620642539,
+"x0": 298.0,
+"y0": 588.0,
+"x1": 1847.0,
+"y1": 655.0
+},
+{
+"text": "(c) Henüz",
+"conf": 0.6505109195397226,
+"x0": 293.0,
+"y0": 677.0,
+"x1": 501.0,
+"y1": 737.0
+},
+{
+"text": "yürürlüğe",
+"conf": 0.9373919316097501,
+"x0": 522.0,
+"y0": 684.0,
+"x1": 733.0,
+"y1": 738.0
+},
+{
+"text": "girmemiş",
+"conf": 0.9939229010004876,
+"x0": 755.0,
+"y0": 687.0,
+"x1": 952.0,
+"y1": 741.0
+},
+{
+"text": "ve",
+"conf": 0.9926702108892977,
+"x0": 978.0,
+"y0": 693.0,
+"x1": 1034.0,
+"y1": 732.0
+},
+{
+"text": "tarafindan",
+"conf": 0.9986815599526646,
+"x0": 1205.0,
+"y0": 687.0,
+"x1": 1424.0,
+"y1": 736.0
+},
+{
+"text": "erken",
+"conf": 0.999832545305913,
+"x0": 1450.0,
+"y0": 690.0,
+"x1": 1571.0,
+"y1": 735.0
+},
+{
+"text": "uygulaması",
+"conf": 0.999422229763804,
+"x0": 1597.0,
+"y0": 684.0,
+"x1": 1835.0,
+"y1": 751.0
+},
+{
+"text": "benimsenmemiş",
+"conf": 0.7930101650787044,
+"x0": 1859.0,
+"y0": 690.0,
+"x1": 2185.0,
+"y1": 751.0
+},
+{
+"text": "standartlar ile mevcut önceki standartlara getirilen değişiklikler ve yorumlar (devamı)",
+"conf": 0.8311874525262036,
+"x0": 293.0,
+"y0": 731.0,
+"x1": 1987.0,
+"y1": 798.0
+},
+{
+"text": "UFRYK 20 Yerüstü Maden İşletmelerinde Üretim Aşamasındaki Hafriyat (Dekapaj) Maliyetleri",
+"conf": 0.8040921935146363,
+"x0": 299.0,
+"y0": 823.0,
+"x1": 2113.0,
+"y1": 891.0
+},
+{
+"text": "UFRYK 20 Yerüstü Maden İşletmelerinde Üretim Aşamasındaki Hafriyat (Dekapaj) Maliyetleri 'nde",
+"conf": 0.6898429505888428,
+"x0": 295.0,
+"y0": 912.0,
+"x1": 2188.0,
+"y1": 984.0
+},
+{
+"text": "yer alan açıklamalar maden üretimi sıasında oluşan yerüstü maden faaliyetleri ile ilgili atık temizleme",
+"conf": 0.8659636468285887,
+"x0": 292.0,
+"y0": 964.0,
+"x1": 2186.0,
+"y1": 1037.0
+},
+{
+"text": "maliyetleri (üretim aşamasındaki hafriyat (dekapaj) maliyetleri) için geçerlidir. İlgili yorum uyarınca",
+"conf": 0.787237441549667,
+"x0": 293.0,
+"y0": 1020.0,
+"x1": 2185.0,
+"y1": 1089.0
+},
+{
+"text": "madene erişimi sağlayan bu atık temizleme faaliyetine (dekapaj) ilişkin maliyetler belirli kurallara",
+"conf": 0.6641971260222482,
+"x0": 293.0,
+"y0": 1073.0,
+"x1": 2187.0,
+"y1": 1140.0
+},
+{
+"text": "uyulması şartıyla duran varlık olarak (dekapaj faaliyetleri ile ilgili varlık) muhasebeleştirilir. Devam",
+"conf": 0.570003708726787,
+"x0": 292.0,
+"y0": 1123.0,
+"x1": 2182.0,
+"y1": 1192.0
+},
+{
+"text": "eden olağan işletme dekapaj faaliyetleri ile ilişkili maliyetler ise UMS 12 Stoklar standardı uyarınca",
+"conf": 0.8725014153087091,
+"x0": 292.0,
+"y0": 1176.0,
+"x1": 2186.0,
+"y1": 1248.0
+},
+{
+"text": "muhasebeleştirilir  Dekapaj  faaliyetleri ile ilgili varlıklar mevcut bir varlığın iyileştirilmesi ya",
+"conf": 0.4280401254843394,
+"x0": 293.0,
+"y0": 1231.0,
+"x1": 2119.0,
+"y1": 1299.0
+},
+{
+"text": "da",
+"conf": 0.9999726889513998,
+"x0": 2130.0,
+"y0": 1247.0,
+"x1": 2183.0,
+"y1": 1291.0
+},
+{
+"text": "ilavesi  olarak muhasebeleştirilir . ve mevcut varlığın oluşturduğu kısmın özelliklerine  bağlı olarak",
+"conf": 0.4548749858350024,
+"x0": 290.0,
+"y0": 1280.0,
+"x1": 2186.0,
+"y1": 1352.0
+},
+{
+"text": "maddi duran ya da maddi olmayan duran varlık olarak sınıflandırılır.",
+"conf": 0.872357127676074,
+"x0": 293.0,
+"y0": 1335.0,
+"x1": 1557.0,
+"y1": 1401.0
+},
+{
+"text": "UFRYK 20,",
+"conf": 0.9970861704439872,
+"x0": 293.0,
+"y0": 1420.0,
+"x1": 539.0,
+"y1": 1483.0
+},
+{
+"text": "1",
+"conf": 0.8970499378928667,
+"x0": 552.0,
+"y0": 1438.0,
+"x1": 571.0,
+"y1": 1470.0
+},
+{
+"text": "Ocak 2013 tarihinde veya bu tarih sonrasında başlayan mali dönemlerden itibaren",
+"conf": 0.618161391270069,
+"x0": 590.0,
+"y0": 1429.0,
+"x1": 2185.0,
+"y1": 1491.0
+},
+{
+"text": "geçerlidir. UFRYK 20'yi ilk defa uygulayan işletmeler için özel geçiş  hükümleri bulunmaktadır:",
+"conf": 0.3554259814969082,
+"x0": 287.0,
+"y0": 1474.0,
+"x1": 2186.0,
+"y1": 1547.0
+},
+{
+"text": "Ancak, sunulan en erken dönemde ya da bu tarih sonrasında oluşan üretim aşamasındaki hafriyat",
+"conf": 0.5297076853190935,
+"x0": 292.0,
+"y0": 1532.0,
+"x1": 2190.0,
+"y1": 1605.0
+},
+{
+"text": "(dekapaj)  maliyetleri için UFRYK 20'de belirtilen  açıklamalar   uygulanmalıdır.",
+"conf": 0.6301583143849777,
+"x0": 290.0,
+"y0": 1584.0,
+"x1": 1826.0,
+"y1": 1652.0
+},
+{
+"text": "Bu   tür  faaliyetler",
+"conf": 0.3684741887332632,
+"x0": 1836.0,
+"y0": 1597.0,
+"x1": 2186.0,
+"y1": 1652.0
+},
+{
+"text": "gerçeklestirilmediğinden",
+"conf": 0.9107913367897592,
+"x0": 292.0,
+"y0": 1641.0,
+"x1": 758.0,
+"y1": 1695.0
+},
+{
+"text": "yönetimi UFRYK 20'nin Grup?un finansal tabloları üzerinde herhangi",
+"conf": 0.6248214823341384,
+"x0": 861.0,
+"y0": 1634.0,
+"x1": 2187.0,
+"y1": 1710.0
+},
+{
+"text": "bir etkisi olmayacağını düşünmektedir.",
+"conf": 0.975263559368914,
+"x0": 291.0,
+"y0": 1691.0,
+"x1": 1016.0,
+"y1": 1754.0
+},
+{
+"text": "2.5",
+"conf": 0.8040374645245641,
+"x0": 168.0,
+"y0": 1783.0,
+"x1": 242.0,
+"y1": 1833.0
+},
+{
+"text": "Önemli Muhasebe Politikalarının Özeti",
+"conf": 0.957464311683891,
+"x0": 287.0,
+"y0": 1771.0,
+"x1": 1075.0,
+"y1": 1843.0
+},
+{
+"text": "Hasılat",
+"conf": 0.9996053667335126,
+"x0": 288.0,
+"y0": 1873.0,
+"x1": 446.0,
+"y1": 1926.0
+},
+{
+"text": "Gelirler; tahsil edilmiş veya edilecek olan alacak tutarıın gerçeğe uygun değeri üzerinden ölçülür.",
+"conf": 0.5422289037853993,
+"x0": 285.0,
+"y0": 1956.0,
+"x1": 2186.0,
+"y1": 2032.0
+},
+{
+"text": "Tahmini müşteri iadeleri, indirimler ve karşılıklar söz konusu tutardan düşülmektedir .",
+"conf": 0.7454644737253553,
+"x0": 288.0,
+"y0": 2015.0,
+"x1": 1864.0,
+"y1": 2080.0
+},
+{
+"text": "Gavrimenkul kiralamalarından elde edilen kira gelirleri ve_otelcilik gelirleri",
+"conf": 0.487485542282024,
+"x0": 287.0,
+"y0": 2105.0,
+"x1": 1702.0,
+"y1": 2169.0
+},
+{
+"text": "Kiralanan gayrimenkullerden elde edilen kira gelirleri tahakkuk esasına göre kaydedilmektedir. Gelir;",
+"conf": 0.730661733651438,
+"x0": 284.0,
+"y0": 2191.0,
+"x1": 2185.0,
+"y1": 2266.0
+},
+{
+"text": "bu işlemle ilgili oluşan ekonomik faydaların Grup'a girişi mümkün görülüyorsa ve bu gelirin miktarı",
+"conf": 0.7758841940311431,
+"x0": 287.0,
+"y0": 2248.0,
+"x1": 2184.0,
+"y1": 2322.0
+},
+{
+"text": "güvenilir bir şekilde ölçülebiliyorsa gerçeklegir.",
+"conf": 0.5479697854296384,
+"x0": 284.0,
+"y0": 2297.0,
+"x1": 1175.0,
+"y1": 2366.0
+},
+{
+"text": "Turizm (otelcilik) gelirleri içerisinde; acentelere kiralanan ya da erken rezervasyon yoluyla satılan",
+"conf": 0.6730978848822464,
+"x0": 284.0,
+"y0": 2390.0,
+"x1": 2186.0,
+"y1": 2464.0
+},
+{
+"text": "odalara",
+"conf": 0.9998849225999767,
+"x0": 286.0,
+"y0": 2447.0,
+"x1": 434.0,
+"y1": 2496.0
+},
+{
+"text": "ait",
+"conf": 0.9999832065931312,
+"x0": 463.0,
+"y0": 2451.0,
+"x1": 524.0,
+"y1": 2495.0
+},
+{
+"text": "gelirler;",
+"conf": 0.6356416514350789,
+"x0": 550.0,
+"y0": 2446.0,
+"x1": 707.0,
+"y1": 2509.0
+},
+{
+"text": "hizmetin",
+"conf": 0.9999420895355804,
+"x0": 733.0,
+"y0": 2450.0,
+"x1": 906.0,
+"y1": 2499.0
+},
+{
+"text": "verildiği",
+"conf": 0.9950695009994438,
+"x0": 936.0,
+"y0": 2453.0,
+"x1": 1103.0,
+"y1": 2507.0
+},
+{
+"text": "tarihe",
+"conf": 0.9999393605189051,
+"x0": 1128.0,
+"y0": 2453.0,
+"x1": 1248.0,
+"y1": 2502.0
+},
+{
+"text": "kadar",
+"conf": 0.9997407397038868,
+"x0": 1276.0,
+"y0": 2453.0,
+"x1": 1394.0,
+"y1": 2502.0
+},
+{
+"text": "kazanılmamış",
+"conf": 0.8857558712297794,
+"x0": 1416.0,
+"y0": 2448.0,
+"x1": 1687.0,
+"y1": 2515.0
+},
+{
+"text": "olarak",
+"conf": 0.9992004268537041,
+"x0": 1834.0,
+"y0": 2457.0,
+"x1": 1965.0,
+"y1": 2509.0
+},
+{
+"text": "bilançoda",
+"conf": 0.9999583557879538,
+"x0": 1990.0,
+"y0": 2456.0,
+"x1": 2185.0,
+"y1": 2519.0
+},
+{
+"text": "muhasebeleştirilmektedir.",
+"conf": 0.9393943058202131,
+"x0": 286.0,
+"y0": 2502.0,
+"x1": 769.0,
+"y1": 2556.0
+},
+{
+"text": "Oda kiralamalarından elde edilen kazançlar; yiyecek ve içecek satışlarından",
+"conf": 0.4366596002215243,
+"x0": 285.0,
+"y0": 2590.0,
+"x1": 1758.0,
+"y1": 2659.0
+},
+{
+"text": "kazançlar;   otel",
+"conf": 0.7377285380183267,
+"x0": 1885.0,
+"y0": 2603.0,
+"x1": 2175.0,
+"y1": 2658.0
+},
+{
+"text": "içinde",
+"conf": 0.9802490192588718,
+"x0": 281.0,
+"y0": 2642.0,
+"x1": 414.0,
+"y1": 2704.0
+},
+{
+"text": "kiralanan mağazalardan",
+"conf": 0.9959080455898492,
+"x0": 427.0,
+"y0": 2644.0,
+"x1": 885.0,
+"y1": 2707.0
+},
+{
+"text": "kazançlar",
+"conf": 0.9993727018051997,
+"x0": 1002.0,
+"y0": 2650.0,
+"x1": 1194.0,
+"y1": 2705.0
+},
+{
+"text": "ve otel içi müşterilere sağlanan diğer hizmetlerden",
+"conf": 0.6826975535681572,
+"x0": 1209.0,
+"y0": 2646.0,
+"x1": 2174.0,
+"y1": 2711.0
+},
+{
+"text": "elde   edilen  kazançlar",
+"conf": 0.6309540128172905,
+"x0": 286.0,
+"y0": 2697.0,
+"x1": 711.0,
+"y1": 2754.0
+},
+{
+"text": "olarak   nitelendirilmektedir.",
+"conf": 0.5721580662090481,
+"x0": 857.0,
+"y0": 2702.0,
+"x1": 1380.0,
+"y1": 2754.0
+},
+{
+"text": "Odalar   tutulduğunda",
+"conf": 0.9291761884893763,
+"x0": 1394.0,
+"y0": 2705.0,
+"x1": 1794.0,
+"y1": 2762.0
+},
+{
+"text": "ve",
+"conf": 0.6801360390757127,
+"x0": 1806.0,
+"y0": 2717.0,
+"x1": 1859.0,
+"y1": 2753.0
+},
+{
+"text": "odalara",
+"conf": 0.9999657115273297,
+"x0": 1874.0,
+"y0": 2708.0,
+"x1": 2024.0,
+"y1": 2757.0
+},
+{
+"text": "verilen",
+"conf": 0.9999795891677792,
+"x0": 2037.0,
+"y0": 2711.0,
+"x1": 2174.0,
+"y1": 2756.0
+},
+{
+"text": "hizmetler sağlandığında",
+"conf": 0.9968265521167592,
+"x0": 282.0,
+"y0": 2750.0,
+"x1": 737.0,
+"y1": 2810.0
+},
+{
+"text": "muhasebelestirilmektedir.",
+"conf": 0.8359893560648336,
+"x0": 828.0,
+"y0": 2753.0,
+"x1": 1318.0,
+"y1": 2813.0
+},
+{
+"text": "Faiz",
+"conf": 0.9994096554865529,
+"x0": 284.0,
+"y0": 2846.0,
+"x1": 381.0,
+"y1": 2890.0
+},
+{
+"text": "geliri:",
+"conf": 0.9943027630880745,
+"x0": 372.0,
+"y0": 2834.0,
+"x1": 509.0,
+"y1": 2902.0
+},
+{
+"text": "Faiz geliri, kalan anapara bakiyesi ile beklenen ömrü boyunca ilgili finansal varlıktan elde edilecek",
+"conf": 0.8744819141325901,
+"x0": 282.0,
+"y0": 2932.0,
+"x1": 2185.0,
+"y1": 3001.0
+},
+{
+"text": "tahmini nakit girişlerini söz konusu varlığın kayıtlı değerine indirgeyen efektif faiz oranı nispetinde",
+"conf": 0.7003386127844576,
+"x0": 279.0,
+"y0": 2985.0,
+"x1": 2186.0,
+"y1": 3062.0
+},
+{
+"text": "ilgili dönemde tahakkuk ettirilir.",
+"conf": 0.6837684164338409,
+"x0": 277.0,
+"y0": 3036.0,
+"x1": 893.0,
+"y1": 3098.0
+},
+{
+"text": "20",
+"conf": 0.9999727732444236,
+"x0": 1206.0,
+"y0": 3235.0,
+"x1": 1261.0,
+"y1": 3279.0
+},
+{
+"text": "Grup",
+"conf": 0.9999773502349854,
+"x0": 1056.2067921168066,
+"y0": 681.0967805394006,
+"x1": 1182.7932078831934,
+"y1": 747.9032194605994
+},
+{
+"text": "Grup",
+"conf": 0.9999708533287048,
+"x0": 754.2412184612525,
+"y0": 1636.0967805394005,
+"x1": 871.7587815387475,
+"y1": 1702.9032194605995
+},
+{
+"text": "gelir",
+"conf": 0.9999571903437976,
+"x0": 1709.1579833204635,
+"y0": 2452.7404923310564,
+"x1": 1809.8420166795365,
+"y1": 2514.2595076689436
+},
+{
+"text": "gelen",
+"conf": 0.9973912194510467,
+"x0": 1763.3516732326157,
+"y0": 2596.051066603255,
+"x1": 1876.6483267673843,
+"y1": 2658.948933396745
+},
+{
+"text": "gelen",
+"conf": 0.9999942956124749,
+"x0": 885.2599556283028,
+"y0": 2645.130543266635,
+"x1": 999.7400443716972,
+"y1": 2705.869456733365
+},
+{
+"text": "gelir",
+"conf": 0.9998284401986187,
+"x0": 744.2103500411844,
+"y0": 2696.778747046841,
+"x1": 847.7896499588156,
+"y1": 2759.221252953159
+},
+{
+"text": "gelir",
+"conf": 0.9999361319652913,
+"x0": 729.102633403899,
+"y0": 2747.593602265178,
+"x1": 834.897366596101,
+"y1": 2814.406397734822
+}
+]
+}

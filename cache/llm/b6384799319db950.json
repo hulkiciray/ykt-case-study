@@ -1,0 +1,67 @@
+{
+  "decisions": [
+    {
+      "row_id": "n11_p53_r10",
+      "relation": "equals_movement",
+      "col": 2,
+      "confidence": 0.95,
+      "reason": "The row 'Makul değer değişikliğinden kaynaklanan kazanç' total (col 2) is 151350000 for 2011, matching the summary flow value for 2011."
+    },
+    {
+      "row_id": "n11_p54_r15",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "Values are balances at 2011-12-31 and 2012-12-31, not flows for 2011."
+    },
+    {
+      "row_id": "n11_p54_r16",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "Values are balances at 2011-12-31 and 2012-12-31, not flows for 2011."
+    },
+    {
+      "row_id": "n11_p54_r18",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "Values are balances at 2011-12-31 and 2012-12-31, not flows for 2011."
+    },
+    {
+      "row_id": "n11_p54_r19",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "Values are balances at 2011-12-31 and 2012-12-31, not flows for 2011."
+    },
+    {
+      "row_id": "n11_p54_r17",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "Values are balances at 2011-12-31 and 2012-12-31, not flows for 2011."
+    },
+    {
+      "row_id": "n11_p53_r11",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.95,
+      "reason": "Row is closing balance at 2011-12-31, summary item is a flow for 2011, so no equals_total or equals_movement."
+    },
+    {
+      "row_id": "n11_p53_r09",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "Row shows outflows for 2011, but summary item is total gain from valuation changes, not a single movement."
+    },
+    {
+      "row_id": "n11_p53_r08",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "Row shows acquisitions for 2011, not the valuation difference flow."
+    }
+  ]
+}

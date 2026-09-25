@@ -1,0 +1,23 @@
+{
+  "_comment": "Hand-labelled links for note 11, read from PDF pages 5-7 and 53-54. Used only to set the method A threshold and to evaluate both methods. Row ids refer to outputs/summary_tables.json and outputs/note_rows.json.",
+  "11": [
+    {"summary_row": "p5_r12", "col": "v0", "note_row": "n11_p53_r05", "relation": "equals_total"},
+    {"summary_row": "p5_r12", "col": "v0", "note_row": "n11_p53_r06", "relation": "equals_total"},
+    {"summary_row": "p5_r12", "col": "v0", "note_row": "n11_p54_r19", "relation": "equals_total"},
+    {"summary_row": "p5_r12", "col": "v0", "note_row": "n11_p54_r15", "relation": "breakdown_component"},
+    {"summary_row": "p5_r12", "col": "v0", "note_row": "n11_p54_r16", "relation": "breakdown_component"},
+    {"summary_row": "p5_r12", "col": "v0", "note_row": "n11_p54_r17", "relation": "breakdown_component"},
+    {"summary_row": "p5_r12", "col": "v0", "note_row": "n11_p54_r18", "relation": "breakdown_component"},
+
+    {"summary_row": "p5_r12", "col": "v1", "note_row": "n11_p53_r01", "relation": "equals_opening_balance"},
+    {"summary_row": "p5_r12", "col": "v1", "note_row": "n11_p53_r11", "relation": "equals_total"},
+    {"summary_row": "p5_r12", "col": "v1", "note_row": "n11_p54_r19", "relation": "equals_total"},
+    {"summary_row": "p5_r12", "col": "v1", "note_row": "n11_p54_r15", "relation": "breakdown_component"},
+    {"summary_row": "p5_r12", "col": "v1", "note_row": "n11_p54_r16", "relation": "breakdown_component"},
+    {"summary_row": "p5_r12", "col": "v1", "note_row": "n11_p54_r17", "relation": "breakdown_component"},
+    {"summary_row": "p5_r12", "col": "v1", "note_row": "n11_p54_r18", "relation": "breakdown_component"},
+
+    {"summary_row": "p7_r05", "col": "v0", "note_row": "n11_p53_r03", "relation": "equals_movement"},
+    {"summary_row": "p7_r05", "col": "v1", "note_row": "n11_p53_r10", "relation": "equals_movement"}
+  ]
+}

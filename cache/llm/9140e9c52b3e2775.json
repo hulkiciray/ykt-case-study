@@ -1,0 +1,74 @@
+{
+  "decisions": [
+    {
+      "row_id": "n11_p53_r03",
+      "relation": "equals_movement",
+      "col": 0,
+      "confidence": 0.95,
+      "reason": "The row 'Makul değer degişikliginden kaynaklanan kazanç' for 'Arazi ve Arsalar' in 2012 has the exact value 3896434 matching the summary item flow over 2012."
+    },
+    {
+      "row_id": "n11_p54_r15",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "The row reports fair values at year-end dates, a balance, not a flow over the period 2012."
+    },
+    {
+      "row_id": "n11_p53_r06",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "The row reports net book values at 31 Dec 2012, a balance, not a flow over the period."
+    },
+    {
+      "row_id": "n11_p54_r16",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "The row reports fair values at year-end dates, a balance, not a flow over the period 2012."
+    },
+    {
+      "row_id": "n11_p54_r18",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "The row reports fair values at year-end dates, a balance, not a flow over the period 2012."
+    },
+    {
+      "row_id": "n11_p54_r19",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "The row reports total fair values at year-end dates, a balance, not a flow over the period 2012."
+    },
+    {
+      "row_id": "n11_p54_r17",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "The row reports fair values at year-end dates, a balance, not a flow over the period 2012."
+    },
+    {
+      "row_id": "n11_p53_r02",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.85,
+      "reason": "The row 'Alı sonrası yapılan harcamalar' is a flow but the amount 19197311 does not match the summary item 3896434."
+    },
+    {
+      "row_id": "n11_p53_r04",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.85,
+      "reason": "The row 'Stoklara transferler' is a flow but the amount -72681523 does not match the summary item 3896434."
+    },
+    {
+      "row_id": "n11_p53_r05",
+      "relation": "unrelated",
+      "col": -1,
+      "confidence": 0.9,
+      "reason": "The row reports closing balances at 31 Dec 2012, a balance, not a flow over the period 2012."
+    }
+  ]
+}

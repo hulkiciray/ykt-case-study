@@ -1,0 +1,534 @@
+{
+"page": 31,
+"dpi": 300,
+"tokens": [
+{
+"text": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI AŞ VE BAĞLI ORTAKLIKLARI",
+"conf": 0.8119457199701293,
+"x0": 287.0,
+"y0": 117.0,
+"x1": 1999.0,
+"y1": 189.0
+},
+{
+"text": "BAĞIMSIZ DENETİMDEN GEÇMİŞ 31 ARALIK 2012 TARİHİ İTİBARİYLE",
+"conf": 0.7368248539080722,
+"x0": 285.0,
+"y0": 225.0,
+"x1": 1787.0,
+"y1": 290.0
+},
+{
+"text": "KONSOLİDE FİNANSAL TABLOLARA İLİŞKİN AÇIKLAYICI DİPNOTLAR",
+"conf": 0.46557901842364524,
+"x0": 285.0,
+"y0": 280.0,
+"x1": 1771.0,
+"y1": 345.0
+},
+{
+"text": "(Tüm tutarlar Türk Lirası (TL) olarak gösterilmiştir)",
+"conf": 0.7940406581247248,
+"x0": 286.0,
+"y0": 371.0,
+"x1": 996.0,
+"y1": 423.0
+},
+{
+"text": "2.",
+"conf": 0.9948335951496663,
+"x0": 172.0,
+"y0": 501.0,
+"x1": 211.0,
+"y1": 543.0
+},
+{
+"text": "FİNANSAL TABLOLARIN SUNUMUNA İLİŞKİN ESASLAR (devamı)",
+"conf": 0.9260662244917525,
+"x0": 285.0,
+"y0": 496.0,
+"x1": 1592.0,
+"y1": 561.0
+},
+{
+"text": "2.5",
+"conf": 0.9916428749972362,
+"x0": 168.0,
+"y0": 588.0,
+"x1": 242.0,
+"y1": 637.0
+},
+{
+"text": "Önemli Muhasebe Politikalarıı Özeti (devamı)",
+"conf": 0.9807206845100054,
+"x0": 284.0,
+"y0": 575.0,
+"x1": 1250.0,
+"y1": 650.0
+},
+{
+"text": "Finansal Araçlar (devamı)",
+"conf": 0.9959949304371923,
+"x0": 285.0,
+"y0": 679.0,
+"x1": 806.0,
+"y1": 740.0
+},
+{
+"text": "Finansal varlıklar (devamı)",
+"conf": 0.766025095249146,
+"x0": 282.0,
+"y0": 777.0,
+"x1": 801.0,
+"y1": 839.0
+},
+{
+"text": "Finansal varlıklarda değer_düsüklüğü (devamıl",
+"conf": 0.5677253382878787,
+"x0": 286.0,
+"y0": 873.0,
+"x1": 1167.0,
+"y1": 930.0
+},
+{
+"text": "İtfa edilmiş değerinden gösterilen finansal varlıklar için değer düşüklüğü tutarı gelecekte beklenen",
+"conf": 0.7190398196834669,
+"x0": 280.0,
+"y0": 960.0,
+"x1": 2180.0,
+"y1": 1037.0
+},
+{
+"text": "tahmini nakit  akımlarını finansal   varlığın etkin faiz oranı  üzerinden  iskonto edilerek   hesaplanan",
+"conf": 0.3267850516721184,
+"x0": 285.0,
+"y0": 1020.0,
+"x1": 2179.0,
+"y1": 1088.0
+},
+{
+"text": "bugünkü değeri ile defter değeri arasındaki farktır.",
+"conf": 0.7550170537943001,
+"x0": 285.0,
+"y0": 1072.0,
+"x1": 1219.0,
+"y1": 1134.0
+},
+{
+"text": "Maliyet   değerinden   gösterilen finansal",
+"conf": 0.8211914274828587,
+"x0": 285.0,
+"y0": 1174.0,
+"x1": 1049.0,
+"y1": 1234.0
+},
+{
+"text": "varlıklar  için değer   düşüklüğü   tutarı   gelecekte   beklenen",
+"conf": 0.4662894696120578,
+"x0": 1061.0,
+"y0": 1175.0,
+"x1": 2176.0,
+"y1": 1240.0
+},
+{
+"text": "tahmini nakit akımlarının benzer bir finansal varlık için olan cari faiz oranları ile iskonto edilerek",
+"conf": 0.8003074457511211,
+"x0": 282.0,
+"y0": 1223.0,
+"x1": 2179.0,
+"y1": 1288.0
+},
+{
+"text": "hesaplanan bugünkü değeri ile defter değeri arasındaki farktır. Bu tür bir değer düşüklüğü sonraki",
+"conf": 0.6020304851823652,
+"x0": 284.0,
+"y0": 1277.0,
+"x1": 2179.0,
+"y1": 1343.0
+},
+{
+"text": "dönemlerde iptal edilemez.",
+"conf": 0.9134026707120535,
+"x0": 286.0,
+"y0": 1331.0,
+"x1": 788.0,
+"y1": 1388.0
+},
+{
+"text": "Bir karşılık hesabının kullanılması yoluyla defter değerinin azaltıldığı ticari alacaklar haricinde, bütün",
+"conf": 0.6690538851617106,
+"x0": 282.0,
+"y0": 1429.0,
+"x1": 2179.0,
+"y1": 1495.0
+},
+{
+"text": "finansal   varlıklarda   değer düşüklüğü doğrudan ilgili finansal  varlığın kayıtlı  değerinden düşülür.",
+"conf": 0.5751979253951143,
+"x0": 281.0,
+"y0": 1478.0,
+"x1": 2177.0,
+"y1": 1551.0
+},
+{
+"text": "Ticari alacağın tahsil edilememesi durumunda söz konusu tutar karşılık hesabından düşülerek silinir.",
+"conf": 0.5836006248941011,
+"x0": 285.0,
+"y0": 1534.0,
+"x1": 2179.0,
+"y1": 1600.0
+},
+{
+"text": "Karşılık hesabındaki değişimler",
+"conf": 0.844060924072649,
+"x0": 282.0,
+"y0": 1587.0,
+"x1": 882.0,
+"y1": 1650.0
+},
+{
+"text": "tablosunda muhasebelestirilir.",
+"conf": 0.7652307407964315,
+"x0": 971.0,
+"y0": 1590.0,
+"x1": 1526.0,
+"y1": 1650.0
+},
+{
+"text": "Satılmaya hazır özkaynak araçlarının gerçeğe uygun değerinde değer düşüklüğü sonrasında meydana",
+"conf": 0.5613224044590412,
+"x0": 283.0,
+"y0": 1679.0,
+"x1": 2182.0,
+"y1": 1754.0
+},
+{
+"text": "artış, doğrudan özkaynaklarda muhasebelestirilir .",
+"conf": 0.6107951966577733,
+"x0": 395.0,
+"y0": 1736.0,
+"x1": 1308.0,
+"y1": 1800.0
+},
+{
+"text": "İtfa edilmiş değerinden gösterilen finansal  varlıklar  için, değer düşüklüğü zararı sonraki dönemde",
+"conf": 0.41957522481171955,
+"x0": 279.0,
+"y0": 1827.0,
+"x1": 2183.0,
+"y1": 1903.0
+},
+{
+"text": "azalırsa ve azalış değer düşüklüğü zararının muhasebelestirilmesi sonrasında",
+"conf": 0.7620072433959921,
+"x0": 282.0,
+"y0": 1887.0,
+"x1": 1707.0,
+"y1": 1949.0
+},
+{
+"text": "meydana",
+"conf": 0.9999127686590235,
+"x0": 1700.0,
+"y0": 1887.0,
+"x1": 1884.0,
+"y1": 1961.0
+},
+{
+"text": "bir olayla",
+"conf": 0.897796836152385,
+"x0": 1989.0,
+"y0": 1896.0,
+"x1": 2181.0,
+"y1": 1950.0
+},
+{
+"text": "iliskilendirilebiliyorsa; önceden muhasebeleştirilen değer düşüklüğü zararı, değer düşüklüğünün iptal",
+"conf": 0.6260284544545713,
+"x0": 282.0,
+"y0": 1941.0,
+"x1": 2182.0,
+"y1": 2007.0
+},
+{
+"text": "edileceği tarihte yatırımın değer düşüklüğü hiçbir zaman muhasabelestirilmemiş olması durumunda",
+"conf": 0.37519397721199865,
+"x0": 282.0,
+"y0": 1990.0,
+"x1": 2182.0,
+"y1": 2058.0
+},
+{
+"text": "ulaşacağı itfa edilmiş maliyet tutarını aşmayacak şekilde",
+"conf": 0.6576405994945529,
+"x0": 281.0,
+"y0": 2040.0,
+"x1": 1334.0,
+"y1": 2113.0
+},
+{
+"text": "tablosunda iptal edilir",
+"conf": 0.6177065341523487,
+"x0": 1421.0,
+"y0": 2051.0,
+"x1": 1844.0,
+"y1": 2108.0
+},
+{
+"text": "Satılmaya hazır özkaynak araçları için daha önceki dönemlerde karlzarar içinde muhasebelestirilen",
+"conf": 0.5460990874061517,
+"x0": 281.0,
+"y0": 2138.0,
+"x1": 2179.0,
+"y1": 2206.0
+},
+{
+"text": "değer  düşüklüğü zararı karlzarar  içinde iptal   edilmez.  Değer   düşüklüğü",
+"conf": 0.41243670455964865,
+"x0": 282.0,
+"y0": 2191.0,
+"x1": 1696.0,
+"y1": 2256.0
+},
+{
+"text": "zararı",
+"conf": 0.9509069225610067,
+"x0": 1705.0,
+"y0": 2209.0,
+"x1": 1818.0,
+"y1": 2246.0
+},
+{
+"text": "sonucunda oluşan",
+"conf": 0.8918766582309637,
+"x0": 1826.0,
+"y0": 2198.0,
+"x1": 2183.0,
+"y1": 2263.0
+},
+{
+"text": "gerçeğe uygun değer",
+"conf": 0.8433982755618302,
+"x0": 283.0,
+"y0": 2250.0,
+"x1": 681.0,
+"y1": 2306.0
+},
+{
+"text": "diger kapsamlı",
+"conf": 0.7525265210584119,
+"x0": 793.0,
+"y0": 2252.0,
+"x1": 1076.0,
+"y1": 2307.0
+},
+{
+"text": "içinde muhasebeleştirilir ve yatırımlara ilişkin yeniden",
+"conf": 0.7033050457271272,
+"x0": 1168.0,
+"y0": 2250.0,
+"x1": 2181.0,
+"y1": 2312.0
+},
+{
+"text": "değerleme karşılığı başlığı altında toplanır. Satılmaya hazır borçlanma senetleri için değer düşüklüğü",
+"conf": 0.7855773672796836,
+"x0": 282.0,
+"y0": 2300.0,
+"x1": 2182.0,
+"y1": 2366.0
+},
+{
+"text": "zararı; yatırımın gerçeğe uygun değerindeki artışın değer düşüklüğü zararının muhasebelestirilmesi",
+"conf": 0.5791484392082092,
+"x0": 282.0,
+"y0": 2351.0,
+"x1": 2182.0,
+"y1": 2417.0
+},
+{
+"text": "sonrasında   ortaya  çıkan bir   olayla   ilişkilendirilmesinin",
+"conf": 0.676706584435755,
+"x0": 282.0,
+"y0": 2404.0,
+"x1": 1376.0,
+"y1": 2467.0
+},
+{
+"text": "sÖZ",
+"conf": 0.6054680195110772,
+"x0": 1387.0,
+"y0": 2415.0,
+"x1": 1461.0,
+"y1": 2457.0
+},
+{
+"text": "konusu",
+"conf": 0.7925459903688987,
+"x0": 1477.0,
+"y0": 2415.0,
+"x1": 1620.0,
+"y1": 2460.0
+},
+{
+"text": "olması   durumlarda;",
+"conf": 0.6660748117922483,
+"x0": 1635.0,
+"y0": 2409.0,
+"x1": 2017.0,
+"y1": 2466.0
+},
+{
+"text": "sonraki",
+"conf": 0.6329918440874863,
+"x0": 2030.0,
+"y0": 2414.0,
+"x1": 2181.0,
+"y1": 2463.0
+},
+{
+"text": "dönemlerde karlzarar içinde iptal edilir.",
+"conf": 0.8397902898373267,
+"x0": 283.0,
+"y0": 2458.0,
+"x1": 1021.0,
+"y1": 2515.0
+},
+{
+"text": "Nakit ve nakit benzerleri",
+"conf": 0.968471602895043,
+"x0": 281.0,
+"y0": 2548.0,
+"x1": 749.0,
+"y1": 2603.0
+},
+{
+"text": "Nakit ve nakit benzeri kalemleri; nakit para, vadesiz mevduat ve satın alım tarihinden itibaren vadeleri",
+"conf": 0.6989567768334661,
+"x0": 280.0,
+"y0": 2637.0,
+"x1": 2182.0,
+"y1": 2703.0
+},
+{
+"text": "3 ay veya 3",
+"conf": 0.85225847012274,
+"x0": 283.0,
+"y0": 2694.0,
+"x1": 511.0,
+"y1": 2748.0
+},
+{
+"text": "daha az olan; hemen nakde çevrilebilecek olan ve önemli tutarda değer değişikliği",
+"conf": 0.6058908146711544,
+"x0": 639.0,
+"y0": 2692.0,
+"x1": 2182.0,
+"y1": 2758.0
+},
+{
+"text": "riski   taşımayan yüksek   likiditeye   sahip diğer   kısa   vadeli  yatırımlardı.   Grupun",
+"conf": 0.5369205207872304,
+"x0": 280.0,
+"y0": 2741.0,
+"x1": 1875.0,
+"y1": 2810.0
+},
+{
+"text": "nakit",
+"conf": 0.595783850663634,
+"x0": 1888.0,
+"y0": 2754.0,
+"x1": 1994.0,
+"y1": 2803.0
+},
+{
+"text": "ve",
+"conf": 0.7485294933038732,
+"x0": 2009.0,
+"y0": 2763.0,
+"x1": 2062.0,
+"y1": 2802.0
+},
+{
+"text": "nakit",
+"conf": 0.9450727503248401,
+"x0": 2075.0,
+"y0": 2758.0,
+"x1": 2183.0,
+"y1": 2802.0
+},
+{
+"text": "benzerleri 'Krediler ve Alacaklar' kategorisinde sınıflandırılmaktadır.",
+"conf": 0.6376110527593949,
+"x0": 282.0,
+"y0": 2800.0,
+"x1": 1573.0,
+"y1": 2862.0
+},
+{
+"text": "27",
+"conf": 0.9999983984201323,
+"x0": 1206.0,
+"y0": 3238.0,
+"x1": 1258.0,
+"y1": 3282.0
+},
+{
+"text": "gelir",
+"conf": 0.9999536717322972,
+"x0": 876.3070020560507,
+"y0": 1586.6717988226487,
+"x1": 979.6929979439493,
+"y1": 1651.3282011773513
+},
+{
+"text": "gelen",
+"conf": 0.999975583061946,
+"x0": 282.3516732326157,
+"y0": 1732.0510666032549,
+"x1": 396.6483267673843,
+"y1": 1794.9489333967451
+},
+{
+"text": "gelen",
+"conf": 0.9999808609649978,
+"x0": 1877.3516732326157,
+"y0": 1891.0062133307983,
+"x1": 1989.6483267673843,
+"y1": 1953.9937866692017
+},
+{
+"text": "gelir",
+"conf": 0.9999540449184348,
+"x0": 1325.1579833204635,
+"y0": 2046.778747046841,
+"x1": 1428.8420166795365,
+"y1": 2109.221252953159
+},
+{
+"text": "artışı,",
+"conf": 0.6605524171405287,
+"x0": 670.1621027475968,
+"y0": 2243.0816364570073,
+"x1": 799.8378972524032,
+"y1": 2314.9183635429927
+},
+{
+"text": "gelir",
+"conf": 0.9999802745314879,
+"x0": 1072.1579833204635,
+"y0": 2246.7259609713756,
+"x1": 1173.8420166795365,
+"y1": 2309.2740390286244
+},
+{
+"text": "aydan",
+"conf": 0.9999782486699589,
+"x0": 512.1579833204635,
+"y0": 2690.1839054422107,
+"x1": 637.8420166795365,
+"y1": 2754.8160945577893
+}
+]
+}

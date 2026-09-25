@@ -1,0 +1,614 @@
+{
+"page": 28,
+"dpi": 300,
+"tokens": [
+{
+"text": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. VE BAĞLI ORTAKLIKLARI",
+"conf": 0.6994623237108135,
+"x0": 290.0,
+"y0": 112.0,
+"x1": 2002.0,
+"y1": 184.0
+},
+{
+"text": "BAĞMMSIZ DENETİMDEN GEÇMİŞ 31 ARALIK 2012 TARİHİİTIBARİYLE",
+"conf": 0.5470782910353549,
+"x0": 291.0,
+"y0": 219.0,
+"x1": 1790.0,
+"y1": 288.0
+},
+{
+"text": "KONSOLIDE FINANSAL TABLOLARA İİŞKİN AÇIKLAYICI DIPNOTLAR",
+"conf": 0.43628099072282894,
+"x0": 287.0,
+"y0": 273.0,
+"x1": 1778.0,
+"y1": 346.0
+},
+{
+"text": "(Tüm tutarlar Türk Lirası (TL) olarak gösterilmiştir)",
+"conf": 0.8022575741822758,
+"x0": 289.0,
+"y0": 366.0,
+"x1": 996.0,
+"y1": 418.0
+},
+{
+"text": "2.",
+"conf": 0.6543205341312252,
+"x0": 175.0,
+"y0": 498.0,
+"x1": 214.0,
+"y1": 537.0
+},
+{
+"text": "FINANSAL TABLOLARIN SUNUMUNA İLİŞKİN ESASLAR (devamı)",
+"conf": 0.7378008501288296,
+"x0": 287.0,
+"y0": 487.0,
+"x1": 1593.0,
+"y1": 559.0
+},
+{
+"text": "2.5",
+"conf": 0.999286726447863,
+"x0": 175.0,
+"y0": 586.0,
+"x1": 244.0,
+"y1": 630.0
+},
+{
+"text": "Önemli Muhasebe Politikalarının Özeti (devamı)",
+"conf": 0.7689694012055149,
+"x0": 287.0,
+"y0": 573.0,
+"x1": 1254.0,
+"y1": 648.0
+},
+{
+"text": "Borçlanma Maliyetleri",
+"conf": 0.9784642943420481,
+"x0": 287.0,
+"y0": 674.0,
+"x1": 740.0,
+"y1": 736.0
+},
+{
+"text": "Kullanıma ve satışa hazır hale getirilmesi önemli ölçüde zaman isteyen varlıklar (özellikli varlıklar)",
+"conf": 0.6593506878341566,
+"x0": 288.0,
+"y0": 765.0,
+"x1": 2180.0,
+"y1": 833.0
+},
+{
+"text": "söz konusu olduğunda, satın alınması; yapımı veya üretimi ile doğrudan iliskilendirilen borçlanma",
+"conf": 0.5750325876375887,
+"x0": 288.0,
+"y0": 819.0,
+"x1": 2179.0,
+"y1": 885.0
+},
+{
+"text": "maliyetleri;   ilgili varlık kullanıma veya satışa hazır hale getirilene kadar varlığın maliyetine dahil",
+"conf": 0.6122338769108121,
+"x0": 287.0,
+"y0": 868.0,
+"x1": 2183.0,
+"y1": 941.0
+},
+{
+"text": "edilmektedir.",
+"conf": 0.9979109993678107,
+"x0": 289.0,
+"y0": 925.0,
+"x1": 544.0,
+"y1": 974.0
+},
+{
+"text": "yatırım   amaçlı gayrimenkullerini kullanıma hazır hale getirene kadar karşılaştığı  borçlanma",
+"conf": 0.4880368167043166,
+"x0": 405.0,
+"y0": 1011.0,
+"x1": 2183.0,
+"y1": 1085.0
+},
+{
+"text": "maliyetlerini; varlığın maliyetine dahil etmektedir.",
+"conf": 0.7561202055809361,
+"x0": 288.0,
+"y0": 1069.0,
+"x1": 1219.0,
+"y1": 1129.0
+},
+{
+"text": "Diğer tüm borçlanma maliyetleri, oluştukları dönemde",
+"conf": 0.7931677145868813,
+"x0": 286.0,
+"y0": 1161.0,
+"x1": 1295.0,
+"y1": 1218.0
+},
+{
+"text": "tablosuna kaydedilmektedir.",
+"conf": 0.9483431158437668,
+"x0": 1385.0,
+"y0": 1161.0,
+"x1": 1919.0,
+"y1": 1226.0
+},
+{
+"text": "Yatırım Amaçlı Gayrimenkuller",
+"conf": 0.8978424074857865,
+"x0": 289.0,
+"y0": 1254.0,
+"x1": 922.0,
+"y1": 1310.0
+},
+{
+"text": "Yatırım  amaçlı gayrimenkuller, kira   velveya değer artış kazancı elde etmek amacıyla elde tutulan",
+"conf": 0.43535148514169497,
+"x0": 287.0,
+"y0": 1340.0,
+"x1": 2186.0,
+"y1": 1415.0
+},
+{
+"text": "gayrimenkuller",
+"conf": 0.9996100730470469,
+"x0": 284.0,
+"y0": 1391.0,
+"x1": 584.0,
+"y1": 1454.0
+},
+{
+"text": "ilk olarak maliyet değerleri ve buna dahil olan işlem maliyetleri ile ölçülürler .",
+"conf": 0.6283078922086646,
+"x0": 683.0,
+"y0": 1396.0,
+"x1": 2185.0,
+"y1": 1463.0
+},
+{
+"text": "Başlangıç   muhasebeleştirmesi   sonrasında   yatırım   amaçlı   gayrimenkuller,  bilanço   tarihi  itibarıyla",
+"conf": 0.5401965750013877,
+"x0": 283.0,
+"y0": 1443.0,
+"x1": 2188.0,
+"y1": 1517.0
+},
+{
+"text": "piyasa  koşullarıı yansıtan gerçeğe uygun değer ile değerlenirler.",
+"conf": 0.5336658845605328,
+"x0": 282.0,
+"y0": 1496.0,
+"x1": 1546.0,
+"y1": 1564.0
+},
+{
+"text": "Yatırım   amaçlı gayrimenkullerin",
+"conf": 0.7503393897741871,
+"x0": 1558.0,
+"y0": 1502.0,
+"x1": 2185.0,
+"y1": 1568.0
+},
+{
+"text": "gerçeğe uygun değerindeki değişikliklerden kaynaklanan kazanç veya zararlar olugtukları dönemde",
+"conf": 0.4176384424752676,
+"x0": 285.0,
+"y0": 1550.0,
+"x1": 2188.0,
+"y1": 1618.0
+},
+{
+"text": "tablosuna dahil edilirler .",
+"conf": 0.9173002968700117,
+"x0": 379.0,
+"y0": 1605.0,
+"x1": 840.0,
+"y1": 1657.0
+},
+{
+"text": "Yatırım amaçlı gayrimenkuller; satlmaları  veya kullanılamaz hale gelmeleri ve",
+"conf": 0.8098301334806222,
+"x0": 285.0,
+"y0": 1696.0,
+"x1": 1801.0,
+"y1": 1763.0
+},
+{
+"text": "'ından gelecekte",
+"conf": 0.683667748434567,
+"x0": 1881.0,
+"y0": 1701.0,
+"x1": 2188.0,
+"y1": 1763.0
+},
+{
+"text": "herhangi bir ekonomik yarar sağlanamayacağının belirlenmesi durumunda bilanço  dışı bırakılılar.",
+"conf": 0.5539802908199795,
+"x0": 283.0,
+"y0": 1743.0,
+"x1": 2186.0,
+"y1": 1818.0
+},
+{
+"text": "Yatırım",
+"conf": 0.6470118138803133,
+"x0": 287.0,
+"y0": 1804.0,
+"x1": 436.0,
+"y1": 1848.0
+},
+{
+"text": "amaçlı   gayrimenkulun",
+"conf": 0.660184836911562,
+"x0": 458.0,
+"y0": 1795.0,
+"x1": 905.0,
+"y1": 1862.0
+},
+{
+"text": "kullanım",
+"conf": 0.9926939711670574,
+"x0": 920.0,
+"y0": 1803.0,
+"x1": 1095.0,
+"y1": 1854.0
+},
+{
+"text": "süresini",
+"conf": 0.963378067453866,
+"x0": 1112.0,
+"y0": 1805.0,
+"x1": 1268.0,
+"y1": 1854.0
+},
+{
+"text": "doldurmasından",
+"conf": 0.9582726348783277,
+"x0": 1287.0,
+"y0": 1804.0,
+"x1": 1595.0,
+"y1": 1859.0
+},
+{
+"text": "veya   satışından   kaynaklanan",
+"conf": 0.7640688302357533,
+"x0": 1612.0,
+"y0": 1807.0,
+"x1": 2185.0,
+"y1": 1870.0
+},
+{
+"text": "karlzarar, oluştukları dönemde",
+"conf": 0.9155804792255815,
+"x0": 284.0,
+"y0": 1851.0,
+"x1": 860.0,
+"y1": 1911.0
+},
+{
+"text": "tablosuna dahil edilir.",
+"conf": 0.9118003953886011,
+"x0": 950.0,
+"y0": 1857.0,
+"x1": 1358.0,
+"y1": 1907.0
+},
+{
+"text": "Transferler; yatırım amaçlı gayrimenkullerin kullanımında bir değişiklik olduğunda yapılı. Gerçeğe",
+"conf": 0.5246150083759122,
+"x0": 283.0,
+"y0": 1938.0,
+"x1": 2186.0,
+"y1": 2017.0
+},
+{
+"text": "uygun",
+"conf": 0.9996600224582189,
+"x0": 283.0,
+"y0": 2006.0,
+"x1": 409.0,
+"y1": 2055.0
+},
+{
+"text": "deger",
+"conf": 0.5472622467987268,
+"x0": 426.0,
+"y0": 2000.0,
+"x1": 544.0,
+"y1": 2052.0
+},
+{
+"text": "esasına   göre",
+"conf": 0.760050467710299,
+"x0": 560.0,
+"y0": 2003.0,
+"x1": 815.0,
+"y1": 2055.0
+},
+{
+"text": "izlenen   yatırım",
+"conf": 0.9842514731079143,
+"x0": 828.0,
+"y0": 1999.0,
+"x1": 1136.0,
+"y1": 2059.0
+},
+{
+"text": "amaçlı",
+"conf": 0.9986239713825686,
+"x0": 1153.0,
+"y0": 2003.0,
+"x1": 1284.0,
+"y1": 2057.0
+},
+{
+"text": "gayrimenkulden,",
+"conf": 0.7502912508378154,
+"x0": 1301.0,
+"y0": 2003.0,
+"x1": 1624.0,
+"y1": 2060.0
+},
+{
+"text": "sahibi",
+"conf": 0.999897408805145,
+"x0": 1638.0,
+"y0": 2006.0,
+"x1": 1761.0,
+"y1": 2055.0
+},
+{
+"text": "tarafindan",
+"conf": 0.9989498100323365,
+"x0": 1775.0,
+"y0": 2006.0,
+"x1": 1972.0,
+"y1": 2055.0
+},
+{
+"text": "kullanılan",
+"conf": 0.6564354944780252,
+"x0": 1989.0,
+"y0": 2008.0,
+"x1": 2184.0,
+"y1": 2057.0
+},
+{
+"text": "gayrimenkul sııfina  yapılan bir transferde; transfer sonrasında yapılan muhasebeleştirme işlemindeki",
+"conf": 0.7586462831971014,
+"x0": 280.0,
+"y0": 2040.0,
+"x1": 2188.0,
+"y1": 2119.0
+},
+{
+"text": "tahmini maliyeti, anılan gayrimenkulun kullanım eklindeki değişikliğin gerçekleştiği tarihteki gerçeğe",
+"conf": 0.7948495101673156,
+"x0": 281.0,
+"y0": 2098.0,
+"x1": 2188.0,
+"y1": 2172.0
+},
+{
+"text": "uygun değeridir, Sahibi tarafindan kullanılan bir gayrimenkulün; gerçeğe uygun değer esasına göre",
+"conf": 0.5777196383355019,
+"x0": 281.0,
+"y0": 2154.0,
+"x1": 2188.0,
+"y1": 2226.0
+},
+{
+"text": "gösterilecek",
+"conf": 0.9509324020039747,
+"x0": 281.0,
+"y0": 2202.0,
+"x1": 521.0,
+"y1": 2268.0
+},
+{
+"text": "yatırım",
+"conf": 0.9535752064610755,
+"x0": 538.0,
+"y0": 2206.0,
+"x1": 692.0,
+"y1": 2269.0
+},
+{
+"text": "amaçlı",
+"conf": 0.999298458710093,
+"x0": 717.0,
+"y0": 2214.0,
+"x1": 854.0,
+"y1": 2266.0
+},
+{
+"text": "bir   gayrimenkule",
+"conf": 0.9134467454579004,
+"x0": 877.0,
+"y0": 2203.0,
+"x1": 1234.0,
+"y1": 2272.0
+},
+{
+"text": "dönüşmesi",
+"conf": 0.9935295706705923,
+"x0": 1256.0,
+"y0": 2213.0,
+"x1": 1466.0,
+"y1": 2270.0
+},
+{
+"text": "durumunda,",
+"conf": 0.9676380312301746,
+"x0": 1490.0,
+"y0": 2208.0,
+"x1": 1728.0,
+"y1": 2273.0
+},
+{
+"text": "işletme;",
+"conf": 0.5215707506383087,
+"x0": 1750.0,
+"y0": 2217.0,
+"x1": 1907.0,
+"y1": 2271.0
+},
+{
+"text": "kullanmmdaki",
+"conf": 0.7483102072391739,
+"x0": 1931.0,
+"y0": 2219.0,
+"x1": 2186.0,
+"y1": 2269.0
+},
+{
+"text": "değişikliğin  gerçekleştiği tarihe kadar 'Maddi Duran Varlıklar?a uygulanan muhasebe politikasını",
+"conf": 0.4924983949276724,
+"x0": 279.0,
+"y0": 2256.0,
+"x1": 2189.0,
+"y1": 2333.0
+},
+{
+"text": "Finansal Araçlar",
+"conf": 0.9043144162997488,
+"x0": 281.0,
+"y0": 2444.0,
+"x1": 623.0,
+"y1": 2499.0
+},
+{
+"text": "Finansal varlıklar",
+"conf": 0.6856529478095822,
+"x0": 281.0,
+"y0": 2535.0,
+"x1": 620.0,
+"y1": 2587.0
+},
+{
+"text": "Gerçeğe uygun değer farkı k#r veya zarara yansıılan finansal  varlık olarak  sınıflanan ve gerçeğe",
+"conf": 0.5985621209820474,
+"x0": 280.0,
+"y0": 2622.0,
+"x1": 2186.0,
+"y1": 2696.0
+},
+{
+"text": "uygun değerinden kayıtlara alınanlar haricindeki finansal varlıklar, gerçeğe uygun piyasa değeri ile",
+"conf": 0.6751830529720043,
+"x0": 281.0,
+"y0": 2676.0,
+"x1": 2183.0,
+"y1": 2749.0
+},
+{
+"text": "alı işlemiyle doğrudan ilişkilendirilebilen harcamaların toplam tutarı üzerinden muhasebelestirilir.",
+"conf": 0.5209879187642743,
+"x0": 281.0,
+"y0": 2728.0,
+"x1": 2183.0,
+"y1": 2800.0
+},
+{
+"text": "Yatırım",
+"conf": 0.6438444650042063,
+"x0": 286.0,
+"y0": 2784.0,
+"x1": 434.0,
+"y1": 2833.0
+},
+{
+"text": "araçlarının ilgili piyasa tarafından belirlenen süreye uygun olarak  teslimatı  kosulunu taşıyan",
+"conf": 0.7957236045363771,
+"x0": 432.0,
+"y0": 2773.0,
+"x1": 2185.0,
+"y1": 2859.0
+},
+{
+"text": "bir kontrata bağlı olan finansal varlıkların alımı veya satışı sonucunda ilgili varlıklar, işlem tarihinde",
+"conf": 0.5192416250507925,
+"x0": 282.0,
+"y0": 2835.0,
+"x1": 2182.0,
+"y1": 2904.0
+},
+{
+"text": "kayıtlara alınır veya kayıtlardan çıkarılır .",
+"conf": 0.8809652683293968,
+"x0": 282.0,
+"y0": 2888.0,
+"x1": 1045.0,
+"y1": 2953.0
+},
+{
+"text": "24",
+"conf": 0.7160907599658423,
+"x0": 1206.0,
+"y0": 3235.0,
+"x1": 1258.0,
+"y1": 3277.0
+},
+{
+"text": "Grup,",
+"conf": 0.910661656386674,
+"x0": 283.1733821894638,
+"y0": 1011.0902578521221,
+"x1": 412.8266178105362,
+"y1": 1079.909742147878
+},
+{
+"text": "gelir",
+"conf": 0.9994548137903251,
+"x0": 1290.2599556283028,
+"y0": 1161.7118424561347,
+"x1": 1392.7400443716972,
+"y1": 1225.2881575438653
+},
+{
+"text": "olup",
+"conf": 0.984931760382821,
+"x0": 579.3647861726316,
+"y0": 1390.090257852122,
+"x1": 683.6352138273684,
+"y1": 1458.909742147878
+},
+{
+"text": "gelir-",
+"conf": 0.5420197878818523,
+"x0": 284.3070020560507,
+"y0": 1599.6717988226487,
+"x1": 386.6929979439493,
+"y1": 1664.3282011773513
+},
+{
+"text": "satışı",
+"conf": 0.957808740952396,
+"x0": 1795.357742645497,
+"y0": 1702.112117501937,
+"x1": 1900.642257354503,
+"y1": 1764.887882498063
+},
+{
+"text": "gelir",
+"conf": 0.9999716912727409,
+"x0": 855.2599556283028,
+"y0": 1852.8712999432762,
+"x1": 958.7400443716972,
+"y1": 1914.1287000567238
+},
+{
+"text": "uygular.",
+"conf": 0.8324624531472633,
+"x0": 283.10263340389895,
+"y0": 2308.6132750956276,
+"x1": 439.89736659610105,
+"y1": 2375.3867249043724
+}
+]
+}

@@ -1,0 +1,182 @@
+{
+"page": 77,
+"dpi": 300,
+"tokens": [
+{
+"text": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI AŞ. VE BAĞLI ORTAKLIKLARI",
+"conf": 0.8466808985861218,
+"x0": 295.0,
+"y0": 95.0,
+"x1": 2013.0,
+"y1": 175.0
+},
+{
+"text": "BAĞIMSIZ DENETİMDEN GEÇMİŞ 31 ARALIK 2012 TARİHİ İTİBARİYLE",
+"conf": 0.7700847173255247,
+"x0": 296.0,
+"y0": 206.0,
+"x1": 1798.0,
+"y1": 273.0
+},
+{
+"text": "KONSOLİDE FINANSAL TABLOLARA İLİŞKİN AÇIKLAYICI DİPNOTLAR",
+"conf": 0.7371216285310724,
+"x0": 295.0,
+"y0": 257.0,
+"x1": 1780.0,
+"y1": 331.0
+},
+{
+"text": "(Tüm tutarlar Turk Lirası (TL) olarak gösterilmiştir)",
+"conf": 0.5588840664410576,
+"x0": 294.0,
+"y0": 352.0,
+"x1": 1004.0,
+"y1": 404.0
+},
+{
+"text": "28.",
+"conf": 0.9920035367096665,
+"x0": 177.0,
+"y0": 449.0,
+"x1": 247.0,
+"y1": 493.0
+},
+{
+"text": "İLİŞKİLİ TARAF AÇIKLAMALARI",
+"conf": 0.9635274705757918,
+"x0": 290.0,
+"y0": 435.0,
+"x1": 1056.0,
+"y1": 507.0
+},
+{
+"text": "Şirket ile Şirket' in ilişkili tarafları olan bağlı ortaklıkları arasında gerçekleşen işlemler konsolidasyon",
+"conf": 0.4980430027489636,
+"x0": 292.0,
+"y0": 550.0,
+"x1": 2192.0,
+"y1": 627.0
+},
+{
+"text": "sırasında elimine edildiklerinden, bu notta açıklanmamıştır.",
+"conf": 0.7528914476965312,
+"x0": 293.0,
+"y0": 602.0,
+"x1": 1389.0,
+"y1": 671.0
+},
+{
+"text": "İlişkili  taraflardan",
+"conf": 0.7716043158201611,
+"x0": 287.0,
+"y0": 700.0,
+"x1": 650.0,
+"y1": 772.0
+},
+{
+"text": "olan   ticari   alacaklar  genellikle   gayrimenkul   kiralama   işlemlerinden",
+"conf": 0.5406849478905986,
+"x0": 661.0,
+"y0": 714.0,
+"x1": 1976.0,
+"y1": 781.0
+},
+{
+"text": "ve turizm",
+"conf": 0.8995588345832003,
+"x0": 1986.0,
+"y0": 728.0,
+"x1": 2186.0,
+"y1": 777.0
+},
+{
+"text": "otelcilik faaliyetlerinden kaynaklanmaktadır",
+"conf": 0.7863434900071942,
+"x0": 293.0,
+"y0": 762.0,
+"x1": 1137.0,
+"y1": 827.0
+},
+{
+"text": "ve",
+"conf": 0.9930707771412369,
+"x0": 1145.0,
+"y0": 781.0,
+"x1": 1195.0,
+"y1": 817.0
+},
+{
+"text": "yaklaşık   vadeleri",
+"conf": 0.82935898877955,
+"x0": 1208.0,
+"y0": 774.0,
+"x1": 1542.0,
+"y1": 829.0
+},
+{
+"text": "1",
+"conf": 0.8648476859851009,
+"x0": 1559.0,
+"y0": 783.0,
+"x1": 1575.0,
+"y1": 818.0
+},
+{
+"text": "aydı.  Alacaklar doğası gereği",
+"conf": 0.757918218947268,
+"x0": 1590.0,
+"y0": 771.0,
+"x1": 2191.0,
+"y1": 839.0
+},
+{
+"text": "teminatsızdır ve faiz işletilmemektedir.",
+"conf": 0.6873474021640658,
+"x0": 290.0,
+"y0": 816.0,
+"x1": 1022.0,
+"y1": 877.0
+},
+{
+"text": "İlişkili taraflara olan ticari borçlar genellikle turizmlotelcilik faaliyetlerinden doğmaktadır ve yaklaşık",
+"conf": 0.9545982225409042,
+"x0": 286.0,
+"y0": 914.0,
+"x1": 2191.0,
+"y1": 995.0
+},
+{
+"text": "vadeleri 1",
+"conf": 0.7714442387473581,
+"x0": 292.0,
+"y0": 977.0,
+"x1": 481.0,
+"y1": 1026.0
+},
+{
+"text": "Borçlara faiz işletilmemektedir.",
+"conf": 0.527983797892222,
+"x0": 604.0,
+"y0": 980.0,
+"x1": 1194.0,
+"y1": 1037.0
+},
+{
+"text": "73",
+"conf": 0.9999991570631338,
+"x0": 1209.0,
+"y0": 3271.0,
+"x1": 1258.0,
+"y1": 3315.0
+},
+{
+"text": "aydır:",
+"conf": 0.7106840684171997,
+"x0": 485.2103500411843,
+"y0": 974.0775901128246,
+"x1": 603.7896499588156,
+"y1": 1037.9224098871753
+}
+]
+}
